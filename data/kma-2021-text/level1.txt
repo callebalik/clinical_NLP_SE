@@ -1,0 +1,10 @@
+﻿Kod:		Kodtext:	Beskrivning:
+A		Utredning, anatomiskt perspektiv	Utredande åtgärder relaterade till mänsklig struktur och psyke
+D		Behandling, anatomiskt perspektiv	Behandlande åtgärder relaterade till mänsklig struktur och psyke
+G		Kompensation, information/undervisning, samordning, administrativ handläggning	Åtgärder som bäst hänförs till kompensation, information/undervisning, samordning eller administrativ handläggning
+P		ICF-associerade utredande åtgärder	Utredande åtgärder relaterade till ICF:s dimensioner: kroppsfunktioner, aktiviteter/delaktighet och omgivningsfaktorer
+Q		ICF-associerade behandlande åtgärder	Behandlande åtgärder relaterade till ICF:s dimensioner: kroppsfunktioner, aktiviteter/delaktighet och omgivningsfaktorer
+S		Anestesi	Anestesiåtgärder och blockader
+V		Standardiserade vårdförlopp (SVF)
+X		Övriga åtgärder	Självständiga åtgärder som inte kunnat placeras i något av de tidigare kapitlen
+Z		Tilläggskoder	Kompletterande information, t.ex. sidoangivelse, tidsangivelse

@@ -1,0 +1,192 @@
+﻿Kod:		Kodtext:	Beskrivning:
+AA		Operationer på kraniet och intrakraniella strukturer
+AB		Operationer på ryggmärgen och nervrötter
+AC		Operationer på perifera nerver
+AD		Operationer på autonoma nervsystemet
+AE		Diverse operationer på nervsystemet
+AW		Reoperationer på nervsystemet
+BA		Operationer på sköldkörteln
+BB		Operationer på bisköldkörtlar
+BC		Operationer på binjurar
+BD		Operationer på karotiskörtlar
+BW		Reoperationer på endokrina organ
+CA		Operationer på ögonhålor
+CB		Operationer på ögonlock och ögonbryn
+CC		Operationer på tårkörtlar och tårvägar
+CD		Operationer på bulben som helhet
+CE		Operationer på ögonmuskler
+CF		Operationer på bindehinnor
+CG		Operationer på hornhinnor och senhinnor
+CH		Operationer i främre kammare, kammarvinklar, regnbågshinnor och strålkroppar
+CJ		Operationer på linser
+CK		Operationer på åderhinnor, näthinnor och i glaskroppar
+CW		Reoperationer i ögonregionen
+DA		Operationer på ytteröron
+DB		Operationer på hörselgångar
+DC		Operationer på trumhinnor och mellanöron
+DD		Operationer på hörselbenskedjor
+DE		Operationer på vårtutskott och tinningben
+DF		Operationer på inneröron
+DG		Operationer på örontrumpeter
+DH		Operationer på näsan (exkl. skiljeväggen)
+DJ		Operationer på nässkiljeväggen
+DK		Ingrepp vid näsblödning
+DL		Näsplastik
+DM		Operationer på käkhålor
+DN		Operationer på silbenshålor
+DP		Operationer på pannhålor och kilbenshålor
+DQ		Operationer på struphuvudet
+DW		Reoperationer på öron, näsan, halsen och struphuvudet
+EA		Operationer på läppar
+EB		Operationer på tänder
+EC		Operationer på tandkött och tandutskott
+ED		Operationer på underkäken
+EE		Operationer på överkäken
+EF		Diverse operationer på käkar
+EG		Operationer på käkleder
+EH		Operationer på gommen
+EJ		Operationer på tungan och munbottnen
+EK		Operationer på kinder
+EL		Operationer på spottkörtlar
+EM		Operationer på tonsiller och adenoider
+EN		Operationer på svalget och närliggande mjukdelar
+EW		Reoperationer på läppar, tänder, käkar, munnen och svalget
+FA		Operationer på stora intratorakala vener
+FB		Operationer på arteria pulmonalis och dess grenar
+FC		Operationer på torakala och torakoabdominala aorta
+FD		Operationer för anomalier och defekter med relation till bröstaorta
+FE		Operationer på perikardiet
+FF		Operationer på förmak, förmaksseptum och lungvener
+FG		Operationer på trikuspidalklaffen
+FH		Operationer på kammarseptum
+FJ		Operationer på högra kammaren och pulmonalklaffen
+FK		Operationer på mitralklaffen
+FL		Operationer på vänstra kammaren
+FM		Operationer på aortaklaffen
+FN		Operationer på koronarartärer
+FP		Operationer vid hjärtarytmi och överledningsstörningar
+FQ		Operationer vid hjärt- och hjärt-lungtransplantationer
+FW		Reoperationer på hjärtat och stora intratorakala kärl
+FX		Åtgärder i samband med extrakorporeal eller assisterad cirkulation
+GA		Operationer på bröstväggen, lungsäckar och difragma
+GB		Operationer på luftstrupen
+GC		Operationer på luftrör
+GD		Operationer på lungor
+GE		Operationer i mediastinum
+GW		Reoperationer på bröstväggen, lungsäckar, mediastinum, diafragma, luftstrupen, luftrör och lungor
+HA		Operationer på bröstkörtlar
+HW		Reoperationer på bröstkörtlar
+JA		Operationer på bukväggen, mesenterium, bukhinnan och bukhinnenätet
+JB		Operationer på diafragma och vid gastroesofageal reflux
+JC		Operationer på matstrupen
+JD		Operationer på magsäcken och tolvfingertarmen
+JE		Operationer på appendix
+JF		Operationer på tunntarmen och tjocktarmen
+JG		Operationer på ändtarmen
+JH		Operationer på anus och perianal vävnad
+JJ		Operationer på levern
+JK		Operationer på gallvägarna
+JL		Operationer på bukspottkörteln
+JM		Operationer på mjälten
+JW		Reoperationer på mag-tarmkanalen och därtill hörande organ
+JX		Operationer i bukhålan eller på bukvägg med annan eller överlappande anatomisk lokalisation
+KA		Operationer på njurar inklusive njurbäcken
+KB		Operationer på urinledaren
+KC		Operationer på urinblåsan
+KD		Operationer på urinröret
+KE		Operationer på prostata och sädesblåsor
+KF		Operationer på pungen och punginnehållet
+KG		Operationer på penis
+KK		Operationer på vävnaden bakom bukhinnan
+KW		Reoperationer på urinvägar, manliga könsorgan och vävnaden bakom bukhinnan
+KX		Operationer i bukhålan på urinvägar eller retroperitoneala strukturer med annan eller överlappande anatomisk lokalisation
+LA		Operationer på äggstockar
+LB		Operationer på äggledare
+LC		Operationer på livmodern och dess upphängningsapparat
+LD		Operationer på livmoderhalsen
+LE		Operationer på slidan
+LF		Operationer på vulva och perineum
+LG		Steriliseringsoperationer
+LW		Reoperationer på kvinnliga könsorgan
+MA		Ingrepp före eller i samband med förlossning
+MB		Ingrepp efter förlossning eller abort
+MC		Kejsarsnitt och obstetrisk laparotomi
+MW		Reoperationer efter obstetriska ingrepp
+NA		Operationer på kotpelaren och nacken
+NB		Operationer på axlar och överarmar
+NC		Operationer på armbågar och underarmar
+ND		Operationer på handleder och händer
+NE		Operationer på bäckenet
+NF		Operationer på höftleder och lår
+NG		Operationer på knän och underben
+NH		Operationer på fotleder och fötter
+NX		Operationer på andra angivna regioner av muskuloskeletala systemet
+QA		Åtgärder på huden i huvud-halsregionen
+QB		Åtgärder på huden på bålen
+QC		Åtgärder på huden på övre extremiteter
+QD		Åtgärder på huden på nedre extremiteter
+QW		Reoperationer på huden
+QX		Åtgärder på huden, ospecificerad region
+TA		Mindre neurokirurgiska ingrepp
+TB		Mindre ingrepp på endokrina organ
+TC		Mindre ingrepp i ögonregion
+TD		Mindre ingrepp på öron, näsan, halsen och struphuvudet
+TE		Mindre ingrepp på läppar, tänder, käkar, munnen och svalget
+TF		Mindre ingrepp på hjärtat och stora intratorakala kärl
+TG		Mindre ingrepp på och i brösthålan
+TH		Mindre ingrepp på bröstkörtlar
+TJ		Mindre ingrepp på mag-tarmkanalen och därtill hörande organ
+TK		Mindre ingrepp på urinvägar och manliga könsorgan
+TL		Mindre ingrepp på kvinnliga könsorgan
+TM		Mindre obstetriska ingrepp
+TN		Mindre ortopediska ingrepp
+TP		Mindre ingrepp på perifera kärl och lymfsystemet
+TQ		Mindre ingrepp på huden
+UD		Transluminal endoskopi av öron, näsan, halsen och struphuvudet
+UE		Transluminal endoskopi av munnen och svalget
+UG		Transluminal endoskopi av bröstväggen, lungsäckar, mediastinum, diafragma, struphuvudet, luftrör och lungor
+UJ		Transluminal endoskopi av mag-tarmkanalen	Termerna ”endoskopi” och ”endoskopisk” i kapitel J och i detta avsnitt avser transluminal gastrointestinal endoskopi om ej annat anges.
+UK		Transluminala endoskopier av urinvägar
+UL		Transluminala endoskopier av kvinnliga könsorgan
+VA		Operationer på torakala aorta
+VB		Operationer på bukaorta
+VC		Operationer på truncus brachiocephalicus, a. carotis communis och dess grenar
+VE		Operationer på a. subclavia och dess grenar
+VG		Operationer på visceralartärer
+VH		Operationer på a. iliaca
+VK		Operationer på a. femoralis och dess grenar
+VM		Operationer på hals- eller armven
+VP		Operationer på viscerala vener
+VQ		Operationer på vena cava inferior, bäcken- och gonadvener
+VS		Operationer på djupa vener i ben
+VU		Operationer på ytliga vener i ben
+VW		Reoperationer
+VX		Operationer på lymfsystemet
+XA		Diagnostiska åtgärder inom neurokirurgin
+XC		Diagnostiska åtgärder i ögonregionen
+XF		Diagnostiska åtgärder på hjärtat och stora kärl
+XG		Intraoperativa och endoskopiska torakala ultraljudsundersökningar
+XJ		Diagnostiska åtgärder på mag-tarmkanalen
+XK		Diagnostiska åtgärder på urinvägar och manliga könsorgan
+XL		Diagnostiska åtgärder på kvinnliga könsorgan
+XN		Diagnostiska åtgärder på rörelseapparaten
+XP		Diagnostiska åtgärder på perifera kärl
+XX		Allmänna diagnostiska åtgärder
+YC     		YC
+YF     		YF
+YG     		YG
+YJ    		YJ
+YK     		YK
+YN     		YN
+YP     		YP
+YQ     		YQ
+YW		Reoperation efter uttagning av organ eller vävnad till transplantation
+ZC		Tilläggskoder för ögonoperationer
+ZF		Tilläggskoder för kardiovaskulär kirurgi
+ZL		Tilläggskoder för gynekologiska ingrepp
+ZP		Generella villkor gällande operationer av perifera kärl och lymfatiska system
+ZQ		Generella villkor gällande operationer på hud
+ZS		Relation till tidigare operation	Tilläggskoden kan användas t.ex. för att ange att den aktuella operationen är del i ett flerseansförfarande
+ZU		Tilläggskoder för transluminal endoskopi
+ZX		Diverse omständigheter i samband med operation
+ZZ		Transplantater, lambåer och vävnadsexpandrar	Autotransplantat = från samma person
