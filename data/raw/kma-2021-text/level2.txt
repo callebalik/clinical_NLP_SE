@@ -1,0 +1,122 @@
+﻿Kod:		Kodtext:
+AA		Nervsystemet, kraniet och intrakraniella strukturer
+AB		Endokrina organ
+AC		Ögonregionen
+AD		Öron, näsa, hals och struphuvud
+AE		Läppar, tänder, käkar, mun och svalg
+AF		Hjärtat och de stora intratorakala kärlen
+AG		Bröstvägg, pleura, mediastinum, diafragma, trakea, bronker och lungor
+AH		Bröstkörtlar
+AJ		Gastrointestinalkanalen och därtill hörande organ (inkl. mjälte)
+AK		Njurar, urinvägar, manliga könsorgan och retroperitonal vävnad
+AL		Kvinnliga könsorgan
+AM		Graviditet och förlossning
+AN		Rörelseapparaten
+AP		Perifera kärl och lymfsystemet
+AQ		Hud och subkutana vävnader
+AR		Blod, blodbildande organ (exkl. mjälte)
+AU		Utredning av psykiskt tillstånd, psykologiska och psykosociala funktioner
+AV		Ej organrelaterad utredning
+AW		Annan specificerad utredning
+AX		Ospecificerad utredning
+DA		Nervsystemet, kraniet och intrakraniella strukturer
+DB		Endokrina organ
+DC		Ögonregionen
+DD		Öron, näsa, hals och struphuvud
+DE		Läppar, tänder, käkar, mun och svalg
+DF		Hjärtat och de stora intratorakala kärlen
+DG		Bröstvägg, pleura, mediastinum, diafragma, trakea, bronker och lungor
+DH		Bröstkörtlar
+DJ		Gastrointestinalkanalen och därtill hörande organ (inkl. mjälte)
+DK		Njurar, urinvägar, manliga könsorgan och retroperitonal vävnad
+DL		Kvinnliga könsorgan
+DM		Graviditet och förlossning
+DN		Rörelseapparaten
+DP		Perifera kärl och lymfsystemet
+DQ		Hud och subkutana vävnader
+DR		Blod, blodbildande organ (exkl. mjälte)
+DT		Farmakologisk behandling (läkemedel)
+DU		Behandling av psykiskt tillstånd, psykologiska och psykosociala funktioner
+DV		Ej organrelaterad behandling (exklusive läkemedel)
+DW		Annan specificerad behandling
+DX		Ospecificerad behandling
+GA		Kompensation
+GB		Information/undervisning
+GC		Samordning
+GD		Administrativ handläggning
+PA		Utredning av psykiska funktioner
+PB		Utredning av sinnesfunktioner och smärta
+PC		Utredning av röst- och talfunktioner
+PD		Utredning av hjärt-kärlfunktioner, blodbildnings-, immunsystemet och andningsfunktioner
+PE		Utredning av matsmältnings- och ämnesomsättningsfunktioner och endokrina funktioner
+PF		Utredning av funktioner i köns- och urinorganen samt reproduktiva funktioner
+PG		Utredning av neuromuskuloskeletala och rörelserelaterade funktioner
+PH		Utredning av funktioner i huden och därmed relaterade strukturer
+PJ		Utredning av förmåga till lärande och tillämpning av kunskap
+PK		Utredning av att genomföra allmänna uppgifter och krav
+PL		Utredning av att kommunicera
+PM		Utredning av förflyttning
+PN		Utredning av personlig vård
+PP		Utredning av hemliv
+PQ		Utredning av mellanmänskliga interaktioner och relationer
+PR		Utredning av arbets-, studie- och ekonomiskt liv
+PS		Utredning av socialt och medborgerligt liv
+PT		Utredning av omgivningen
+PV		Bedömning av behov av informerande, rådgivande och undervisande åtgärder
+QA		Behandling av psykiska funktioner
+QB		Behandling av sinnesfunktioner och smärtbehandling
+QC		Behandling av röst- och talfunktioner
+QD		Behandling av hjärt-kärlfunktioner, blodbildnings-, immunsystemet och andningsfunktioner
+QE		Behandling av matsmältnings- och ämnesomsättningsfunktioner och endokrina funktioner
+QF		Behandling av funktioner i köns- och urinorganen samt reproduktiva funktioner
+QG		Behandling av neuromuskuloskeletala och rörelserelaterade funktioner
+QH		Behandling av funktioner i huden och därmed relaterade strukturer
+QJ		Åtgärder som grund för lärande och att tillämpa kunskap
+QK		Behandling av förmåga att genomföra allmänna uppgifter och krav
+QL		Behandling av kommunikationsförmåga
+QM		Förflyttningsträning
+QN		Träning av personlig vård
+QP		Träning i hemliv
+QQ		Behandling av mellanmänskliga interaktioner och relationer
+QR		Träning av förmågan till arbets-, studie- och ekonomiskt liv
+QS		Träning av socialt och medborgerligt liv
+QT		Behandling genom omgivningspåverkan
+QV		Information/undervisning av patient/brukare
+QX		Åtgärder som ännu inte funnit sin plats i strukturen
+SA		Generell anestesi, intravenös induktion utan relaxation
+SB		Generell anestesi, intravenös induktion med relaxation,
+SC		Generell anestesi, induktion genom inhalation utan relaxation
+SD		Generell anestesi, induktion genom inhalation med relaxation
+SE		Intramuskulär induktion
+SF		Rektal induktion
+SG		Generell anestesi, utan uppgift om induktion
+SI		Ytlig anestesi
+SJ		Intravenös regionalanestesi
+SK		Ledningsanestesi
+SL		Intratekal anestesi (Spinalanestesi)
+SN		Epiduralanestesi
+SO		Övriga blockader
+SP		Åtgärder för att skapa venös tillgång till blodbanan
+SQ		Åtgärder för skapande av arteriell tillgång till blodbanan
+SR		Anestesiologisk övervakning under speciella förhållanden
+SS		Monitorering
+VA		Huvud- och halscancer
+VB		Cancer i matsmältningsorgan
+VC		Lungcancer och cancer i brösthålans organ
+VE		Malignt melanom och annan hudcancer
+VF		Cancer i mesotelial vävnad och mjukvävnad
+VG		Bröstcancer
+VH		Cancer i kvinnliga könsorgan
+VJ		Cancer i manliga könsorgan
+VK		Cancer i urinorgan
+VL		Cancer i ögat och centrala nervsystemet
+VM		Sköldkörtelcancer och cancer i andra endokrina körtlar
+VN		Lymfom, myelom och leukemi
+VP		Övrig och misstänkt cancer
+XS		Kontaktrelaterade åtgärder
+XT		Remisser
+XU		Tvångsåtgärder inom psykiatrisk verksamhet
+XV		Andra specificerade övriga åtgärder
+ZL		Tilläggskod avseende kvinnliga könsorgan
+ZV		Tilläggskoder
+ZX		Tilläggskoder för upprepade åtgärder

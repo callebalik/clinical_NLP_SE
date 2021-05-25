@@ -1,0 +1,32 @@
+﻿Kod:		Kodtext:
+VA9		SVF huvud- och halscancer
+VB0		SVF matstrupe- och magsäckscancer
+VB2		SVF tjock- och ändtarmscancer
+VB3		SVF analcancer
+VB4		SVF levercancer
+VB5		SVF cancer i gallblåsa och gallgång
+VB6		SVF cancer i bukspottkörtel och periampullärt
+VC0		SVF lungcancer
+VE0		SVF hudmelanom
+VF3		SVF buksarkom
+VF4		SVF neuroendokrina buktumörer
+VG9		SVF bröstcancer
+VH0		SVF vulvacancer
+VH2		SVF livmoderhalscancer
+VH3		SVF livmoderkroppscancer
+VH4		SVF äggstockscancer
+VJ0		SVF peniscancer
+VJ1		SVF prostatacancer
+VJ2		SVF testikelcancer
+VK0		SVF njurcancer
+VK1		SVF cancer i urinblåsan och urinvägarna
+VL2		SVF hjärntumör
+VM0		SVF sköldkörtelcancer
+VN0		SVF lymfom
+VN2		SVF myelom
+VN4		SVF akut lymfatisk leukemi
+VN5		SVF kronisk lymfatisk leukemi
+VN6		SVF akut myeloisk leukemi
+VP5		SVF skelett- och mjukdelssarkom
+VP8		SVF cancermisstanke vid allvarliga, ospecifika symtom
+VP9		SVF cancer med okänd primärtumör - CUP

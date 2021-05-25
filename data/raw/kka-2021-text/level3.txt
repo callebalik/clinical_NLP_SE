@@ -1,0 +1,1293 @@
+﻿Kod:		Kodtext:	Beskrivning:
+AAA		Diagnostiska intrakraniella operationer
+AAB		Exstirpationer och destruktioner av intrakraniella förändringar
+AAC		Operationer för aneurysm och andra intrakraniella kärloperationer
+AAD		Operationer p.g.a. kraniella och intrakraniella traumatiska förändringar
+AAE		Kraniobasala operationer
+AAF		Shuntoperationer på hjärnventrikel och intrakraniell cysta
+AAG		Stereotaktiska intrakraniella operationer
+AAH		Operationer på kranialnerver
+AAJ		Operationer p.g.a. epilepsi
+AAK		Operationer på kranium och hårda hjärnhinnan
+AAL		Endovaskulära intrakraniella operationer
+AAM		Operationer med punktion och dränage vid intrakraniella infektioner
+AAN		Operationer vid intrakraniella kongenitala missbildningar
+AAP		Rekonstruktiva operationer vid ansiktsförlamning
+AAU		Avlägsnande av implantat och externt fixationsmaterial från skallen
+AAW		Andra operationer på kraniet och intrakraniella strukturer
+ABA		Diagnostiska operationer på ryggmärgen och nervrötter
+ABB		Operationer för patologisk förändring i ryggmärgen och nervrötter
+ABC		Dekompressiva operationer på ryggmärgen och nervrötter
+ABD		Operationer på ryggmärgen och nervrötter p.g.a. smärta och funktionella störningar
+ABE		Operationer p.g.a. spinala missbildningar
+ABW		Andra operationer på ryggmärgen och nervrötter
+ACA		Diagnostiska operationer på perifera nerver
+ACB		Operationer p.g.a. patologisk förändring eller skada på perifera nerver
+ACC		Operationer på perifera nerver p.g.a. funktionella rubbningar
+ACW		Andra operationer på perifera nerver
+ADA		Operationer på sympatiska nervsystemet
+ADB		Operationer på vagusnerver
+ADW		Andra operationer på autonoma nervsystemet
+AEA		Operationer med stimuleringsutrustning och injektionsport i nervsystemet	Stimuleringsutrustning och injektionsport i AAA, AAG, AAW, ABD, ADB
+AWA		Reoperation för sårruptur efter ingrepp på nervsystemet
+AWB		Reoperation för ytlig infektion efter ingrepp på nervsystemet
+AWC		Reoperation för djup infektion efter ingrepp på nervsystemet
+AWD		Reoperation för ytlig blödning efter ingrepp på nervsystemet
+AWE		Reoperation för djup blödning efter ingrepp på nervsystemet
+AWW		Annan reoperation på nervsystemet
+BAA		Operationer på sköldkörteln
+BBA		Operationer på bisköldkörtlar
+BCA		Operationer på binjurar
+BDA		Operationer på karotiskörtlar
+BWA		Reoperation för sårruptur efter ingrepp på endokrina organ
+BWB		Reoperation för ytlig infektion efter ingrepp på endokrina organ
+BWC		Reoperation för djup infektion efter ingrepp på endokrina organ
+BWD		Reoperation för ytlig blödning efter ingrepp på endokrina organ
+BWE		Reoperation för djup blödning efter ingrepp på endokrina organ
+BWW		Annan reoperation på endokrina organ
+CAA		Punktioner, incisioner i och biopsier av ögonhålor
+CAB		Exstirpationer av patologisk förändring från ögonhålor
+CAC		Operationer på ögonhålors benväggar
+CAD		Utrymning av hel ögonhåla
+CAE		Operationer vid anoftalmus och efter enukleation eller evisceration av öga
+CAW		Andra operationer på ögonhålor
+CBA		Incisioner i och biopsier av ögonlock
+CBB		Incisioner i eller excisioner av ögonlock, avlägsnande av lokal förändring
+CBC		Operationer vid skador på ögonlock
+CBD		Rekonstruktioner av ögonlock
+CBG		Operationer för trikiasis
+CBH		Operationer på ögonvrå och ögonlockskanten
+CBJ		Operationer för ptos av ögonlock och ögonbryn
+CBK		Operationer för lagoftalmus och ögonlocksretraktion
+CBL		Operationer vid blefarospasm
+CBN		Operationer för entropion och ektropion
+CBW		Andra operationer på ögonlock
+CCA		Incisioner i och biopsier av tårkörtlar och tårkanaler
+CCB		Andra operationer på tårkörtlar
+CCC		Andra operationer på tårkanaler
+CCD		Rekonstruktiva operationer på tårvägar
+CCW		Andra operationer på tårvägar
+CDB		Avlägsnande av intraokulär främmande kropp
+CDC		Enukleationer och eviscerationer av ögat
+CDW		Andra operationer på bulben som helhet
+CEA		Biopsi av ögonmuskler
+CEB		Myektomier, myotomier, tenotomier av ögonmuskler
+CEC		Flyttningar av ögonmuskler
+CED		Veckningar av ögonmuskler
+CEE		Fixeringar av ögonmuskler
+CEF		Operationer vid skada eller efter tidigare operation på ögonmuskler
+CEW		Andra operationer på ögonmuskler
+CFA		Incisioner i och biopsier av bindehinnor
+CFB		Sutur, avlägsnande av främmande kropp i bindehinnor
+CFC		Avlägsnande av tumör eller lokal förändring
+CFD		Rekonstruktiva operationer på bindehinnor
+CFW		Andra operationer på bindehinnor
+CGA		Biopsier av hornhinnor och senhinnor
+CGB		Incisioner i hornhinnor och senhinnor
+CGC		Avlägsnande av främmande kropp i hornhinnor och senhinnor
+CGD		Operationer för refraktionsanomali
+CGE		Behandlingar av vävnadsförändringar i hornhinnor och senhinnor
+CGF		Behandlingar av perforerande sår i hornhinnor och senhinnor
+CGG		Rekonstruktiva operationer på hornhinnor och senhinnor
+CGW		Andra operationer på hornhinnor och senhinnor
+CHA		Biopsier av främre kammare, kammarvinklar, regnbågshinnor och strålkroppar
+CHB		Operationer i främre kammare och kammarvinkar
+CHC		Iridotomier och iridektomier
+CHD		Filtrationsoperationer
+CHE		Operationer för tumör och lokal förändring i regnbågshinnor
+CHF		Operationer på strålkroppar
+CHW		Andra operationer i främre kammare, kammarvinklar, på regnbågshinnor och strålkroppar
+CJA		Implantation av intraokulär kontaktlins
+CJB		Operationer vid sekundär katarakt
+CJC		Intrakapsulära kataraktextraktioner
+CJD		Extrakapsulära kataraktextraktioner
+CJE		Extrakapsulära kataraktoperationer med fakoemulsifikation
+CJF		Andra operationer med linsprotes
+CJG		Operationer vid luxerad lins
+CJW		Andra operationer på linser
+CKA		Biopsier av åderhinnor, näthinnor och glaskroppar
+CKB		Operationer vid korioidalavlossning
+CKC		Extraokulära operationer på åderhinnor, näthinnor och i glaskroppar
+CKD		Intraokulära operationer på åderhinnor, näthinnor och i glaskroppar
+CKE		Operationer vid vävnadsförändring (t.ex. tumör) i åderhinnor och näthinnor
+CKW		Andra operationer på åderhinnor, näthinnor och i glaskroppar
+CWA		Reoperation för sårruptur efter ingrepp i ögonregion
+CWB		Reoperation för ytlig infektion efter ingrepp i ögonregion
+CWC		Reoperation för djup infektion efter ingrepp i ögonregion
+CWD		Reoperation för ytlig blödning efter ingrepp i ögonregion
+CWE		Reoperation för djup blödning efter ingrepp i ögonregion
+CWF		Reoperation för anastomos- och suturinsufficiens efter ingrepp i ögonregion
+CWW		Annan reoperation i ögonregion
+DAA		DAA
+DAB		DAB
+DAC		DAC
+DAD		DAD
+DAW		DAW
+DBA		DBA
+DBB		DBB
+DBD		DBD
+DBW		DBW
+DCA		DCA
+DCB		DCB
+DCC		DCC
+DCD		DCD
+DCW		DCW
+DDA		DDA
+DDB		DDB
+DDC		DDC
+DDD		DDD
+DDE		DDE
+DDW		DDW
+DEA		DEA
+DEB		DEB
+DEC		DEC
+DED		DED
+DEE		DEE
+DEW		DEW
+DFA		DFA
+DFB		DFB
+DFD		DFD
+DFE		DFE
+DFW		DFW
+DGA		DGA
+DGB		DGB
+DGW		DGW
+DHA		DHA
+DHB		DHB
+DHC		DHC
+DHD		DHD
+DHW		DHW
+DJA		DJA
+DJB		DJB
+DJD		DJD
+DJW		DJW
+DKW		DKW
+DLD		DLD
+DLW		DLW
+DMA		DMA
+DMB		DMB
+DMC		DMC
+DMW		DMW
+DNA		DNA
+DNB		DNB
+DNC		DNC
+DNW		DNW
+DPA		DPA
+DPB		DPB
+DPC		DPC
+DPW		DPW
+DQA		DQA
+DQB		DQB
+DQC		DQC
+DQD		DQD
+DQE		DQE
+DQW		DQW
+DWA		Reoperation för sårruptur efter ingrepp på öron, näsa, hals och struphuvud
+DWB		Reoperation för ytlig infektion efter ingrepp på öron, näsa, hals och struphuvud
+DWC		Reoperation för djup infektion efter ingrepp på öron, näsa, hals och struphuvud
+DWD		Reoperation för ytlig blödning efter ingrepp på öron, näsa, hals och struphuvud
+DWE		Reoperation för djup blödning efter ingrepp på öron, näsa, hals och struphuvud
+DWF		Reoperation för anastomos- och suturinsufficiens efter ingrepp på öron, näsa, hals och struphuvud
+DWW		Annan reoperation på öron, näsa, hals och struphuvud
+EAA		Incisioner i och resektioner av läpp
+EAB		Rekonstruktiva ingrepp på läpp
+EAW		Andra operationer på läpp
+EBA		Extraktioner och resektioner av tänder
+EBB		Rekonstruktiva ingrepp på tänder
+EBU		Avlägsnande av implantat och externt fixationsmaterial från tänder
+EBW		Andra operationer på tänder
+ECA		Incisioner i, biopsier och excisioner av tandkött och alveolarutskott
+ECB		Rekonstruktiva ingrepp på tandkött och alveolarutskott
+ECU		Avlägsnande av implantat och externt fixationsmaterial från alveolarutskott
+ECW		Andra operationer på tandkött och alveolarutskott
+EDA		Incisioner i och biopsier av underkäken
+EDB		Resektioner av underkäken
+EDC		Rekonstruktiva ingrepp på underkäken
+EDU		Avlägsnande av implantat och externt fixationsmaterial från underkäken
+EDW		Andra operationer på underkäken
+EEA		Incisioner i och biopsier av överkäken
+EEB		Resektioner och exstirpationer av överkäken
+EEC		Rekonstruktiva ingrepp på överkäken
+EEU		Avlägsnande av implantat och externt fixationsmaterial från överkäken
+EEW		Andra operationer på överkäken
+EFA		Resektioner och exstirpationer av lokal förändring i käkar
+EFB		Rekonstruktiva operationer på käkar
+EFU		Avlägsnande av implantat och externt fixationsmaterial från käkar
+EFW		Andra operationer på käkar
+EGA		Incisioner i, endoskopier, biopsier av käkleder
+EGB		Resektioner av käkleder
+EGC		Rekonstruktiva ingrepp på käkleder
+EGU		Avlägsnande av implantat och externt fixationsmaterial från käkleder
+EGW		Andra operationer på käkleder
+EHA		Incisioner i och biopsier av gommen
+EHB		Resektioner av gommen
+EHC		Rekonstruktiva ingrepp på gommen
+EHU		Avlägsnande av implantat och externt fixationsmaterial från gommen
+EHW		Andra operationer på gommen
+EJA		Incisioner i och biopsier av tungan och munbottnen
+EJB		Resektioner och exstirpationer av tungan och munbottnen
+EJC		Rekonstruktiva ingrepp på tungan och munbottnen
+EJW		Andra operationer på tungan och munbottnen
+EKA		Incisioner i och biopsier av kinder
+EKB		Resektioner av kinder
+EKC		Rekonstruktiva operationer på kinder
+EKW		Andra operationer på kinder
+ELA		Incisioner i och biopsier av spottkörtlar
+ELB		Resektioner och exstirpationer av spottkörtlar
+ELC		Rekonstruktiva ingrepp på spottkörtlar
+ELW		Andra operationer på spottkörtlar
+EMA		Incisioner i och biopsier av tonsiller och adenoider
+EMB		Resektioner och exstirpationer av tonsiller och adenoider
+EMC		Rekonstruktiva ingrepp på tonsiller och adenoider
+EMW		Andra operationer på tonsiller och adenoider
+ENA		Incisioner i och biopsier av svalget och närliggande mjukdelar
+ENB		Resektioner av svalget och närliggande mjukdelar
+ENC		Rekonstruktiva ingrepp på svalget och närliggande mjukdelar
+ENW		Andra operationer på svalget och närliggande mjukdelar
+EWA		Reoperation för sårruptur efter ingrepp på läppar, tänder, käkar, munnen och svalget
+EWB		Reoperation för ytlig infektion efter ingrepp på läppar, tänder, käkar, munnen och svalget
+EWC		Reoperation för djup infektion efter ingrepp på läppar, tänder, käkar, munnen och svalget
+EWD		Reoperation för ytlig blödning efter ingrepp på läppar, tänder, käkar, munnen och svalget
+EWE		Reoperation för djup blödning efter ingrepp på läppar, tänder, käkar, munnen och svalget
+EWF		Reoperation för anastomos- och suturinsufficiens efter ingrepp på läppar, tänder, käkar, munnen och svalget
+EWW		Annan reoperation på läppar, tänder, käkar, munnen och svalget
+FAA		Suturer och rekonstruktioner av intratorakala vena cava
+FAB		Incisioner i och excisioner av vena cava
+FAC		Resektioner, rekonstruktioner och ligaturer av intratorakala vena cava
+FAD		Bypass-operationer på intratorakala vena cava
+FAE		Cavo-pulmonala anastomosoperationer
+FAF		Operationer efter anläggande av cavopulmonal förbindelse
+FAW		Andra operationer på intratorakala vener
+FBA		Suturer och rekonstruktioner av arteria pulmonalis
+FBB		Incisioner i arteria pulmonalis
+FBC		Bandnings-operationer på arteria pulmonalis
+FBD		Operationer med avlägsnande av band från arteria pulmonalis
+FBE		Vidgningar och rekonstruktioner av arteria pulmonalis
+FBF		Reduktioner av arteria pulmonalis
+FBG		Unifokalisering vid MAPCA med implantat i arteria pulmonalis eller protes
+FBH		Rekonstruktioner vid pulmonal kärlslynga
+FBJ		Subklaviopulmonala shuntoperationer
+FBK		Slutning av subklaviopulmonal anastomos
+FBL		Aortopulmonala anastomoser och shuntar
+FBM		Slutning eller delning av anlagda aortopulmonala anastomoser och shuntar
+FBN		Operationer för fistel från arteria pulmonalis
+FBW		Andra operationer på arteria pulmonalis och dess grenar
+FCA		Rekonstruktioner av aorta ascendens
+FCE		Slutning av förvärvad fistel från aorta
+FDA		Operationer för HLHS (syndrom med hypoplastisk vänsterkammare)
+FDB		Operationer för TGA (transposition av aorta och arteria pulmonalis)
+FDC		Operationer för truncus arteriosus communis
+FDD		Slutning av medfödd fistel från aorta
+FDF		Slutning av aortopulmonala kollateraler
+FDG		Operationer vid supravalvulär aortastenos
+FDH		Rekonstruktioner vid hypoplasi och atresi av aortabågen
+FDJ		Rekonstruktioner vid aortakoarktation
+FDM		Operationer för kärlringsanomali vid aortabågen
+FDW		Andra operationer för anomalier och defekter med relation till bröstaorta
+FEA		Slutet externt dränage av perikardiet
+FEB		Perikardiotomi
+FEC		Intern perikardiostomi
+FED		Reparation av perikardiet
+FEE		Biopsier och excisioner av patologisk förändring i perikardiet
+FEF		Resektioner och exstirpationer av perikardiet
+FEW		Andra operationer på perikardiet
+FFA		Biopsier och excisioner av patologisk förändring i förmak
+FFB		Reparationer av skada på förmak
+FFC		Slutning av isolerad förmaksseptumdefekt
+FFD		Operationer vid inkomplett atrioventrikulär septumdefekt
+FFE		Anläggande och förstoring av förmaksseptumdefekt
+FFF		Transponering av partiellt anomalt mynnande lungvener
+FFG		Transponering av totalt anomalt mynnande lungvener
+FFH		Operationer för lungvensstenos
+FFJ		Intraatrial korrektion av systemvenöst blodflöde
+FFK		Atrial anastomosoperation
+FFL		Rekonstruktioner vid cor triatriatum
+FFW		Andra operationer på förmak
+FGA		Rekonstruktioner av trikuspidalklaffen vid stenos
+FGB		Rekonstruktioner vid Ebsteins anomali
+FGC		Anuloplastik vid trikuspidalinsufficiens
+FGD		Rekonstruktioner vid trikuspidalinsufficiens
+FGE		Implantation av trikuspidalklaffprotes
+FGW		Andra operationer på trikuspidalisklaffen
+FHA		Slutning av förvärvad kammarseptumdefekt
+FHB		Slutning av medfödd kammarseptumdefekt
+FHC		Slutning av flera kammarseptumdefekter
+FHD		Reparation av total atrioventrikulär septumdefekt
+FHE		Korrektion av Fallots tetrad
+FHF		Korrektion av pulmonalisatresi
+FHG		Slutning av kammarseptumdefekt med samtidig intraventrikulär flödestransponering
+FHH		Anläggande eller vidgning av kammarseptumdefekt
+FHJ		Rekonstruktion av septum vid enkammarhjärta
+FHW		Andra operationer på ventrikelseptum
+FJA		Biopsi av högra kammaren
+FJB		Reparation av skada på högra kammaren
+FJC		Exstirpation av patologisk förändring i högra kammaren
+FJD		Operationer på högra kammarens utflödesregion vid medfödd eller förvärvad obstruktion
+FJE		Operation av isolerad pulmonalstenos
+FJF		Implantation av pulmonalklaffprotes
+FJW		Andra operationer på högra kammaren och pulmonalklaffen
+FKA		Rekonstruktiva operationer vid mitralstenos
+FKB		Anuloplastik vid mitralinsufficiens
+FKC		Klaffrekonstruktion vid mitralinsufficiens
+FKD		Implantation av mitralklaffprotes
+FKW		Andra operationer på mitralklaffen
+FLA		Biopsi av vänstra kammaren
+FLB		Exstirpation av patologisk förändring i vänstra kammaren
+FLC		Rekonstruktion av vänstra kammaren
+FLD		Reduktion och dilatation av vänstra kammaren
+FLE		Rekonstruktion vid utflödesobstruktion i vänstra kammaren
+FLF		Transmyokardiell laserrevaskularisering från vänstra kammaren
+FLW		Andra operationer på vänstra kammaren
+FMA		Operationer på aortaklaffen för klaffstenos
+FMB		Vidgning av aortaostiet
+FMC		Operation för aortaklaffinsufficiens
+FMD		Implantationer av aortaklaffprotes
+FMW		Andra operationer på aortaklaffen
+FNA		Anastomos mellan arteria thoracica interna och koronarartärer
+FNB		Anastomos mellan arteria gastroepiploica och koronarartärer
+FNC		Aortokoronar venbypass
+FND		Aortokoronar bypass med kärlprotes
+FNE		Koronar bypass med fria artärtransplantat
+FNF		Koronar trombendartärektomi
+FNG		Dilatation och rekanalisering av koronarartärer
+FNH		Rekonstruktion av koronarartär
+FNJ		Slutning av koronarfistel
+FNK		Rekonstruktion vid anomal koronarartäravgång
+FNW		Andra operationer på koronarartär
+FPA		Operation för supraventrikulär arytmi
+FPB		Excision eller ablation av aberrant hjärtfokus
+FPC		Endokardiell myotomi för ventrikulära arytmier
+FPD		Operation för förmaksflimmer
+FPE		Inläggande eller byte av permanent transvenös pacemaker
+FPF		Inläggande eller byte av permanent epikardiell pacemaker
+FPG		Inläggande av permanent kardiovertor-defibrillator
+FPH		Avlägsnande av pacemaker, defibrillator och pulsgenerator
+FPJ		Revision av pacemaker och elektrod
+FPK		Inläggande av hjärtövervakningsanordning
+FPW		Andra operationer för arytmi och överledningssrubbningar
+FQA		Transplantation av hjärta
+FQB		Transplantation av hjärta och lungor
+FQW		Andra operationer vid hjärt- och hjärt-lungtransplantation
+FWA		Reoperation för sårruptur efter ingrepp på hjärtat och stora intratorakala kärl
+FWB		Reoperation för ytlig infektion efter ingrepp på hjärtat och stora intratorakala kärl
+FWC		Reoperation för djup infektion efter ingrepp på hjärtat och stora intratorakala kärl
+FWD		Reoperation för ytlig blödning efter ingrepp på hjärtat och stora intratorakala kärl
+FWE		Reoperation för djup blödning efter ingrepp på hjärtat och stora intratorakala kärl
+FWF		Reoperation för anastomos- och suturinsufficiens efter ingrepp på hjärtat och stora intratorakala kärl
+FWG		Reoperation för trombos och emboli efter ingrepp på hjärtat och stora intratorakala kärl
+FWW		Andra reoperationer på hjärtat och stora intratorakala kärl
+FXA		FXA
+FXB		FXB
+FXC		FXC
+FXD		FXD
+FXE		FXE
+FXF		FXF
+FXG		FXG
+FXH		FXH
+FXJ		FXJ
+FXK		FXK
+FXL		FXL
+FXM		FXM
+FXN		FXN
+FXP		FXP
+GAA		Punktioner och dränage av pleurahålan inkl. torakoskopier
+GAB		Torakotomi
+GAC		Operationer på pleura
+GAD		Torakoplastikoperationer
+GAE		Incisioner i, biopsier, resektioner och rekonstruktioner av bröstväggen
+GAF		Rekonstruktiva operationer vid anomalier och defekter i bröstväggen
+GAG		Transtorakala och torakoskopiska operationer på diafragma
+GAW		Andra operationer på bröstväggen, pleura och diafragma
+GBA		Trakeotomi och operationer för skador och lokala förändringar
+GBB		Trakeostomi och relaterade operationer
+GBC		Resektion och rekonstruktion av trakea
+GBW		Andra operationer på trakea
+GCA		Operationer på bronker
+GDA		Incisioner i, lokala exstirpationer och suturer av lunga
+GDB		Lungresektioner
+GDC		Lobektomioperationer på lungor
+GDD		Pulmektomier
+GDG		Lungtransplantationer
+GDW		Andra operationer på lungor
+GEA		Mediastinoskopier
+GEB		Mediastinotomier
+GEC		Operationer på tymus
+GEW		Andra operationer i mediastinum
+GWA		Reoperationer för sårruptur efter ingrepp på bröstväggen, lungsäckar, mediastinum, diafragma, luftstrupen, luftrör och lungor
+GWB		Reoperationer för ytlig infektion efter ingrepp på bröstväggen, lungsäckar, mediastinum, diafragma, luftstrupen, luftrör och lungor
+GWC		Reoperationer för djup infektion efter ingrepp på bröstväggen, lungsäckar, mediastinum, diafragma, luftstrupen, luftrör och lungor
+GWD		Reoperationer för ytlig blödning efter ingrepp på bröstväggen, lungsäckar, mediastinum, diafragma, luftstrupen, luftrör och lungor
+GWE		Reoperationer för djup blödning efter ingrepp på bröstväggen, lungsäckar, mediastinum, diafragma, luftstrupen, luftrör och lungor
+GWF		Reoperationer för anastomos- och suturinsufficiens efter ingrepp på bröstväggen, lungsäckar, mediastinum, diafragma, luftstrupen, luftrör och lungor
+GWW		Andra reoperationer på bröstväggen, lungsäckar, mediastinum, diafragma, luftstrupen, luftrör och lungor
+HAA		Incisioner i och biopsier av bröstkörtlar
+HAB		Resektioner av bröstkörtlar
+HAC		Mastektomier
+HAD		Korrektiva operationer på bröst
+HAE		Rekonstruktioner av bröst
+HAF		Operationer vid lokalrecidiv av bröstcancer
+HWA		Reoperationer för sårruptur efter ingrepp på bröstkörtlar
+HWB		Reoperationer för ytlig infektion efter ingrepp på bröstkörtlar
+HWC		Reoperationer för djup infektion efter ingrepp på bröstkörtlar
+HWD		Reoperationer för ytlig blödning efter ingrepp på bröstkörtlar
+HWE		Reoperationer för djup blödning efter ingrepp på bröstkörtlar
+HWF		Reoperationer för anastomos- och suturinsufficiens efter ingrepp på bröstkörtlar
+HWW		Andra reoperationer på bröstkörtlar
+JAA		Operationer på bukväggen
+JAB		Operationer för ljumskbråck
+JAC		Operationer för femoralbråck
+JAD		Operationer för ärrbråck
+JAE		Operation för epigastrikabråck
+JAF		Operationer för navelbråck
+JAG		Operationer för andra bråck och bukväggsdefekter
+JAH		Laparotomier, torakolaparotomier och laparoskopier	Används ej vid operationer som förutsätter laparotomi
+JAJ		Dränage av bäckenabscess via rektum
+JAK		Dränage och lavage av bukhålan
+JAL		Lokala operationer på peritoneum och bukhålan
+JAM		Transposition av oment och mesenterium
+JAN		Peritonealvenösa shuntoperationer
+JAP		Adherenslösning i bukhålan
+JAQ		Omfattande exstirpation av peritoneum och relaterade ingrepp
+JAR		Operation av stomibråck
+JAS		Operation av intraabdominellt bråck
+JAW		Andra operationer på bukväggen, mesenterium, peritoneum och omentet
+JBA		Lokala operationer på diafragma
+JBB		Operationer vid diafragmabråck
+JBC		Operationer vid gastroesofageal reflux
+JBW		Andra operationer på diafragma och vid gastroesofageal reflux
+JCA		Lokala operationer på esofagus
+JCB		Esofagostomi
+JCC		Resektion av esofagus
+JCD		Anastomosering av esofagus utan resektion
+JCE		Rekonstruktiva operationer på esofagus
+JCF		Inläggning av stent i esofagus
+JCW		Andra operationer på esofagus
+JDA		Gastrotomi och lokala operationer på ventrikel
+JDB		Gastrostomi
+JDC		Ventrikelresektion
+JDD		Gastrektomi
+JDE		Ventrikelanastomos utan samtidig resektion
+JDF		Volymsinskränkande ingrepp på ventrikel
+JDG		Vagotomi
+JDH		Operationer på pylorus och duodenum
+JDW		Andra operationer på ventrikeln och duodenum
+JEA		Appendektomi
+JEW		Andra operationer på appendix
+JFA		Lokala operationer på tunntarm och kolon
+JFB		Resektion av tunntarm och kolon
+JFC		Tarmanastomos
+JFD		Tarmshunt
+JFE		Tunntarmstransplantationer
+JFF		Framläggning av tunntarm och kolon
+JFG		Operationer på framlagd tarm och reservoar
+JFH		Kolektomi
+JFJ		Fixation av tarm till bukvägg
+JFK		Delning av adherenser vid tarmobstruktion	Ej som led i exploration eller annan laparotomi
+JFL		Behandlingar av tarmobstruktion utan resektion eller adherenslösning
+JFM		Peroperativt tarmlavage
+JFW		Andra operationer på tunntarm och kolonm
+JGA		Proktotomi och lokala ingrepp på rektum
+JGB		Resektion och exstirpation av rektum
+JGC		Rekonstruktiva operationer på rektum
+JGD		Operationer på perirektal vävnad
+JGW		Andra operationer på rektum
+JHA		Incision i, biopsi och lokal exstirpation i analkanalen och perianalt
+JHB		Behandling av hemorrojder och analprolaps
+JHC		Rekonstruktiva operationer på anus
+JHD		Lokala ingrepp på analsfinkter och av analfistlar
+JHE		Inläggande av artificiell analsfinkter och relaterade operationer
+JHW		Andra operationer på anus och perianal vävnad
+JJA		Lokala ingrepp på levern
+JJB		Leverresektion
+JJC		Levertransplantation och relaterade operationer
+JJW		Andra operationer på levern
+JKA		Operationer på gallblåsan
+JKB		Incisioner i, explorationer och andra lokala operationer på gallgångar
+JKC		Excision av gallgång
+JKD		Biliodigestiv anastomos utan resektion
+JKE		Transduodenala operationer på gallgångar och papilla Vateri
+JKF		Operationer på gallgångar efter tidigare operationer
+JKT		Extrakorporeala stötvågslitotripsier i gallvägar
+JKW		Andra operationer på gallvägar
+JLA		Explorationer och biopsier av pankreas
+JLB		Incisioner i, dränage och dilatationer av pankreas
+JLC		Pankreasresektion och pankreatektomi
+JLD		Pankreasanastomos utan resektion
+JLE		Pankreastransplantation och relaterade operationer
+JLT		Extrakorporeal stötvågslitotripsi i pankreasgång
+JLW		Andra operationer på pankreas
+JMA		Mjältresektion och splenektomi
+JMB		Diverse operationer på mjälten
+JMW		Andra operationer på mjälten
+JWA		Reoperation för sårruptur efter ingrepp på mag-tarmkanalen och därtill hörande organ
+JWB		Reoperation för ytlig infektion efter ingrepp på mag-tarmkanalen och därtill hörande organ
+JWC		Reoperation för djup infektion efter ingrepp på mag-tarmkanalen och därtill hörande organ
+JWD		Reoperation för ytlig blödning efter ingrepp på mag-tarmkanalen och därtill hörande organ
+JWE		Reoperation för djup blödning efter ingrepp på mag-tarmkanalen och därtill hörande organ
+JWF		Reoperation för anastomos- och suturinsufficiens efter ingrepp på mag-tarmkanalen och därtill hörande organ
+JWW		Andra reoperationer på mag-tarmkanalen och därtill hörande organ
+JXA		Omfattande bukoperation med överlappande anatomisk lokalisation	Operationer för utbredda tumörer (inkl. sarkom) utan säkert ursprung i organ eller annan definierad anatomisk struktur, där ingreppet involverar mer än ett avsnitt (tvåställig nivå) från kapitel J.
+KAA		Explorationer av njurar och njurbäcken
+KAB		Biopsier av njurar och njurbäcken
+KAC		Nefrektomi
+KAD		Exstirpationer och destruktioner av lokal förändring i njurar och njurbäcken
+KAE		Exstirpationer och extraktioner av njursten
+KAF		Exstirpationer och extraktioner av främmande kropp från njurar och njurbäcken
+KAH		Rekonstruktiva ingrepp på njurar och njurbäcken
+KAJ		Urinavledande operationer på njurar och njurbäcken
+KAS		Njurtransplantation och relaterade operationer
+KAT		Extrakorporeal stötvågslitotripsi av njursten, ESVL
+KAW		Andra operationer på njurar och njurbäcken
+KBA		Explorationer av uretär
+KBB		Biopsi av uretär
+KBC		Ureterektomi
+KBD		Exstirpationer och destruktioner av lokal förändring i uretär
+KBE		Exstirpationer och extraktioner av uretärsten
+KBF		Exstirpationer och extraktioner av främmande kropp från uretär
+KBH		Rekonstruktioner av uretär
+KBJ		Urinavledande operationer på uretär och tillhörande operationer
+KBT		Extrakorporeal stötvågslitotripsi av uretärsten (ESVL)
+KBV		Diverse operationer på uretär
+KBW		Andra operationer på uretär
+KCA		Exploration av urinblåsan
+KCB		Biopsi av urinblåsan
+KCC		Cystektomi
+KCD		Exstirpationer och destruktioner av lokal förändring i urinblåsan
+KCE		Exstirpationer och extraktioner av blåssten
+KCF		Exstirpationer och extraktioner av främmande kropp från urinblåsan
+KCH		Rekonstruktiva operationer på urinblåsan
+KCJ		Urinavledande operationer på urinblåsan
+KCT		Extrakorporeal stötvågslitotripsi av blåssten (ESVL)
+KCV		Diverse operationer på urinblåsan
+KCW		Andra operationer på urinblåsan
+KDA		Exploration av uretra
+KDB		Biopsi av uretra
+KDC		Uretrektomi
+KDD		Exstirpationer och destruktioner av lokal förändring i uretra
+KDE		Exstirpationer och extraktioner av främmande kropp och konkrement från uretra
+KDG		Operationer på uretra och blåshalsen vid inkontinens
+KDH		Rekonstruktiva operationer på uretra
+KDJ		Urinavledande operationer på uretra
+KDK		Implantationer, revisioner och avlägsnande av konstgjord sfinkter
+KDV		Diverse operationer på uretra
+KDW		Andra operationer på uretra
+KEA		Explorationer av och incisioner i prostata och sädesblåsor
+KEB		Biopsi av prostata
+KEC		Radikal prostatektomi
+KED		Resektion och andra avflödesbefrämjande ingrepp vid prostatism
+KEV		Diverse operationer på prostata och sädesblåsor
+KEW		Andra operationer på prostata och sädesblåsor
+KFA		Explorationer av och incisioner i skrotum och skrotalinnehåll
+KFB		Biopsi av testiklar
+KFC		Exstirpationer av testiklar och bitestiklar
+KFD		Resektioner och exstirpationer av lokal förändring i skrotum och skrotalinnehåll
+KFH		Rekonstruktiva operationer på skrotum och skrotalinnehåll
+KFW		Andra operationer på skrotum och skrotalinnehåll
+KGA		Explorationer av och incisioner i penis
+KGB		Biopsi av penis
+KGC		Amputation av penis
+KGD		Resektioner och destruktioner av lokal förändring på penis
+KGF		Avlägsnande av främmande kropp från penis
+KGH		Rekonstruktiva operationer på penis
+KGV		Diverse operationer på penis
+KGW		Andra operationer på penis
+KKA		Explorationer och biopsi av retroperitoneal vävnad
+KKB		Exstirpationer av retroperitoneal förändring
+KKF		Exstirpationer av främmande kropp från retroperitoneala rummet
+KKW		Andra operationer på retroperitoneal vävnad
+KWA		Reoperation för sårruptur efter ingrepp på urinvägar, manliga könsorgan och retroperitoneal vävnad
+KWB		Reoperation för ytlig infektion efter ingrepp på urinvägar, manliga könsorgan och retroperitoneal vävnad
+KWC		Reoperation för djup infektion efter ingrepp på urinvägar, manliga könsorgan och retroperitoneal vävnad
+KWD		Reoperation för ytlig blödning efter ingrepp på urinvägar, manliga könsorgan och retroperitoneal vävnad
+KWE		Reoperation för djup blödning efter ingrepp på urinvägar, manliga könsorgan och retroperitoneal vävnad
+KWF		Reoperation för anastomos- och suturinsufficiens efter ingrepp på urinvägar, manliga könsorgan och retroperitoneal vävnad
+KWW		Andra reoperationer på urinvägar, manliga könsorgan och retroperitoneal vävnad
+KXK		Omfattande operationer av retroperitoneal vävnad (inkl. sarkom) med annan eller överlappande anatomisk lokalisation	Operationer för utbredda tumörer (inkl. sarkom) utan säkert ursprung i organ eller annan definierad anatomisk struktur, där ingreppet involverar mer än ett avsnitt (tvåställig nivå) från kapitel K.
+LAA		Punktioner av ovarier
+LAB		Incisioner i och biopsi av ovarier
+LAC		Enukleationer och destruktioner av förändring i ovarier
+LAD		Resektioner av ovarier
+LAE		Ooforektomi
+LAF		Salpingo-ooforektomi
+LAG		Rekonstruktiva operationer på ovarier
+LAW		Andra operationer på ovarier
+LBA		Punktioner och endoskopier av äggledare
+LBB		Biopsier av äggledare
+LBC		Äggledarbevarande behandling av tubargraviditet utan resektion
+LBD		Tubarresektion
+LBE		Salpingektomi
+LBF		Operationer på äggledare vid infertilitet
+LBW		Andra operationer på äggledare
+LCA		Intrauterina operationer och biopsier av uterus och parametrium
+LCB		Hysterotomi, excision och destruktion av förändring i uterus
+LCC		Operationer med avlägsnande av del av uterus
+LCD		Operationer med avlägsnande av uterus
+LCE		Bäckenutrymning
+LCF		Exstirpationer av förändring i parametrium
+LCG		Rekonstruktiva operationer på uterus
+LCH		Avbrytande av graviditet (legal abort)
+LCW		Andra operationer på uterus och dess upphängningsapparat
+LDA		Dilatationer och biopsier av portio och cervix uteri
+LDB		Exstirpationer eller destruktioner av förändring i portio och cervix uteri
+LDC		Cervixresektion
+LDD		Rekonstruktiva operationer på cervix uteri
+LDW		Andra operationer på cervix uteri
+LEA		Kuldoskopier och incisioner i vagina
+LEB		Biopsier, exstirpationer eller destruktioner av förändring i vagina
+LEC		Resektion av vagina
+LED		Kolpektomi
+LEE		Rekonstruktiva operationer på vagina
+LEF		Prolapsoperationer
+LEG		Vaginala inkontinensoperationer
+LEW		Andra operationer på vagina
+LFA		Incisioner i vulva och perineum
+LFB		Biopsier, excisioner eller destruktioner av förändring i vulva och perineum
+LFC		Resektioner av vulva och perineum
+LFD		Vulvektomi
+LFE		Rekonstruktioner av vulva och perineum
+LFF		Operationer på Bartholins körtel
+LFW		Andra operationer på vulva och perineum
+LGA		Steriliseringsoperationer
+LWA		Reoperation för sårruptur efter ingrepp på kvinnliga könsorgan
+LWB		Reoperation för ytlig infektion efter ingrepp på kvinnliga könsorgan
+LWC		Reoperationer för djup infektion efter ingrepp på kvinnliga könsorgan
+LWD		Reoperation för ytlig blödning efter ingrepp på kvinnliga könsorgan
+LWE		Reoperationer för djup blödning efter ingrepp på kvinnliga könsorgan
+LWF		Reoperationer för anastomos- och suturinsufficiens efter ingrepp på kvinnliga könsorgan
+LWW		Andra reoperationer på kvinnliga könsorgan
+MAA		Intrauterina operationer på gravid uterus och foster
+MAB		Diverse ingrepp på gravid uterus eller foster
+MAC		Ingrepp för inledande eller påskyndande av förlossning
+MAD		Vidgning av förlossningskanalen
+MAE		Förlossning med vakuumextraktor (sugklocka)
+MAF		Förlossning med tång
+MAG		Ingrepp vid fot- och sätesbjudning
+MAH		Diverse ingrepp i samband med förlossning
+MAJ		Reduktion av multipel graviditet
+MAW		Andra ingrepp före eller i samband med förlossning
+MBA		Exeres och avlägsnande av kvarhållen moderkaka
+MBB		Andra manuella ingrepp på uterus efter förlossning
+MBC		Sutur och revision av förlossningsskador
+MBW		Andra ingrepp efter förlossning och abort
+MCA		Kejsarsnitt
+MCB		Laparotomier med uthämtande av extrauterint foster
+MCC		Laparotomi med sutur av uterusruptur efter förlossning
+MCW		Andra obstetriska operationer av hithörande art
+MWA		Reoperation för sårruptur efter obstetriska ingrepp
+MWB		Reoperation för ytlig infektion efter obstetriska ingrepp
+MWC		Reoperationer för djup infektion efter obstetriska ingrepp
+MWD		Reoperation för ytlig blödning efter obstetriska ingrepp
+MWE		Reoperationer för djup blödning efter obstetriska ingrepp
+MWF		Reoperationer för anastomos- och suturinsufficiens efter obstetriska ingrepp
+MWW		Andra reoperationer efter obstetriska ingrepp
+NAA		Explorativa operationer på kotpelaren
+NAB		Primära led- och diskprotesoperationer i kotpelaren
+NAC		Sekundära led- och diskprotesoperationer i kotpelaren	Sekundär eller senare implantation av protes eller del av protes
+NAG		Excisioner, rekonstruktioner och fusioner av leder i kotpelaren
+NAH		Diverse operationer på leder i kotpelaren
+NAJ		Frakturkirurgi i kotpelaren
+NAK		Operationer på kotor
+NAL		Operationer på muskler och senor i kotpelaren och nacken
+NAM		Operationer på fascior och bursor i kotpelaren och nacken
+NAN		Transplantationer i kotpelaren
+NAR		Operationer för tumörer i kotpelaren
+NAS		Operationer vid infektion i kotpelaren
+NAT		Diverse operationer i kotpelaren
+NAU		Extraktioner av implantat och externt fixationsmaterial från kotpelaren och nacken
+NAW		Reoperationer i kotpelaren och nacken
+NBA		Explorativa operationer på axlar och överarmar
+NBB		Primära ledprotesoperationer i skulderleder
+NBC		Sekundära ledprotesoperationer i skulderleder
+NBE		Operationer på ledkapslar och ledband i skulderleder
+NBF		Operationer på ledhinnor och ledytor i skulderleder
+NBG		Excisioner, rekonstruktioner och artrodeser av skulderleder
+NBH		Diverse operationer på skulderleder
+NBJ		Frakturkirurgi på axlar och överarmar
+NBK		Operationer på ben i axlar och överarmar
+NBL		Operationer på muskler och senor i axlar och överarmar
+NBM		Operationer på fascior, senskidor och bursor i axlar och överarmar
+NBN		Transplantationer till axlar och överarmar
+NBP		Replantation av övre extremiteter ovan armbåge
+NBQ		Amputationer och relaterade operationer i axlar och överarmar
+NBR		Operationer för tumör i axlar och överarmar
+NBS		Operationer vid infektion i axlar och överarmar
+NBT		Diverse operationer i axlar och överarmar
+NBU		Extraktion av implantat och externt fixationsmaterial från axlar och överarmar
+NBW		Reoperationer i axlar och överarmar
+NCA		Explorativa operationer på armbågar och underarmar
+NCB		Primära ledprotesoperationer i armbågsleder
+NCC		Sekundära ledprotesoperationer i armbågsleder
+NCE		Operationer på ledkapslar och ledband i armbågsleder
+NCF		Operationer på ledhinnor och ledytor i armbågsleder
+NCG		Excisioner, rekonstruktioner och artrodeser av armbågsleder
+NCH		Diverse operationer på armbågsleder
+NCJ		Frakturkirurgi på armbågar och underarmar
+NCK		Operationer på ben i armbågar och underarmar
+NCL		Operationer på muskler och senor vid armbågar och i underarmar
+NCM		Operationer på fascior, senskidor och bursor i armbågar och underarmar
+NCN		Transplantationer till armbågar och underarmar
+NCP		Replantation av underarmar
+NCQ		Amputationer av underarmar och relaterade operationer
+NCR		Operationer för tumör i armbågar och underarmar
+NCS		Operationer vid infektion i armbågar och underarmar
+NCT		Diverse operationer på armbågar och underarmar
+NCU		Extraktion av implantat och externt fixationsmaterial från armbågar och underarmar
+NCW		Reoperationer på armbågar och underarmar
+NDA		Explorativa operationer på handleder och händer
+NDB		Primära ledprotesoperationer i hand- och fingerleder
+NDC		Sekundära ledprotesoperationer i hand- och fingerleder
+NDE		Operationer på ledkapslar och ledband i hand- och fingerleder
+NDF		Operationer på ledhinnor och ledytor i hand- och fingerleder
+NDG		Excisioner, rekonstruktioner och artrodeser av hand- och fingerleder
+NDH		Diverse operationer på hand- och fingerleder
+NDJ		Frakturkirurgi på handleder och händer
+NDK		Operationer på ben i handleder och händer
+NDL		Operationer på muskler och senor vid handleder och i händer
+NDM		Operationer på fascior, senskidor och bursor i handleder och händer
+NDN		Transplantationer till handleder och händer
+NDP		Replantationer och autotransplantationer till handleder och händer
+NDQ		Amputationer och relaterade operationer i handleder och händer
+NDR		Operationer för tumör i handleder och händer
+NDS		Operationer vid infektion i handleder och händer
+NDT		Diverse operationer på handleder och händer
+NDU		Extraktion av implantat och externt fixationsmaterial från handleder och händer
+NDW		Reoperationer på handleder och händer
+NEA		Explorativa operationer på bäckenet
+NEG		Excisioner, rekonstruktioner och artrodeser av bäckenleder
+NEH		Diverse operationer på bäckenleder
+NEJ		Frakturkirurgi i bäckenet
+NEK		Operationer på ben i bäckenet
+NEL		Operationer på muskler och senor i bäckenet
+NEM		Operationer på fascior och bursor i bäckenet
+NEN		Transplantationer till bäckenet
+NEP		Replantationer och autotransplantationer i bäckenet
+NEQ		Amputationer och relaterade operationer på bäckenet
+NER		Operationer för tumör i bäckenet
+NES		Operationer vid infektion i bäckenet
+NET		Diverse operationer på bäckenet
+NEU		Extraktion av implantat och externt fixationsmaterial från bäckenet
+NEW		Reoperationer på bäckenet
+NFA		Explorativa operationer på höfter och lår
+NFB		Primära ledprotesoperationer i höftleder
+NFC		Sekundära ledprotesoperationer i höftleder
+NFE		Operationer på ledkapslar och ligament i höftleder
+NFF		Operationer på ledhinnor och ledytor i höftleder
+NFG		Excisioner, rekonstruktioner och artrodeser av höftleder
+NFH		Diverse operationer på höftleder
+NFJ		Frakturkirurgi på femur
+NFK		Operationer på femur
+NFL		Operationer på muskler och senor i höfter och lår
+NFM		Operationer på fascior och bursor i höfter och lår
+NFN		Transplantationer till höfter och lår
+NFP		Replantationer och autotransplantationer i höfter och lår
+NFQ		Amputationer och relaterade operationer på höfter och lår
+NFR		Operationer för tumör i höfter och lår
+NFS		Operationer vid infektion i höfter och lår
+NFT		Diverse operationer på höfter och lår
+NFU		Extraktion av implantat och externt fixationsmaterial från höfter och lår
+NFW		Reoperationer på höfter eller lår
+NGA		Explorativa operationer på knän och underben
+NGB		Primära ledprotesoperationer i knäleder
+NGC		Sekundära ledprotesoperationer i knäleder
+NGD		Operationer på menisker i knäleder
+NGE		Operationer på ledkapslar och ligament i knäleder
+NGF		Operationer på ledhinnor och ledytor i knäleder
+NGG		Excisioner, rekonstruktioner och artrodeser i knäleder
+NGH		Diverse operationer på knäleder
+NGJ		Frakturkirurgi på knän och underben
+NGK		Operationer på ben i knän och underben
+NGL		Operationer på muskler och senor i knän och underben
+NGM		Operationer på fascior och bursor i knän och underben
+NGN		Transplantationer till knän och underben
+NGP		Replantationer i knän och underben
+NGQ		Amputationer och relaterade operationer av knän och underben
+NGR		Operationer för tumör i knän och underben
+NGS		Operationer vid infektion i knän och underben
+NGT		Diverse operationer på knän och underben
+NGU		Extraktion av implantat och externt fixationsmaterial från knän och underben
+NGW		Reoperationer på knän och underben
+NHA		Explorativa operationer på fotleder och fötter
+NHB		Primära ledprotesoperationer i fotleder och fötter
+NHC		Sekundära ledprotesoperationer i fotleder och fötter
+NHE		Operationer på ledkapslar och ledband i fotleder och fötter
+NHF		Operationer på ledhinnor och ledytor i fotleder och fötter
+NHG		Excisioner, rekonstruktioner och artrodeser av fotleder och fötter
+NHH		Diverse operationer på fotleder och fötter
+NHJ		Frakturkirurgi på fotleder och fötter
+NHK		Operationer på ben i fotleder och fötter
+NHL		Operationer på muskler och senor av fotleder och fötter
+NHM		Operationer på fascior, senskidor och bursor i fotleder och fötter
+NHN		Transplantationer till fotleder och fötter
+NHP		Replantationer och autotransplantationer i fotleder och fötter
+NHQ		Amputationer och relaterade operationer på fotleder och fötter
+NHR		Operationer för tumör i fotleder och fötter
+NHS		Operationer vid infektion i fotleder och fötter
+NHT		Diverse operationer på fotleder och fötter
+NHU		Extraktion av implantat och externt fixationsmaterial från fotleder och fötter
+NHW		Reoperationer på fotleder och fötter
+NXL		Operationer på muskler och senor på andra angivna regioner av muskuloskeletala systemet
+NXW		Reoperationer på andra angivna regioner av muskuloskeletala systemet
+QAA		Incision av hud eller destruktion av hudförändring i huvud-halsregion
+QAB		Sårbehandling i huvud-halsregionen
+QAC		Avlägsnande av subkutan främmande kropp i huvud-halsregionen
+QAD		Behandling av brännskador i huvud-halsregionen
+QAE		Excision och rekonstruktion vid hudförändringar i huvud-halsregionen
+QAF		Operationer på skalp och ögonbryn
+QAG		Operationer för kroniska sår och fistlar i huvud-halsregionen
+QAJ		Operationer av estetiska orsaker i huvud-halsregionen
+QBA		Incision av hud eller destruktion av hudförändring på bålen
+QBB		Sårbehandlingar på bålen
+QBC		Avlägsnande av subkutan främmande kropp på bålen
+QBD		Behandling av brännskador på bålen
+QBE		Excision och rekonstruktion vid hudförändringar på bålen
+QBG		Operationer för kroniska sår och fistlar på bålen
+QBJ		Operationer av estetiska orsaker på bålen
+QCA		Incision av hud eller destruktion av hudförändring på övre extremitet
+QCB		Sårbehandlingar, övre extremiteter
+QCC		Avlägsnande av subkutan främmande kropp, övre extremiteter
+QCD		Behandlingar av brännskador, övre extremiteter
+QCE		Excisioner och rekonstruktioner vid hudförändringar, övre extremiteter
+QCG		Operationer för kroniska sår och fistlar, övre extremiteter
+QCH		Operationer på fingernaglar
+QCJ		Operationer av estetiska orsaker, övre extremiteter
+QDA		Incision av hud eller destruktion av hudförändring på nedre extremitet
+QDB		Sårbehandlingar, nedre extremiteter
+QDC		Avlägsnande av subkutan främmande kropp, nedre extremiteter
+QDD		Behandlingar av brännskador, nedre extremiteter
+QDE		Excisioner och rekonstruktioner vid hudförändringar, nedre extremiteter
+QDG		Operationer för kroniska sår och fistlar, nedre extremiteter
+QDH		Operationer på tånaglar
+QDJ		Operationer av estetiska orsaker, nedre extremiteter
+QWA		Reoperation för sårruptur efter ingrepp på huden
+QWB		Reoperation för ytlig infektion efter ingrepp på huden
+QWD		Reoperation för ytlig blödning efter ingrepp på huden
+QWF		Reoperation för anastomos- och suturinsufficiens efter ingrepp på huden
+QWW		Annan reoperation på huden
+QXA		Incision av hud eller destruktion av hudförändring, ospecificerad region
+QXB		Behandling av sår på huden, ospecificerad region
+QXC		Avlägsnande av subkutan främmande kropp, ospecificerad region
+TAB		TAB
+TAC		TAC
+TAD		TAD
+TAW		TAW
+TBA		TBA
+TBB		TBB
+TBC		TBC
+TBW		TBW
+TCA		TCA
+TCB		TCB
+TCC		TCC
+TCE		TCE
+TCF		TCF
+TCG		TCG
+TCH		TCH
+TCK		TCK
+TCW		TCW
+TDA		TDA
+TDB		TDB
+TDC		TDC
+TDH		TDH
+TDJ		TDJ
+TDM		TDM
+TDN		TDN
+TDP		TDP
+TDQ		TDQ
+TDW		TDW
+TEA		TEA
+TEB		TEB
+TEC		TEC
+TED		TED
+TEE		TEE
+TEG		TEG
+TEH		TEH
+TEJ		TEJ
+TEL		TEL
+TEM		TEM
+TEN		TEN
+TEW		TEW
+TFC		TFC
+TFE		TFE
+TFJ		TFJ
+TFP		TFP
+TFW		TFW
+TGA		TGA
+TGB		TGB
+TGD		TGD
+TGE		TGE
+TGW		TGW
+THA		THA
+THW		THW
+TJA		TJA
+TJC		TJC
+TJD		TJD
+TJF		TJF
+TJG		TJG
+TJJ		TJJ
+TJK		TJK
+TJL		TJL
+TJM		TJM
+TJW		TJW
+TKA		TKA
+TKC		TKC
+TKD		TKD
+TKE		TKE
+TKF		TKF
+TKK		TKK
+TKW		TKW
+TLA		TLA
+TLB		TLB
+TLC		TLC
+TLE		TLE
+TLF		TLF
+TLW		TLW
+TMA		TMA
+TMW		TMW
+TNA		TNA
+TNB		TNB
+TNC		TNC
+TND		TND
+TNE		TNE
+TNF		TNF
+TNG		TNG
+TNH		TNH
+TNX		TNX
+TPH		TPH
+TPJ		TPJ
+TPW		TPW
+TPX		TPX
+TQW		TQW
+TQX		TQX
+UDH		UDH
+UDM		UDM
+UDQ		UDQ
+UEL		UEL
+UEN		UEN
+UGA		UGA
+UGB		UGB
+UGC		UGC
+UJC		Esofagoskopier	Avser undersökning av enbart esofagus 
+UJD		Gastroskopier
+UJF		Enteroskopier och koloskopier
+UJG		Rektoskopier
+UJH		Proktoskopi
+UJK		Endoskopiska och radiologiska undersökningar av gallvägar och bukspottkörtelgång
+UJX		Kapselendoskopi av gastrointestinalkanalen
+UKA		UKA
+UKB		UKB
+UKC		UKC
+UKD		UKD
+ULB		ULB
+ULC		ULC
+VAA		Öppen exploration av torakala aorta
+VAB		Sutur på torakala aorta
+VAC		Ligatur, delning, förslutning med sutur av torakala aorta
+VAG		Öppen plastik på torakala aorta
+VAH		Öppen ortotopisk revaskularisering från graft i torakala aorta
+VAJ		Bypass, interpositionsgraft eller extraanatomisk revaskularisering i eller från torakala aorta
+VAK		Resektion av eller öppet borttagande av graft eller främmande material från torakala aorta
+VAL		Annan öppen operation på torakala aorta
+VAN		Perkutan transluminal angioplastik (PTA) eller perkutan subintimal angioplastik (SAP) i torakala aorta
+VAP		Inläggning av stent i torakala aorta, ductus arteriosus
+VAQ		Inläggning av stentgraft i torakala aorta (inklusive stentgraft för revaskularisering av grenar)
+VAT		Endovaskulär slutning i torakala aorta
+VAU		Endovaskulärt uttagande av graft eller främmande material från torakala aorta
+VAW		Annan endovaskulär operation i torakala aorta
+VBA		Öppen exploration av bukaorta
+VBB		Sutur på bukaorta
+VBC		Ligatur, delning eller förslutning av bukaorta
+VBE		Trombektomi eller embolektomi i bukaorta
+VBF		Endartärektomi i bukaorta
+VBG		Öppen plastik på bukaorta
+VBH		Öppen ortotopisk revaskularisering i bukaorta
+VBJ		Bypass eller interpositionsgraft i eller från bukaorta
+VBK		Öppet borttagande av graft eller främmande material från bukaorta
+VBL		Annan öppen operation på bukaorta
+VBN		Perkutan transluminal angioplastik (PTA) eller perkutan subintimal angioplastik (SAP) i bukaorta
+VBP		Inläggning av stent i bukaorta
+VBQ		Inläggning av stentgraft (inklusive stentgraft för revaskularisering av grenar) i bukaorta
+VBR		Lokal trombolys i bukaorta
+VBT		Inläggning av ockluderande material
+VBU		Endovaskulärt uttagande av främmande material från bukaorta
+VBW		Annan endovaskulär operation i bukaorta
+VCA		Öppen exploration av truncus brachiocephalicus, a. carotis communis och dess grenar
+VCB		Sutur på truncus brachiocephalicus, a. carotis communis och dess grenar
+VCC		Ligatur eller delning av truncus brachiocephalicus, a. carotis communis och dess grenar
+VCE		Trombektomi eller embolektomi i truncus brachiocephalicus, a. carotis communis och dess grenar
+VCF		Endartärektomi i truncus brachiocephalicus, a. carotis communis och dess grenar
+VCG		Öppen plastik på truncus brachiocephalicus, a. carotis communis och dess grenar
+VCH		Transposition till eller reimplantation av truncus brachiocephalicus, a. carotis communis och dess grenar
+VCJ		Bypass, extraanatomisk revaskularisering eller interpositionsgraft från truncus brachiocephalicus, a. carotis communis och dess grenar
+VCK		Resektion, biopsi eller öppet borttagande av graft eller främmande material från truncus brachiocephalicus, a. carotis communis och dess grenar
+VCL		Annan öppen operation på truncus brachiocephalicus, a. carotis communis och dess grenar
+VCN		Perkutan transluminal angioplastik (PTA) eller perkutan subintimal angioplastik (SAP) i truncus brachiocephalicus, a. carotis communis och dess grenar
+VCP		Inläggning av stent i truncus brachiocephalicus, a. carotis communis och dess grenar
+VCQ		Inläggning av stentgraft i truncus brachiocephalicus, a. carotis communis och dess grenar
+VCR		Lokal trombolys i truncus brachiocephalicus, a. carotis communis och dess grenar
+VCS		Perkutan mekanisk trombektomi eller embolektomi, mekanisk trombfragmentering, sonotrombolys i a. carotis communis och dess grenar
+VCT		Inläggning av ockluderande material i artär eller AV-fistel i a. carotis extrakraniella utbredningsområde
+VCU		Endovaskulärt uttagande av främmande material från truncus brachiocephalicus, a. carotis communis och dess grenar
+VCW		Annan endovaskulär operation i truncus brachiocephalicus, a. carotis communis och dess grenar
+VEA		Öppen exploration av a. subclavia och dess grenar
+VEB		Sutur på a. subclavia och dess grenar
+VEC		Ligatur eller delning av a. subclavia och dess grenar
+VED		Öppen försnävning av AV-graft eller AV-fistel från a. subclavia och dess grenar
+VEE		Trombektomi eller embolektomi i a. subclavia och dess grenar
+VEF		Endartärektomi i a. subclavia och dess grenar
+VEG		Öppen plastik på a. subclavia och dess grenar
+VEH		Reimplantation, transposition eller anläggande av AV-fistel från a. subclavia och dess grenar
+VEJ		Bypass, interpositionsgraft eller extraanatomisk revaskularisering från a. subclavia och dess grenar
+VEK		Öppet borttagande av graft eller främmande material från a. subclavia och dess grenar
+VEL		Annan öppen operation på a. subclavia och dess grenar
+VEN		Perkutan transluminal angioplastik (PTA) eller perkutan subintimal angioplastik (SAP) i a. subclavia och dess grenar
+VEP		Inläggning av stent i a. subclavia och dess grenar
+VEQ		Inläggning av stentgraft i a. subclavia och dess grenar
+VER		Lokal trombolys i a. subclavia och dess grenar
+VET		Inläggning av ockluderande material i a. subclavia och dess grenar
+VEU		Endovaskulärt uttagande av främmande material från a. subclavia och dess grenar
+VEW		Annan endovaskulär operation i a. subclavia och dess grenar
+VGA		Öppen exploration av visceralartär
+VGB		Sutur på visceralartär
+VGC		Ligatur av visceralartär
+VGE		Trombektomi eller embolektomi i visceralartär
+VGF		Endartärektomi i visceralartär
+VGG		Öppen plastik på visceralartär
+VGH		Transposition av visceralartär
+VGJ		Bypass från eller interpositionsgraft i visceralartär
+VGK		Öppet borttagande av graft eller främmande material från visceralartär
+VGL		Annan öppen operation på visceralartär
+VGN		Perkutan transluminal angioplastik (PTA) eller perkutan subintimal angioplastik (SAP) i visceralartär
+VGP		Inläggning av stent i visceralartär
+VGQ		Inläggning av stentgraft i visceralartär
+VGR		Lokal trombolys i visceralartär
+VGT		Inläggning av ockluderande material i visceralartär
+VGU		Endovaskulärt uttagande av främmande material från visceralartär
+VGW		Annan endovaskulär operation i visceralartär
+VHA		Öppen exploration av bäckenartär
+VHB		Sutur på bäckenartär
+VHC		Ligatur eller delning av bäckenartär
+VHE		Trombektomi eller embolektomi i bäckenartär
+VHF		Endartärektomi i bäckenartär
+VHG		Öppen plastik på bäckenartär
+VHJ		Bypass, interpositionsgraft eller extraanatomisk revaskularisering i eller från bäckenartär
+VHK		Öppet borttagande av graft eller främmande material från bäckenartär
+VHL		Annan öppen operation på bäckenartär
+VHN		Perkutan transluminal angioplastik (PTA) eller perkutan subintimal angioplastik (SAP) i bäckenartär
+VHP		Inläggning av stent i bäckenartär
+VHQ		Inläggning av stentgraft i bäckenartär
+VHR		Lokal trombolys i bäckenartär
+VHS		Perkutan mekanisk trombektomi eller embolektomi i bäckenartär
+VHT		Inläggning av ockluderande material i bäckenartär
+VHU		Endovaskulärt uttagande av främmande material från bäckenartär
+VHW		Annan endovaskulär operation i bäckenartär
+VKA		Öppen exploration av a. femoralis och dess grenar
+VKB		Sutur på a. femoralis och dess grenar
+VKC		Ligatur eller delning av a. femoralis och dess grenar
+VKD		Öppen försnävning av AV-graft eller AV-fistel från a. femoralis
+VKE		Trombektomi eller embolektomi i a. femoralis och dess grenar
+VKF		Endartärektomi i a. femoralis och dess grenar
+VKG		Öppen plastik på a. femoralis och dess grenar
+VKH		Reimplantation av a. poplitea, AV-fistel från a. femoralis eller infrapopliteal artär
+VKJ		Bypass från, interpositionsgraft i eller AV-graft från a. femoralis och dess grenar
+VKK		Resektion av eller öppet borttagande av graft eller främmande material från a. femoralis och dess grenar
+VKL		Annan öppen operation på a. femoralis och dess grenar
+VKN		Perkutan transluminal angioplastik (PTA) eller perkutan subintimal angioplastik (SAP) i a. femoralis och dess grenar
+VKP		Inläggning av stent i a. femoralis och dess grenar
+VKQ		Inläggning av stentgraft i a. femoralis och dess grenar
+VKR		Lokal trombolys i a. femoralis och dess grenar
+VKS		Perkutan mekanisk trombektomi eller embolektomi i a. femoralis och dess grenar
+VKT		Inläggning av ockluderande material i a. femoralis och dess grenar
+VKU		Endovaskulärt uttagande av främmande material från a. femoralis och dess grenar
+VKW		Annan endovaskulär operation i a. femoralis och dess grenar
+VMA		Öppen exploration av hals- eller armven
+VMB		Sutur på hals- eller armven
+VMC		Ligatur eller delning av hals- eller armven
+VME		Trombektomi i hals- eller armven
+VMG		Öppen plastik på hals- eller armven
+VMJ		Bypass från eller interpositionsgraft i hals- eller armven
+VML		Annan öppen operation på hals- eller armven
+VMN		Perkutan transluminal angioplastik (PTA) i hals- eller armven
+VMP		Inläggning av stent i hals- eller armven
+VMQ		Inläggning av stentgraft i hals- eller armven sida
+VMR		Lokal trombolys i hals- eller armven
+VMU		Endovaskulärt uttagande av främmande material från hals- eller armven
+VMW		Annan endovaskulär operation i hals- eller armven
+VPA		Öppen exploration av viscerala vener
+VPB		Sutur på viscerala vener
+VPC		Ligatur eller delning av viscerala vener
+VPE		Trombektomi i viscerala vener
+VPG		Öppen plastik på viscerala vener
+VPH		Portosystemisk shunt
+VPJ		Bypass från eller interpositionsgraft i vena portae och dess grenar
+VPK		Öppet borttagande av graft eller främmande material från viscerala vener eller resektion av visceral ven
+VPL		Annan öppen operation på viscerala vener
+VPN		Perkutan transluminal angioplastik (PTA) i viscerala vener
+VPP		Inläggning av stent i viscerala vener
+VPQ		Inläggning av stentgraft i viscerala vener
+VPR		Trombolys i vena cava inferior och viscerala vener
+VPU		Endovaskulärt uttagande av främmande material från viscerala vener
+VPW		Annan endovaskulär operation i viscerala vener
+VQA		Öppen exploration av vena cava inferior och bäckenvener
+VQB		Sutur på vena cava inferior och bäckenvener
+VQC		Ligatur eller delning av vena cava inferior och bäckenvener
+VQE		Trombektomi i vena cava inferior och bäckenvener
+VQF		Endovenektomi i vena cava inferior och bäckenvener
+VQG		Öppen plastik på vena cava inferior och bäckenvener
+VQJ		Bypass från eller interpositionsgraft i vena cava inferior och bäckenvener
+VQK		Öppet borttagande av graft eller främmande material från eller resektion av vena cava inferior och bäckenvener
+VQL		Annan öppen operation på vena cava inferior och bäckenvener
+VQN		Perkutan transluminal angioplastik (PTA) i vena cava inferior och bäckenvener
+VQP		Inläggning av stent eller filter i vena cava inferior och bäckenvener
+VQQ		Inläggning av stentgraft i vena cava inferior och bäckenvener
+VQR		Trombolys i vena cava inferior och bäckenvener
+VQS		Perkutan mekanisk trombektomi, mekanisk trombfragmentering eller sonotrombolys i vena cava inferior och bäckenvener
+VQT		Inläggning av ockluderande material i bäcken- och gonadvener
+VQU		Endovaskulärt uttagande av främmande material från vena cava inferior och bäckenvener
+VQW		Annan endovaskulär operation i vena cava inferior och bäckenvener
+VSA		Exploration av djup ven i ben
+VSB		Sutur på djup ven i ben
+VSC		Ligatur eller delning av djup ven i ben
+VSE		Trombektomi i djup ven i ben
+VSF		Endovenektomi i djup ven i ben
+VSG		Öppen plastik på djup ven i ben
+VSH		Transposition av djup ven i ben
+VSJ		Bypass, interpositionsgraft eller insättning av klaffbärande vensegment
+VSK		Resektion av djup ven i ben
+VSL		Annan öppen operation på djup ven i ben
+VSP		Inläggning av stent eller inläggning av venklaff
+VSQ		Inläggning av stentgraft i djup ven i ben
+VSR		Trombolys i djup ven i ben
+VSU		Endovaskulärt uttagande av främmande material från djup ven i ben
+VSW		Annan endovaskulär operation i djup ven i ben
+VUC		Ligatur eller delning av ytliga vener i ben, subfasciell endoskopisk perforantdelning (SEPS) i ben
+VUH		Transposition av ytlig ven i ben
+VUK		Resektion, stripping eller flebektomier av ytliga vener i ben
+VUL		Annan öppen operation på ytlig ven i ben
+VUV		Endovenös operation i eller injektionsbehandling av ytlig ven i ben
+VWA		Reoperation för sårruptur efter ingrepp på aorta, perifera kärl eller lymfsystemet
+VWB		Reoperation för ytlig infektion efter ingrepp på aorta, perifera kärl och lymfsystemet
+VWC		Reoperation för djup infektion efter ingrepp på aorta, perifera kärl och lymfsystemet
+VWD		Reoperation för ytlig blödning efter ingrepp på aorta, perifera kärl eller lymfsystemet
+VWE		Reoperation för djup blödning efter ingrepp på aorta, perifera kärl eller lymfsystemet
+VWF		Reoperation för anastomos- och suturinsufficiens efter ingrepp på aorta, perifera kärl och lymfsystemet
+VWG		Reoperation för trombos eller emboli efter ingrepp på aorta, perifera kärl eller lymfsystemet
+VWH		Reoperation för lymfocele efter ingrepp på aorta, perifera kärl eller lymfsystemet
+VWW		Annan reoperation på aorta, perifera kärl och lymfsystemet
+VXA		Exploration av lymfkörtlar inklusive eventuell biopsi
+VXC		Ligatur eller delning av lymfkärl och ductus thoracicus
+VXH		Anläggande av lymfovenös anastomos från lymfkärl och ductus thoracicus
+VXK		Exstirpation, radikal utrymning eller laparoskopiosk utrymning av lymfkörtlar
+VXL		Annan öppen operation på lymfsystemet
+XAA		XAA
+XAB		XAB
+XAW		XAW
+XAX		XAX
+XCC		XCC
+XCD		XCD
+XCK		XCK
+XCW		XCW
+XFE		XFE
+XFN		XFN
+XFP		XFP
+XFX		XFX
+XGX		XGX
+XJA		XJA
+XJC		XJC
+XJD		XJD
+XJF		XJF
+XJG		XJG
+XJH		XJH
+XJK		XJK
+XJL		XJL
+XJW		XJW
+XKA		XKA
+XKC		XKC
+XKD		XKD
+XKG		XKG
+XKW		XKW
+XKX		XKX
+XLE		XLE
+XLW		XLW
+XNA		XNA
+XNB		XNB
+XNW		XNW
+XNX		XNX
+XPX		XPX
+XXA		XXA
+YCA		Uttagningar av hornhinna till transplantation
+YFA		Uttagningar av hjärta eller hjärta-lungor till transplantation
+YGA		Uttagningar av lungor till transplantation
+YJA		Uttagningar av lever till transplantation
+YJB		Uttagningar av tunntarm till transplantation
+YJC		Uttagningar av magsäck och tunntarm till transplantation
+YJD		Uttagningar av bukspottkörtel till transplantation
+YKA		Uttagningar av njure till transplantation
+YNA		Uttagningar av ben och mjukdelar till transplantation
+YNB		Uttagningar av benmärg till transplantation
+YPA		Uttagningar av kärl till transplantation
+YQA		Excisioner av hud till transplantation
+YWA		Reoperation för sårruptur efter uttagning av organ eller vävnad till transplantation
+YWB		Reoperation för ytlig infektion efter uttagning av organ eller vävnad till transplantation
+YWC		Reoperation för djup infektion efter uttagning av organ eller vävnad till transplantation 
+YWD		Reoperation för ytlig blödning efter uttagning av organ eller vävnad till transplantation
+YWE		Reoperation för djup blödning efter uttagning av organ eller vävnad till transplantation
+YWF		Reoperation för anastomos- eller suturinsufficiens efter uttagning av organ eller vävnad till transplantation
+YWW		Andra reoperationer efter uttagning av organ eller vävnad till transplantation
+ZCG		Specificerad teknik vid operation av hornhinnor och senhinnor
+ZFN		Tilläggsteknik vid perkutana transluminala koronaroperationer
+ZFX		Kardiovaskulär kirurgisk teknik
+ZLX		Specificerad teknik för gynekologiska ingrepp
+ZPA		Intraoperativ användning av läkemedel eller ockluderande material för injektion
+ZQL		Längd på ingrepp i hud och subkutan vävnad	Används vid behov som tillägg till annan kod för att beskriva längd av ingrepp i hud och subkutan vävnad. Kan även användas för att beskriva omfattning av mobilisering och underminering av hudkanter vid rekonstruktiv kirurgi.
+ZQW		Bredd på ingrepp i hud och subkutan vävnad	Används vid behov som tillägg till annan kod för att beskriva bredd av ingrepp i hud och subkutan vävnad. Kan även användas för att beskriva omfattning av mobilisering och underminering av hudkanter vid rekonstruktiv kirurgi.
+ZQX		Speciell teknik för behandling av hudförändringar
+ZSA		ZSA
+ZSB		ZSB
+ZSC 		ZSC
+ZSD		ZSD
+ZSE		ZSE
+ZSF		ZSF
+ZSG		ZSG
+ZSH		ZSH
+ZSJ		ZSJ
+ZSK		ZSK
+ZSL		ZSL
+ZSM		ZSM
+ZSN		ZSN
+ZSP		ZSP
+ZSQ		ZSQ
+ZST		ZST
+ZSU		ZSU
+ZSX		ZSX
+ZSY		ZSY
+ZSZ		ZSZ
+ZUJ		Specifik teknik för transluminal gastroenterologisk endoskopi
+ZXA		Lateralitet
+ZXB		Lateralt - medialt
+ZXC		Kirurgisk teknik
+ZXD		Akut - elektivt
+ZXE		Operationens varaktighet	Från första snitt till sista sutur eller annan avslutning av operationen
+ZXF		Orsaker till avbruten operation
+ZXG		Behandling av peroperativt hjärtstillestånd
+ZXH		Anestesimetoder
+ZXK		Konvertering till öppen kirurgi	Motsvarande öppen kirurgi utförd när avsett ingrepp via annan ingångsväg har avbrutits p.g.a. misslyckande eller ogynnsam händelse
+ZXL		Användande av nät vid kirurgi	Vid ersättning, förstärkning eller fixering av kroppsstrukturer
+ZXM		Användande av bildteknik vid kirurgiska ingrepp
+ZZA		Fria hudtransplantat
+ZZB		Fria sentransplantat
+ZZC		Fria fascietransplantat
+ZZD		Fria duratransplantat
+ZZE		Fria muskeltransplantat
+ZZF		Fria fettvävnadstransplantat
+ZZG		Fria brosk- eller menisktransplantat
+ZZH		Fria periosttransplantat
+ZZJ		Fria perikondriumtransplantat
+ZZK		Fria nervtransplantat
+ZZL		Fria fosterhinnetransplantat
+ZZM		Fria sammansatta transplantat
+ZZN		Fria artärtransplantat
+ZZP		Fria ventransplantat
+ZZQ		Fria mikrovaskulära transplantat
+ZZR		Stjälkade lambåer
+ZZS		Kirurgisk teknik vid användning av lambå och vävnadsexpandrar
+ZZT		Fria bentransplantat
+ZZU		Fritt transplantat av olika slags vävnader

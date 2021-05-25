@@ -1,0 +1,21 @@
+﻿Kod:		Kodtext:
+A		Operationer på nervsystemet
+B		Operationer på endokrina organ
+C		Operationer och speciella undersökningar i ögonregionen
+D		Operationer på öron, näsan, halsen och struphuvudet
+E		Operationer på läppar, tänder, käkar, munnen och svalget
+F		Operationer på hjärtat och stora intratorakala kärl
+G		Operationer på bröstväggen, lungsäckar, mediastinum, diafragma, luftstrupen, luftrör och lungor
+H		Operationer på bröstkörtlar
+J		Operationer på mag-tarmkanalen och därtill hörande organ
+K		Operationer på urinvägar, manliga könsorgan och vävnaden bakom bukhinnan
+L		Operationer på kvinnliga könsorgan
+M		Obstetriska ingrepp
+N		Operationer på rörelseapparaten
+Q		Åtgärder på huden
+T		Mindre kirurgiska ingrepp
+U		Transluminal endoskopi
+V		Operationer på aorta, perifera kärl och lymfsystemet
+X		Diagnostiska åtgärder i anslutning till kirurgisk verksamhet
+Y		Uttagningar av organ till transplantation
+Z		Tilläggskoder
