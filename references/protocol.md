@@ -4,19 +4,18 @@ Version 0.0.1
 Author: Carl Ollvik Aasa
 
 Supervisors: Sonja Aits, sonja.aits@med.lu.se; Johanna Berg, johanna@tech.se
+Collaborator: Anton Werin
+
+## Task
+
+The task we want to solve is, given a sample medical chart from the emegancy room admission, written in Swedish, annotate each occurrence  of a symptom (SYM), finding (FND) and negation (NEG) with a tag according to the labels in respective parenthesises. The specifics for this annotation are concurrently to be developed and enforced as a whole before evaluation. Put simply it's a sequence-labeling task to classify each token according, as belonging to one or none annotation class.
+
+This will be done both by a trained medical professional and by a suppervised learning algorithm. Comparing these two on a rather small set of example text we will develop and iteratively test a prototype annotation assitor for Swedish medical charts.
+
 
 ## Background
+
 BERT AND/OR Dictionary (we don't know which is best for medical journals, union or intersection
-
-
-
-En enorm mängd data för symtombilder och olika medicinska tillstånd och processer finns i medicinsk dokumentation, men är skriven som fritext i journaler. Deep learning modeller av neurala nätverk för NLP (Natural language processing) har använts för allt från digitala assistenter, automatisk summering, chatbots och text-generering. En sådan modell tränad för medicinsk språk skulle ha potential att kunna hantera och strukturera den data som finns i journaltexter med specifika mål.
-
-I den rådande covid-19 krisen behöver myndigheter och forskare utveckla behandlingar och smittskyddsstrategier i snabbast mån möjligt, men välgrundade beslut kräver genomgångar av ett växande berg information. För närvarande finns över 130,000 vetenskapliga artiklar om COVID19(1) och utöver det finns en enorm mängd av data i form av journaltexter, vilket i kombination med att denna data är fragmenterad och ostrukturerad i praktiken gör den omöjlig för människor att utnyttja till fullo. 
-
-Ett viktigt steg i biomedicinsk natural language processing (BioNLP) är att identifiera relevanta nyckelfraser och -ord, samt deras synonymer, så kallad named entity recognition (NER). I fall som covid-pandemin är detta speciellt svårt då det inte fanns ett officiellt namn i början. Sedan kan man även leta efter kopplingar mellan nyckelfraserna, så kallad named entity linking (NEL). En del arbete för NER och NEL har redan gjorts på medicinsk engelska, men de nya teknologiska utvecklingarna har inte överförts för medicinsk svenska än. Detta begränsar möjligheten för att använda teknologin i Sverige.(2)
-
-Målet med detta projekt är utveckla och utvärdera en verktygslåda för natural language processing för svenskt mediciniskt språk och anpassa den för att extrahera information relaterad till COVID19.
 
 ## Frågeställningar
 
@@ -27,13 +26,17 @@ Vilka existerande datakällor kan användas för att träna NLP modeller för sv
 
 #### Corpus
 
+https://www.socialstyrelsen.se/utveckla-verksamhet/e-halsa/klassificering-och-koder/kodtextfiler/
+
+
+
 Insamling av stora mänger medicinska texter på svenska behövs för att träna en grundläggande språkmodell. Själva innehållet är mindre relevant så länge det kommer från medicinska områden eller närliggande teman. Inklusionskriterier är därför bara om texterna är på svenska, är tillgängliga och om dem kan utan större problem omvandlas till en maskinläsbart format. Olika källor kommer att utvärderas och om de uppfyller kriterierna kommer texterna att samlas in och formaterats till en standardiserad format: SVT hemsida, existerande samlingar i språkbanken(3), wikipedia samt journaltexter från akutvårdspatienter vid Skånes Universitetssjukhus under 2020, med mera.
 
 #### Sources
 
 #### Data Structuring - Annotation
 
-Nyckelord och -fraser som beskriver symptom kommer att annoteras i en del av texterna i samlingen, med fokus på texter relaterade till COVID19, t.ex. nyhets- och journaltexter, vilket har tidigare gjorts på engelska.(4) Detta behövs för att träna ett NER modell samt för att utvärdera NER verktyg. 
+Nyckelord och -fraser som beskriver symptom kommer att annoteras i en del av texterna i samlingen, med fokus på texter relaterade till COVID19, t.ex. nyhets- och journaltexter, vilket har tidigare gjorts på engelska.(4) Detta behövs för att träna ett NER modell samt för att utvärdera NER verktyg.
 
 #### 3. Anpassa ett existerande engelsk NER verktyg för svenska texter
 
