@@ -4,6 +4,7 @@ import csv
 from pathlib import Path
 from inspect import getsourcefile
 from os.path import abspath
+import re
 
 # get file path, should work on most systems
 #file_path = abspath(getsourcefile(lambda:0))
@@ -18,7 +19,7 @@ neg_terms = {}
 
 with open(DATA_PATH / 'raw/negations/negEx2.txt','r', encoding='utf-8') as negations:
     for line in negations:
-        x = line.split("\t")
+        x = re.split(r'\s+\[', line)
         key = x[0]
         value = x[1].strip()
         value = value.rstrip("]")
@@ -30,4 +31,4 @@ print(neg_terms)
 df = pd.DataFrame.from_dict(neg_terms, orient="index")
 
 print(df)
-df.sort_index().to_csv(DATA_PATH / 'interim/negEx_sorted2.csv', encoding="utf-8
+df.sort_index().to_csv(DATA_PATH / 'interim/negEx_sorted2.csv', encoding="utf-8")
