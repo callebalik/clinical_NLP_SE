@@ -1,0 +1,187 @@
+# text = Kontaktorsak: Svullen fotled
+1	Kontaktorsak:	_	_	_	_	_	_	_	_
+2	Svullen	_	_	_	_	_	_	_	_
+3	fotled	_	_	_	_	_	_	_	_
+
+# text = Tidigare sjukdom: Tidigare väsentligen frisk
+1	Tidigare	_	_	_	_	_	_	_	_
+2	sjukdom:	_	_	_	_	_	_	_	_
+3	Tidigare	_	_	_	_	_	_	_	_
+4	väsentligen	_	_	_	_	_	_	_	_
+5	frisk	_	_	_	_	_	_	_	_
+
+# text = Socialt: Jobbar som ingenjör. Bor i Villa med familjen.
+1	Socialt:	_	_	_	_	_	_	_	_
+2	Jobbar	_	_	_	_	_	_	_	_
+3	som	_	_	_	_	_	_	_	_
+4	ingenjör.	_	_	_	_	_	_	_	_
+5	Bor	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	Villa	_	_	_	_	_	_	_	_
+8	med	_	_	_	_	_	_	_	_
+9	familjen.	_	_	_	_	_	_	_	_
+
+# text = Aktuellt: Patienten uppger smärta och svullnad på höger fot som började igår kväll. Försökte sova av smärtan men var ännu värre på morgonen. Svårt att röra på foten och stödja på den. Sökte därför akut. Uppger sig ha haft en liknande episod för ett halvår sedan.
+1	Aktuellt:	_	_	_	_	_	_	_	_
+2	Patienten	_	_	_	_	_	_	_	_
+3	uppger	_	_	_	_	_	_	_	_
+4	smärta	_	_	_	_	_	_	_	_
+5	och	_	_	_	_	_	_	_	_
+6	svullnad	_	_	_	_	_	_	_	_
+7	på	_	_	_	_	_	_	_	_
+8	höger	_	_	_	_	_	_	_	_
+9	fot	_	_	_	_	_	_	_	_
+10	som	_	_	_	_	_	_	_	_
+11	började	_	_	_	_	_	_	_	_
+12	igår	_	_	_	_	_	_	_	_
+13	kväll.	_	_	_	_	_	_	_	_
+14	Försökte	_	_	_	_	_	_	_	_
+15	sova	_	_	_	_	_	_	_	_
+16	av	_	_	_	_	_	_	_	_
+17	smärtan	_	_	_	_	_	_	_	_
+18	men	_	_	_	_	_	_	_	_
+19	var	_	_	_	_	_	_	_	_
+20	ännu	_	_	_	_	_	_	_	_
+21	värre	_	_	_	_	_	_	_	_
+22	på	_	_	_	_	_	_	_	_
+23	morgonen.	_	_	_	_	_	_	_	_
+24	Svårt	_	_	_	_	_	_	_	_
+25	att	_	_	_	_	_	_	_	_
+26	röra	_	_	_	_	_	_	_	_
+27	på	_	_	_	_	_	_	_	_
+28	foten	_	_	_	_	_	_	_	_
+29	och	_	_	_	_	_	_	_	_
+30	stödja	_	_	_	_	_	_	_	_
+31	på	_	_	_	_	_	_	_	_
+32	den.	_	_	_	_	_	_	_	_
+33	Sökte	_	_	_	_	_	_	_	_
+34	därför	_	_	_	_	_	_	_	_
+35	akut.	_	_	_	_	_	_	_	_
+36	Uppger	_	_	_	_	_	_	_	_
+37	sig	_	_	_	_	_	_	_	_
+38	ha	_	_	_	_	_	_	_	_
+39	haft	_	_	_	_	_	_	_	_
+40	en	_	_	_	_	_	_	_	_
+41	liknande	_	_	_	_	_	_	_	_
+42	episod	_	_	_	_	_	_	_	_
+43	för	_	_	_	_	_	_	_	_
+44	ett	_	_	_	_	_	_	_	_
+45	halvår	_	_	_	_	_	_	_	_
+46	sedan.	_	_	_	_	_	_	_	_
+
+# text = Status:
+1	Status:	_	_	_	_	_	_	_	_
+
+# text = Allmäntillstånd: Något smärtpåverkad men i övrigt gott
+1	Allmäntillstånd:	_	_	_	_	_	_	_	_
+2	Något	_	_	_	_	_	_	_	_
+3	smärtpåverkad	_	_	_	_	_	_	_	_
+4	men	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	övrigt	_	_	_	_	_	_	_	_
+7	gott	_	_	_	_	_	_	_	_
+
+# text = Cor: Regelbunden normofrekvent rytm utan blåsljud. BT 155/80, puls 80s/min
+1	Cor:	_	_	_	_	_	_	_	_
+2	Regelbunden	_	_	_	_	_	_	_	_
+3	normofrekvent	_	_	_	_	_	_	_	_
+4	rytm	_	_	_	_	_	_	_	_
+5	utan	_	_	_	_	_	_	_	_
+6	blåsljud.	_	_	_	_	_	_	_	_
+7	BT	_	_	_	_	_	_	_	_
+8	155/80,	_	_	_	_	_	_	_	_
+9	puls	_	_	_	_	_	_	_	_
+10	80s/min	_	_	_	_	_	_	_	_
+
+# text = Pulm: Vesikulära andningsljud bilateralt.
+1	Pulm:	_	_	_	_	_	_	_	_
+2	Vesikulära	_	_	_	_	_	_	_	_
+3	andningsljud	_	_	_	_	_	_	_	_
+4	bilateralt.	_	_	_	_	_	_	_	_
+
+# text = Lokalstatus Höger fot: Kraftig svullnad och rodnad kring Talocruralleden samt MTP 1. Palpationsöm vid dessa lokalisationer samt inskränkt rörelseomfång.
+1	Lokalstatus	_	_	_	_	_	_	_	_
+2	Höger	_	_	_	_	_	_	_	_
+3	fot:	_	_	_	_	_	_	_	_
+4	Kraftig	_	_	_	_	_	_	_	_
+5	svullnad	_	_	_	_	_	_	_	_
+6	och	_	_	_	_	_	_	_	_
+7	rodnad	_	_	_	_	_	_	_	_
+8	kring	_	_	_	_	_	_	_	_
+9	Talocruralleden	_	_	_	_	_	_	_	_
+10	samt	_	_	_	_	_	_	_	_
+11	MTP	_	_	_	_	_	_	_	_
+12	1.	_	_	_	_	_	_	_	_
+13	Palpationsöm	_	_	_	_	_	_	_	_
+14	vid	_	_	_	_	_	_	_	_
+15	dessa	_	_	_	_	_	_	_	_
+16	lokalisationer	_	_	_	_	_	_	_	_
+17	samt	_	_	_	_	_	_	_	_
+18	inskränkt	_	_	_	_	_	_	_	_
+19	rörelseomfång.	_	_	_	_	_	_	_	_
+
+# text = Lab: CRP 17. P-Urat 566 μmol/L. HB 145.
+1	Lab:	_	_	_	_	_	_	_	_
+2	CRP	_	_	_	_	_	_	_	_
+3	17.	_	_	_	_	_	_	_	_
+4	P-Urat	_	_	_	_	_	_	_	_
+5	566	_	_	_	_	_	_	_	_
+6	μmol/L.	_	_	_	_	_	_	_	_
+7	HB	_	_	_	_	_	_	_	_
+8	145.	_	_	_	_	_	_	_	_
+
+# text = Ledpunktion av Talocruralleden ger genomskinligt högvisköst punktat i utbyte. Leukocyter 22, Granulocyter 54%, Rikligt med kristaller ses i mikroskop.
+1	Ledpunktion	_	_	_	_	_	_	_	_
+2	av	_	_	_	_	_	_	_	_
+3	Talocruralleden	_	_	_	_	_	_	_	_
+4	ger	_	_	_	_	_	_	_	_
+5	genomskinligt	_	_	_	_	_	_	_	_
+6	högvisköst	_	_	_	_	_	_	_	_
+7	punktat	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	utbyte.	_	_	_	_	_	_	_	_
+10	Leukocyter	_	_	_	_	_	_	_	_
+11	22,	_	_	_	_	_	_	_	_
+12	Granulocyter	_	_	_	_	_	_	_	_
+13	54%,	_	_	_	_	_	_	_	_
+14	Rikligt	_	_	_	_	_	_	_	_
+15	med	_	_	_	_	_	_	_	_
+16	kristaller	_	_	_	_	_	_	_	_
+17	ses	_	_	_	_	_	_	_	_
+18	i	_	_	_	_	_	_	_	_
+19	mikroskop.	_	_	_	_	_	_	_	_
+
+# text = Bedömning: Gikt
+1	Bedömning:	_	_	_	_	_	_	_	_
+2	Gikt	_	_	_	_	_	_	_	_
+
+# text = Åtgärd: NSAID i maxdos Ibuprofen 400mg x 3. rekommenderar avlastning och nerkylning av svullnaderna. Skriver remiss till Vårdcentral för kontroll efter skovet
+1	Åtgärd:	_	_	_	_	_	_	_	_
+2	NSAID	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	maxdos	_	_	_	_	_	_	_	_
+5	Ibuprofen	_	_	_	_	_	_	_	_
+6	400mg	_	_	_	_	_	_	_	_
+7	x	_	_	_	_	_	_	_	_
+8	3.	_	_	_	_	_	_	_	_
+9	rekommenderar	_	_	_	_	_	_	_	_
+10	avlastning	_	_	_	_	_	_	_	_
+11	och	_	_	_	_	_	_	_	_
+12	nerkylning	_	_	_	_	_	_	_	_
+13	av	_	_	_	_	_	_	_	_
+14	svullnaderna.	_	_	_	_	_	_	_	_
+15	Skriver	_	_	_	_	_	_	_	_
+16	remiss	_	_	_	_	_	_	_	_
+17	till	_	_	_	_	_	_	_	_
+18	Vårdcentral	_	_	_	_	_	_	_	_
+19	för	_	_	_	_	_	_	_	_
+20	kontroll	_	_	_	_	_	_	_	_
+21	efter	_	_	_	_	_	_	_	_
+22	skovet	_	_	_	_	_	_	_	_
+
+# text = Diagnos: M10.9 Gikt, ospecificerad
+1	Diagnos:	_	_	_	_	_	_	_	_
+2	M10.9	_	_	_	_	_	_	_	_
+3	Gikt,	_	_	_	_	_	_	_	_
+4	ospecificerad	_	_	_	_	_	_	_	_
+
