@@ -16,7 +16,7 @@ DATA_PATH = SRC_PATH.parent / 'data'
 
 neg_terms = {}
 
-with open(DATA_PATH / 'raw/negations/negEx.txt','r', encoding='utf-8') as negations:
+with open(DATA_PATH / 'raw/negations/negEx2.txt','r', encoding='utf-8') as negations:
     for line in negations:
         x = line.split("\t")
         key = x[0]
@@ -30,4 +30,4 @@ print(neg_terms)
 df = pd.DataFrame.from_dict(neg_terms, orient="index")
 
 print(df)
-df.sort_index().to_csv(DATA_PATH / 'interim/negEx_sorted.csv', encoding="utf-8")
+df.sort_index().to_csv(DATA_PATH / 'interim/negEx_sorted2.csv', encoding="utf-8
