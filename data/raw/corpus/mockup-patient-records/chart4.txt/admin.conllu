@@ -1,0 +1,490 @@
+# text = Kontaktorsak: Intoxikation Tidigare sjukdomar: Oklart, har inga tidigare registrerade vårdtillfällen i Melior.
+1	Kontaktorsak	_	_	_	_	_	_	_	SpaceAfter=No
+2	:	_	_	_	_	_	_	_	_
+3	Intoxikation	_	_	_	_	_	_	_	_
+4	Tidigare	_	_	_	_	_	_	_	_
+5	sjukdomar	_	_	_	_	_	_	_	SpaceAfter=No
+6	:	_	_	_	_	_	_	_	_
+7	Oklart	_	_	_	_	_	_	_	SpaceAfter=No
+8	,	_	_	_	_	_	_	_	_
+9	har	_	_	_	_	_	_	_	_
+10	inga	_	_	_	_	_	_	_	_
+11	tidigare	_	_	_	_	_	_	_	_
+12	registrerade	_	_	_	_	_	_	_	_
+13	vårdtillfällen	_	_	_	_	_	_	_	_
+14	i	_	_	_	_	_	_	_	_
+15	Melior	_	_	_	_	_	_	_	SpaceAfter=No
+16	.	_	_	_	_	_	_	_	_
+
+# text = Aktuellt: Inkommer tillsammans med polis, funnen på södervärn där hon slagit på rutan till pressbyrån och betett sig agiterat.
+1	Aktuellt	_	_	_	_	_	_	_	SpaceAfter=No
+2	:	_	_	_	_	_	_	_	_
+3	Inkommer	_	_	_	_	_	_	_	_
+4	tillsammans	_	_	_	_	_	_	_	_
+5	med	_	_	_	_	_	_	_	_
+6	polis	_	_	_	_	_	_	_	SpaceAfter=No
+7	,	_	_	_	_	_	_	_	_
+8	funnen	_	_	_	_	_	_	_	_
+9	på	_	_	_	_	_	_	_	_
+10	södervärn	_	_	_	_	_	_	_	_
+11	där	_	_	_	_	_	_	_	_
+12	hon	_	_	_	_	_	_	_	_
+13	slagit	_	_	_	_	_	_	_	_
+14	på	_	_	_	_	_	_	_	_
+15	rutan	_	_	_	_	_	_	_	_
+16	till	_	_	_	_	_	_	_	_
+17	pressbyrån	_	_	_	_	_	_	_	_
+18	och	_	_	_	_	_	_	_	_
+19	betett	_	_	_	_	_	_	_	_
+20	sig	_	_	_	_	_	_	_	_
+21	agiterat	_	_	_	_	_	_	_	SpaceAfter=No
+22	.	_	_	_	_	_	_	_	_
+
+# text = Ej känd av polisen.
+1	Ej	_	_	_	_	_	_	_	_
+2	känd	_	_	_	_	_	_	_	_
+3	av	_	_	_	_	_	_	_	_
+4	polisen	_	_	_	_	_	_	_	SpaceAfter=No
+5	.	_	_	_	_	_	_	_	_
+
+# text = I samband med omhändertagandet kräkts och blivit mer svårkontaktbar varpå man fört henne till akutmottagningen.
+1	I	_	_	_	_	_	_	_	_
+2	samband	_	_	_	_	_	_	_	_
+3	med	_	_	_	_	_	_	_	_
+4	omhändertagandet	_	_	_	_	_	_	_	_
+5	kräkts	_	_	_	_	_	_	_	_
+6	och	_	_	_	_	_	_	_	_
+7	blivit	_	_	_	_	_	_	_	_
+8	mer	_	_	_	_	_	_	_	_
+9	svårkontaktbar	_	_	_	_	_	_	_	_
+10	varpå	_	_	_	_	_	_	_	_
+11	man	_	_	_	_	_	_	_	_
+12	fört	_	_	_	_	_	_	_	_
+13	henne	_	_	_	_	_	_	_	_
+14	till	_	_	_	_	_	_	_	_
+15	akutmottagningen	_	_	_	_	_	_	_	SpaceAfter=No
+16	.	_	_	_	_	_	_	_	_
+
+# text = Talat enstaka ord men inte kunnat ge någon autoanamnes.
+1	Talat	_	_	_	_	_	_	_	_
+2	enstaka	_	_	_	_	_	_	_	_
+3	ord	_	_	_	_	_	_	_	_
+4	men	_	_	_	_	_	_	_	_
+5	inte	_	_	_	_	_	_	_	_
+6	kunnat	_	_	_	_	_	_	_	_
+7	ge	_	_	_	_	_	_	_	_
+8	någon	_	_	_	_	_	_	_	_
+9	autoanamnes	_	_	_	_	_	_	_	SpaceAfter=No
+10	.	_	_	_	_	_	_	_	_
+
+# text = Status: AT: Ligger på britsen, somnar snabbt undan men tittar upp vid tilltal.
+1	Status	_	_	_	_	_	_	_	SpaceAfter=No
+2	:	_	_	_	_	_	_	_	_
+3	AT	_	_	_	_	_	_	_	SpaceAfter=No
+4	:	_	_	_	_	_	_	_	_
+5	Ligger	_	_	_	_	_	_	_	_
+6	på	_	_	_	_	_	_	_	_
+7	britsen	_	_	_	_	_	_	_	SpaceAfter=No
+8	,	_	_	_	_	_	_	_	_
+9	somnar	_	_	_	_	_	_	_	_
+10	snabbt	_	_	_	_	_	_	_	_
+11	undan	_	_	_	_	_	_	_	_
+12	men	_	_	_	_	_	_	_	_
+13	tittar	_	_	_	_	_	_	_	_
+14	upp	_	_	_	_	_	_	_	_
+15	vid	_	_	_	_	_	_	_	_
+16	tilltal	_	_	_	_	_	_	_	SpaceAfter=No
+17	.	_	_	_	_	_	_	_	_
+
+# text = Hel och ren.
+1	Hel	_	_	_	_	_	_	_	_
+2	och	_	_	_	_	_	_	_	_
+3	ren	_	_	_	_	_	_	_	SpaceAfter=No
+4	.	_	_	_	_	_	_	_	_
+
+# text = Cor: Normofrekvent regelbunden rytm, takykard 110.
+1	Cor	_	_	_	_	_	_	_	SpaceAfter=No
+2	:	_	_	_	_	_	_	_	_
+3	Normofrekvent	_	_	_	_	_	_	_	_
+4	regelbunden	_	_	_	_	_	_	_	_
+5	rytm	_	_	_	_	_	_	_	SpaceAfter=No
+6	,	_	_	_	_	_	_	_	_
+7	takykard	_	_	_	_	_	_	_	_
+8	110	_	_	_	_	_	_	_	SpaceAfter=No
+9	.	_	_	_	_	_	_	_	_
+
+# text = Diskret blåsljud.
+1	Diskret	_	_	_	_	_	_	_	_
+2	blåsljud	_	_	_	_	_	_	_	SpaceAfter=No
+3	.	_	_	_	_	_	_	_	_
+
+# text = Pulm: Vesikulära andningsljud i liggande.
+1	Pulm	_	_	_	_	_	_	_	SpaceAfter=No
+2	:	_	_	_	_	_	_	_	_
+3	Vesikulära	_	_	_	_	_	_	_	_
+4	andningsljud	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	liggande	_	_	_	_	_	_	_	SpaceAfter=No
+7	.	_	_	_	_	_	_	_	_
+
+# text = Buk: Svårundersökt, men ter sig mjuk och oöm.
+1	Buk	_	_	_	_	_	_	_	SpaceAfter=No
+2	:	_	_	_	_	_	_	_	_
+3	Svårundersökt	_	_	_	_	_	_	_	SpaceAfter=No
+4	,	_	_	_	_	_	_	_	_
+5	men	_	_	_	_	_	_	_	_
+6	ter	_	_	_	_	_	_	_	_
+7	sig	_	_	_	_	_	_	_	_
+8	mjuk	_	_	_	_	_	_	_	_
+9	och	_	_	_	_	_	_	_	_
+10	oöm	_	_	_	_	_	_	_	SpaceAfter=No
+11	.	_	_	_	_	_	_	_	_
+
+# text = Inget peritonit, ingen förstorad lever.
+1	Inget	_	_	_	_	_	_	_	_
+2	peritonit	_	_	_	_	_	_	_	SpaceAfter=No
+3	,	_	_	_	_	_	_	_	_
+4	ingen	_	_	_	_	_	_	_	_
+5	förstorad	_	_	_	_	_	_	_	_
+6	lever	_	_	_	_	_	_	_	SpaceAfter=No
+7	.	_	_	_	_	_	_	_	_
+
+# text = Hudkostym: Hel, varm och torr.
+1	Hudkostym	_	_	_	_	_	_	_	SpaceAfter=No
+2	:	_	_	_	_	_	_	_	_
+3	Hel	_	_	_	_	_	_	_	SpaceAfter=No
+4	,	_	_	_	_	_	_	_	_
+5	varm	_	_	_	_	_	_	_	_
+6	och	_	_	_	_	_	_	_	_
+7	torr	_	_	_	_	_	_	_	SpaceAfter=No
+8	.	_	_	_	_	_	_	_	_
+
+# text = Temp: 37.8 EKG: Sinusrytm med kammarfrekvens 117, gränslång QTc-tid.
+1	Temp	_	_	_	_	_	_	_	SpaceAfter=No
+2	:	_	_	_	_	_	_	_	_
+3	37.8	_	_	_	_	_	_	_	_
+4	EKG	_	_	_	_	_	_	_	SpaceAfter=No
+5	:	_	_	_	_	_	_	_	_
+6	Sinusrytm	_	_	_	_	_	_	_	_
+7	med	_	_	_	_	_	_	_	_
+8	kammarfrekvens	_	_	_	_	_	_	_	_
+9	117	_	_	_	_	_	_	_	SpaceAfter=No
+10	,	_	_	_	_	_	_	_	_
+11	gränslång	_	_	_	_	_	_	_	_
+12	QTc-tid	_	_	_	_	_	_	_	SpaceAfter=No
+13	.	_	_	_	_	_	_	_	_
+
+# text = Psykiskt status: Hel, ren.
+1	Psykiskt	_	_	_	_	_	_	_	_
+2	status	_	_	_	_	_	_	_	SpaceAfter=No
+3	:	_	_	_	_	_	_	_	_
+4	Hel	_	_	_	_	_	_	_	SpaceAfter=No
+5	,	_	_	_	_	_	_	_	_
+6	ren	_	_	_	_	_	_	_	SpaceAfter=No
+7	.	_	_	_	_	_	_	_	_
+
+# text = Förlångsammad, RLS 2.
+1	Förlångsammad	_	_	_	_	_	_	_	SpaceAfter=No
+2	,	_	_	_	_	_	_	_	_
+3	RLS	_	_	_	_	_	_	_	_
+4	2	_	_	_	_	_	_	_	SpaceAfter=No
+5	.	_	_	_	_	_	_	_	_
+
+# text = Tittar upp och ger kontakt vid tilltal, svarar adekvat på enstaka frågor.
+1	Tittar	_	_	_	_	_	_	_	_
+2	upp	_	_	_	_	_	_	_	_
+3	och	_	_	_	_	_	_	_	_
+4	ger	_	_	_	_	_	_	_	_
+5	kontakt	_	_	_	_	_	_	_	_
+6	vid	_	_	_	_	_	_	_	_
+7	tilltal	_	_	_	_	_	_	_	SpaceAfter=No
+8	,	_	_	_	_	_	_	_	_
+9	svarar	_	_	_	_	_	_	_	_
+10	adekvat	_	_	_	_	_	_	_	_
+11	på	_	_	_	_	_	_	_	_
+12	enstaka	_	_	_	_	_	_	_	_
+13	frågor	_	_	_	_	_	_	_	SpaceAfter=No
+14	.	_	_	_	_	_	_	_	_
+
+# text = Svarar ej på intag av droger eller överdosering av läkemedel.
+1	Svarar	_	_	_	_	_	_	_	_
+2	ej	_	_	_	_	_	_	_	_
+3	på	_	_	_	_	_	_	_	_
+4	intag	_	_	_	_	_	_	_	_
+5	av	_	_	_	_	_	_	_	_
+6	droger	_	_	_	_	_	_	_	_
+7	eller	_	_	_	_	_	_	_	_
+8	överdosering	_	_	_	_	_	_	_	_
+9	av	_	_	_	_	_	_	_	_
+10	läkemedel	_	_	_	_	_	_	_	SpaceAfter=No
+11	.	_	_	_	_	_	_	_	_
+
+# text = Inga overta psykotiska symptom.
+1	Inga	_	_	_	_	_	_	_	_
+2	overta	_	_	_	_	_	_	_	_
+3	psykotiska	_	_	_	_	_	_	_	_
+4	symptom	_	_	_	_	_	_	_	SpaceAfter=No
+5	.	_	_	_	_	_	_	_	_
+
+# text = Går ej att penetrera suicidanmanes närmare.
+1	Går	_	_	_	_	_	_	_	_
+2	ej	_	_	_	_	_	_	_	_
+3	att	_	_	_	_	_	_	_	_
+4	penetrera	_	_	_	_	_	_	_	_
+5	suicidanmanes	_	_	_	_	_	_	_	_
+6	närmare	_	_	_	_	_	_	_	SpaceAfter=No
+7	.	_	_	_	_	_	_	_	_
+
+# text = Neurologi: RLS 2, förlångsammad med förstår uppmaningar.
+1	Neurologi	_	_	_	_	_	_	_	SpaceAfter=No
+2	:	_	_	_	_	_	_	_	_
+3	RLS	_	_	_	_	_	_	_	_
+4	2	_	_	_	_	_	_	_	SpaceAfter=No
+5	,	_	_	_	_	_	_	_	_
+6	förlångsammad	_	_	_	_	_	_	_	_
+7	med	_	_	_	_	_	_	_	_
+8	förstår	_	_	_	_	_	_	_	_
+9	uppmaningar	_	_	_	_	_	_	_	SpaceAfter=No
+10	.	_	_	_	_	_	_	_	_
+
+# text = Rör samtliga extremiteter.
+1	Rör	_	_	_	_	_	_	_	_
+2	samtliga	_	_	_	_	_	_	_	_
+3	extremiteter	_	_	_	_	_	_	_	SpaceAfter=No
+4	.	_	_	_	_	_	_	_	_
+
+# text = Ingen tremor.
+1	Ingen	_	_	_	_	_	_	_	_
+2	tremor	_	_	_	_	_	_	_	SpaceAfter=No
+3	.	_	_	_	_	_	_	_	_
+
+# text = Normalstora pupiller som regagerar normalt för ljus, ingen nystagmus.
+1	Normalstora	_	_	_	_	_	_	_	_
+2	pupiller	_	_	_	_	_	_	_	_
+3	som	_	_	_	_	_	_	_	_
+4	regagerar	_	_	_	_	_	_	_	_
+5	normalt	_	_	_	_	_	_	_	_
+6	för	_	_	_	_	_	_	_	_
+7	ljus	_	_	_	_	_	_	_	SpaceAfter=No
+8	,	_	_	_	_	_	_	_	_
+9	ingen	_	_	_	_	_	_	_	_
+10	nystagmus	_	_	_	_	_	_	_	SpaceAfter=No
+11	.	_	_	_	_	_	_	_	_
+
+# text = Ingen kranialnervspåverkan.
+1	Ingen	_	_	_	_	_	_	_	_
+2	kranialnervspåverkan	_	_	_	_	_	_	_	SpaceAfter=No
+3	.	_	_	_	_	_	_	_	_
+
+# text = Sensibilitet grovt testat utan anmärkning.
+1	Sensibilitet	_	_	_	_	_	_	_	_
+2	grovt	_	_	_	_	_	_	_	_
+3	testat	_	_	_	_	_	_	_	_
+4	utan	_	_	_	_	_	_	_	_
+5	anmärkning	_	_	_	_	_	_	_	SpaceAfter=No
+6	.	_	_	_	_	_	_	_	_
+
+# text = Lättutlösta reflexer med positiv babinski bilat.
+1	Lättutlösta	_	_	_	_	_	_	_	_
+2	reflexer	_	_	_	_	_	_	_	_
+3	med	_	_	_	_	_	_	_	_
+4	positiv	_	_	_	_	_	_	_	_
+5	babinski	_	_	_	_	_	_	_	_
+6	bilat	_	_	_	_	_	_	_	SpaceAfter=No
+7	.	_	_	_	_	_	_	_	_
+
+# text = Lab: Venösblodgas med lätt metabol acidos, i övrigt utan anmärkning.
+1	Lab	_	_	_	_	_	_	_	SpaceAfter=No
+2	:	_	_	_	_	_	_	_	_
+3	Venösblodgas	_	_	_	_	_	_	_	_
+4	med	_	_	_	_	_	_	_	_
+5	lätt	_	_	_	_	_	_	_	_
+6	metabol	_	_	_	_	_	_	_	_
+7	acidos	_	_	_	_	_	_	_	SpaceAfter=No
+8	,	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	övrigt	_	_	_	_	_	_	_	_
+11	utan	_	_	_	_	_	_	_	_
+12	anmärkning	_	_	_	_	_	_	_	SpaceAfter=No
+13	.	_	_	_	_	_	_	_	_
+
+# text = Bedömning: Oklar intoxikation, ej känd i Malmö tidigare och enligt folkbokföring boende i Karlskrona.
+1	Bedömning	_	_	_	_	_	_	_	SpaceAfter=No
+2	:	_	_	_	_	_	_	_	_
+3	Oklar	_	_	_	_	_	_	_	_
+4	intoxikation	_	_	_	_	_	_	_	SpaceAfter=No
+5	,	_	_	_	_	_	_	_	_
+6	ej	_	_	_	_	_	_	_	_
+7	känd	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	Malmö	_	_	_	_	_	_	_	_
+10	tidigare	_	_	_	_	_	_	_	_
+11	och	_	_	_	_	_	_	_	_
+12	enligt	_	_	_	_	_	_	_	_
+13	folkbokföring	_	_	_	_	_	_	_	_
+14	boende	_	_	_	_	_	_	_	_
+15	i	_	_	_	_	_	_	_	_
+16	Karlskrona	_	_	_	_	_	_	_	SpaceAfter=No
+17	.	_	_	_	_	_	_	_	_
+
+# text = Enligt Pascal under pågående behandling med SSRI pga depression, fått utskrivet lergigan/comp för tre dagar sedan.
+1	Enligt	_	_	_	_	_	_	_	_
+2	Pascal	_	_	_	_	_	_	_	_
+3	under	_	_	_	_	_	_	_	_
+4	pågående	_	_	_	_	_	_	_	_
+5	behandling	_	_	_	_	_	_	_	_
+6	med	_	_	_	_	_	_	_	_
+7	SSRI	_	_	_	_	_	_	_	_
+8	pga	_	_	_	_	_	_	_	_
+9	depression	_	_	_	_	_	_	_	SpaceAfter=No
+10	,	_	_	_	_	_	_	_	_
+11	fått	_	_	_	_	_	_	_	_
+12	utskrivet	_	_	_	_	_	_	_	_
+13	lergigan	_	_	_	_	_	_	_	SpaceAfter=No
+14	/	_	_	_	_	_	_	_	SpaceAfter=No
+15	comp	_	_	_	_	_	_	_	_
+16	för	_	_	_	_	_	_	_	_
+17	tre	_	_	_	_	_	_	_	_
+18	dagar	_	_	_	_	_	_	_	_
+19	sedan	_	_	_	_	_	_	_	SpaceAfter=No
+20	.	_	_	_	_	_	_	_	_
+
+# text = Kliniskt misstanke om antikollinergt syndrom, har även resurin på 800ml.
+1	Kliniskt	_	_	_	_	_	_	_	_
+2	misstanke	_	_	_	_	_	_	_	_
+3	om	_	_	_	_	_	_	_	_
+4	antikollinergt	_	_	_	_	_	_	_	_
+5	syndrom	_	_	_	_	_	_	_	SpaceAfter=No
+6	,	_	_	_	_	_	_	_	_
+7	har	_	_	_	_	_	_	_	_
+8	även	_	_	_	_	_	_	_	_
+9	resurin	_	_	_	_	_	_	_	_
+10	på	_	_	_	_	_	_	_	_
+11	800ml	_	_	_	_	_	_	_	SpaceAfter=No
+12	.	_	_	_	_	_	_	_	_
+
+# text = Disk med giftinformation, med hänsyn till okänd tid för intaget väljer att inte magskölja.
+1	Disk	_	_	_	_	_	_	_	_
+2	med	_	_	_	_	_	_	_	_
+3	giftinformation	_	_	_	_	_	_	_	SpaceAfter=No
+4	,	_	_	_	_	_	_	_	_
+5	med	_	_	_	_	_	_	_	_
+6	hänsyn	_	_	_	_	_	_	_	_
+7	till	_	_	_	_	_	_	_	_
+8	okänd	_	_	_	_	_	_	_	_
+9	tid	_	_	_	_	_	_	_	_
+10	för	_	_	_	_	_	_	_	_
+11	intaget	_	_	_	_	_	_	_	_
+12	väljer	_	_	_	_	_	_	_	_
+13	att	_	_	_	_	_	_	_	_
+14	inte	_	_	_	_	_	_	_	_
+15	magskölja	_	_	_	_	_	_	_	SpaceAfter=No
+16	.	_	_	_	_	_	_	_	_
+
+# text = Sammataget klinisk bild med QTc förlänging, förlångsamning talar för måttlig till svår lergiganintox.
+1	Sammataget	_	_	_	_	_	_	_	_
+2	klinisk	_	_	_	_	_	_	_	_
+3	bild	_	_	_	_	_	_	_	_
+4	med	_	_	_	_	_	_	_	_
+5	QTc	_	_	_	_	_	_	_	_
+6	förlänging	_	_	_	_	_	_	_	SpaceAfter=No
+7	,	_	_	_	_	_	_	_	_
+8	förlångsamning	_	_	_	_	_	_	_	_
+9	talar	_	_	_	_	_	_	_	_
+10	för	_	_	_	_	_	_	_	_
+11	måttlig	_	_	_	_	_	_	_	_
+12	till	_	_	_	_	_	_	_	_
+13	svår	_	_	_	_	_	_	_	_
+14	lergiganintox	_	_	_	_	_	_	_	SpaceAfter=No
+15	.	_	_	_	_	_	_	_	_
+
+# text = Diskutrerar med IVA-jour, Mårtensson.
+1	Diskutrerar	_	_	_	_	_	_	_	_
+2	med	_	_	_	_	_	_	_	_
+3	IVA-jour	_	_	_	_	_	_	_	SpaceAfter=No
+4	,	_	_	_	_	_	_	_	_
+5	Mårtensson	_	_	_	_	_	_	_	SpaceAfter=No
+6	.	_	_	_	_	_	_	_	_
+
+# text = Överens om att vi påbörjar övervakning på AVA, vid försämring i medvetandegrad, tilltagande grad av agitering eller symptom på delirium kontakt med husjour för ställningstagande till fysostigmin.
+1	Överens	_	_	_	_	_	_	_	_
+2	om	_	_	_	_	_	_	_	_
+3	att	_	_	_	_	_	_	_	_
+4	vi	_	_	_	_	_	_	_	_
+5	påbörjar	_	_	_	_	_	_	_	_
+6	övervakning	_	_	_	_	_	_	_	_
+7	på	_	_	_	_	_	_	_	_
+8	AVA	_	_	_	_	_	_	_	SpaceAfter=No
+9	,	_	_	_	_	_	_	_	_
+10	vid	_	_	_	_	_	_	_	_
+11	försämring	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	medvetandegrad	_	_	_	_	_	_	_	SpaceAfter=No
+14	,	_	_	_	_	_	_	_	_
+15	tilltagande	_	_	_	_	_	_	_	_
+16	grad	_	_	_	_	_	_	_	_
+17	av	_	_	_	_	_	_	_	_
+18	agitering	_	_	_	_	_	_	_	_
+19	eller	_	_	_	_	_	_	_	_
+20	symptom	_	_	_	_	_	_	_	_
+21	på	_	_	_	_	_	_	_	_
+22	delirium	_	_	_	_	_	_	_	_
+23	kontakt	_	_	_	_	_	_	_	_
+24	med	_	_	_	_	_	_	_	_
+25	husjour	_	_	_	_	_	_	_	_
+26	för	_	_	_	_	_	_	_	_
+27	ställningstagande	_	_	_	_	_	_	_	_
+28	till	_	_	_	_	_	_	_	_
+29	fysostigmin	_	_	_	_	_	_	_	SpaceAfter=No
+30	.	_	_	_	_	_	_	_	_
+
+# text = Avvaktar dock detta i nuläget då det är oklart om det föreligger en blandintoxikation.
+1	Avvaktar	_	_	_	_	_	_	_	_
+2	dock	_	_	_	_	_	_	_	_
+3	detta	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	nuläget	_	_	_	_	_	_	_	_
+6	då	_	_	_	_	_	_	_	_
+7	det	_	_	_	_	_	_	_	_
+8	är	_	_	_	_	_	_	_	_
+9	oklart	_	_	_	_	_	_	_	_
+10	om	_	_	_	_	_	_	_	_
+11	det	_	_	_	_	_	_	_	_
+12	föreligger	_	_	_	_	_	_	_	_
+13	en	_	_	_	_	_	_	_	_
+14	blandintoxikation	_	_	_	_	_	_	_	SpaceAfter=No
+15	.	_	_	_	_	_	_	_	_
+
+# text = Polis försöker nå anhöriga för mer information, förnyad kontakt till AVA då svar föreligger.
+1	Polis	_	_	_	_	_	_	_	_
+2	försöker	_	_	_	_	_	_	_	_
+3	nå	_	_	_	_	_	_	_	_
+4	anhöriga	_	_	_	_	_	_	_	_
+5	för	_	_	_	_	_	_	_	_
+6	mer	_	_	_	_	_	_	_	_
+7	information	_	_	_	_	_	_	_	SpaceAfter=No
+8	,	_	_	_	_	_	_	_	_
+9	förnyad	_	_	_	_	_	_	_	_
+10	kontakt	_	_	_	_	_	_	_	_
+11	till	_	_	_	_	_	_	_	_
+12	AVA	_	_	_	_	_	_	_	_
+13	då	_	_	_	_	_	_	_	_
+14	svar	_	_	_	_	_	_	_	_
+15	föreligger	_	_	_	_	_	_	_	SpaceAfter=No
+16	.	_	_	_	_	_	_	_	_
+
+# text = Erhåller en liter ringer, inlägges AVA.
+1	Erhåller	_	_	_	_	_	_	_	_
+2	en	_	_	_	_	_	_	_	_
+3	liter	_	_	_	_	_	_	_	_
+4	ringer	_	_	_	_	_	_	_	SpaceAfter=No
+5	,	_	_	_	_	_	_	_	_
+6	inlägges	_	_	_	_	_	_	_	_
+7	AVA	_	_	_	_	_	_	_	SpaceAfter=No
+8	.	_	_	_	_	_	_	_	_
+
+# text = Diagnos: F13.0
+1	Diagnos	_	_	_	_	_	_	_	SpaceAfter=No
+2	:	_	_	_	_	_	_	_	_
+3	F13.0	_	_	_	_	_	_	_	_
+

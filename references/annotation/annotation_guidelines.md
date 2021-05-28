@@ -1,12 +1,16 @@
 # Guidelines for annotation
 
+## Introduction
+
 Annotation of medical text do usually come with the requirement of some expertise, and they are intended to be used primarily by clinicians with experience in reading and writing patient records.
 
 Some explanations may therefore seem arcane when it comes to medical issues as they are keep short for brevity assuming medical knowledge.
 
 Patient records are highly structured with headings such as Subjective, Objective, Assessment and Plan, but this is not always followed by individual physicians, or between different professions. The writing under the correct heading and also the names of the headings may differ in different clinical units or hospitals. The same for different electronic patient record systems. The patient records are written under time pressure; the patient record systems do not contain any spelling correction (or grammar checking) system due to the difficulties of building such a function because of the complicated non-standard vocabulary used within healthcare (Dalianis 2018)
 
+## Selection and Design of entity classes
 
+The main purpose of creating this tool to develop models which can help better the identification and care of patients. The chosen classes and rules for priorities ect. are  decisions  are made in a attempt to balance identification significant information for the patients medical history.
 
 *These guidelines are to a large part based on *
 

@@ -1,0 +1,408 @@
+# text = Kontaktorsak: Medicinlarm, dyspné Tidigare sjukdomar: Waranbehandlat FF, hyperlipidemi.
+1	Kontaktorsak	_	_	_	_	_	_	_	SpaceAfter=No
+2	:	_	_	_	_	_	_	_	_
+3	Medicinlarm	_	_	_	_	_	_	_	SpaceAfter=No
+4	,	_	_	_	_	_	_	_	_
+5	dyspné	_	_	_	_	_	_	_	_
+6	Tidigare	_	_	_	_	_	_	_	_
+7	sjukdomar	_	_	_	_	_	_	_	SpaceAfter=No
+8	:	_	_	_	_	_	_	_	_
+9	Waranbehandlat	_	_	_	_	_	_	_	_
+10	FF	_	_	_	_	_	_	_	SpaceAfter=No
+11	,	_	_	_	_	_	_	_	_
+12	hyperlipidemi	_	_	_	_	_	_	_	SpaceAfter=No
+13	.	_	_	_	_	_	_	_	_
+
+# text = BC vä 99, opererad mastektomi + lymfkörtelutrymning höger.
+1	BC	_	_	_	_	_	_	_	_
+2	vä	_	_	_	_	_	_	_	_
+3	99	_	_	_	_	_	_	_	SpaceAfter=No
+4	,	_	_	_	_	_	_	_	_
+5	opererad	_	_	_	_	_	_	_	_
+6	mastektomi	_	_	_	_	_	_	_	_
+7	+	_	_	_	_	_	_	_	_
+8	lymfkörtelutrymning	_	_	_	_	_	_	_	_
+9	höger	_	_	_	_	_	_	_	SpaceAfter=No
+10	.	_	_	_	_	_	_	_	_
+
+# text = Inga recidiv.
+1	Inga	_	_	_	_	_	_	_	_
+2	recidiv	_	_	_	_	_	_	_	SpaceAfter=No
+3	.	_	_	_	_	_	_	_	_
+
+# text = NSTEMI 2009.
+1	NSTEMI	_	_	_	_	_	_	_	_
+2	2009	_	_	_	_	_	_	_	SpaceAfter=No
+3	.	_	_	_	_	_	_	_	_
+
+# text = Stroke 2012 utan större sequele.
+1	Stroke	_	_	_	_	_	_	_	_
+2	2012	_	_	_	_	_	_	_	_
+3	utan	_	_	_	_	_	_	_	_
+4	större	_	_	_	_	_	_	_	_
+5	sequele	_	_	_	_	_	_	_	SpaceAfter=No
+6	.	_	_	_	_	_	_	_	_
+
+# text = Minnesproblematik.
+1	Minnesproblematik	_	_	_	_	_	_	_	SpaceAfter=No
+2	.	_	_	_	_	_	_	_	_
+
+# text = Aktuellt: Funnen i hemmet på golvet, oklart hur länge hon blivit liggande.
+1	Aktuellt	_	_	_	_	_	_	_	SpaceAfter=No
+2	:	_	_	_	_	_	_	_	_
+3	Funnen	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	hemmet	_	_	_	_	_	_	_	_
+6	på	_	_	_	_	_	_	_	_
+7	golvet	_	_	_	_	_	_	_	SpaceAfter=No
+8	,	_	_	_	_	_	_	_	_
+9	oklart	_	_	_	_	_	_	_	_
+10	hur	_	_	_	_	_	_	_	_
+11	länge	_	_	_	_	_	_	_	_
+12	hon	_	_	_	_	_	_	_	_
+13	blivit	_	_	_	_	_	_	_	_
+14	liggande	_	_	_	_	_	_	_	SpaceAfter=No
+15	.	_	_	_	_	_	_	_	_
+
+# text = Hittad av hemtjänst kl 7, senast tillsyn igår kväll ca kl 20.
+1	Hittad	_	_	_	_	_	_	_	_
+2	av	_	_	_	_	_	_	_	_
+3	hemtjänst	_	_	_	_	_	_	_	_
+4	kl	_	_	_	_	_	_	_	_
+5	7	_	_	_	_	_	_	_	SpaceAfter=No
+6	,	_	_	_	_	_	_	_	_
+7	senast	_	_	_	_	_	_	_	_
+8	tillsyn	_	_	_	_	_	_	_	_
+9	igår	_	_	_	_	_	_	_	_
+10	kväll	_	_	_	_	_	_	_	_
+11	ca	_	_	_	_	_	_	_	_
+12	kl	_	_	_	_	_	_	_	_
+13	20	_	_	_	_	_	_	_	SpaceAfter=No
+14	.	_	_	_	_	_	_	_	_
+
+# text = Ingen autoanamnes.
+1	Ingen	_	_	_	_	_	_	_	_
+2	autoanamnes	_	_	_	_	_	_	_	SpaceAfter=No
+3	.	_	_	_	_	_	_	_	_
+
+# text = I ambulansen febril, desaturerad 87% utan syrgas.
+1	I	_	_	_	_	_	_	_	_
+2	ambulansen	_	_	_	_	_	_	_	_
+3	febril	_	_	_	_	_	_	_	SpaceAfter=No
+4	,	_	_	_	_	_	_	_	_
+5	desaturerad	_	_	_	_	_	_	_	_
+6	87%	_	_	_	_	_	_	_	_
+7	utan	_	_	_	_	_	_	_	_
+8	syrgas	_	_	_	_	_	_	_	SpaceAfter=No
+9	.	_	_	_	_	_	_	_	_
+
+# text = Enl hemtjänsten varit förkyld 3-4 dagar.
+1	Enl	_	_	_	_	_	_	_	_
+2	hemtjänsten	_	_	_	_	_	_	_	_
+3	varit	_	_	_	_	_	_	_	_
+4	förkyld	_	_	_	_	_	_	_	_
+5	3	_	_	_	_	_	_	_	SpaceAfter=No
+6	-	_	_	_	_	_	_	_	SpaceAfter=No
+7	4	_	_	_	_	_	_	_	_
+8	dagar	_	_	_	_	_	_	_	SpaceAfter=No
+9	.	_	_	_	_	_	_	_	_
+
+# text = Stabila VP i övrigt.
+1	Stabila	_	_	_	_	_	_	_	_
+2	VP	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	övrigt	_	_	_	_	_	_	_	SpaceAfter=No
+5	.	_	_	_	_	_	_	_	_
+
+# text = A: Fritt B: Antingsljud bilateralt, sat 94% på 5l syrgas.
+1	A	_	_	_	_	_	_	_	SpaceAfter=No
+2	:	_	_	_	_	_	_	_	_
+3	Fritt	_	_	_	_	_	_	_	_
+4	B	_	_	_	_	_	_	_	SpaceAfter=No
+5	:	_	_	_	_	_	_	_	_
+6	Antingsljud	_	_	_	_	_	_	_	_
+7	bilateralt	_	_	_	_	_	_	_	SpaceAfter=No
+8	,	_	_	_	_	_	_	_	_
+9	sat	_	_	_	_	_	_	_	_
+10	94%	_	_	_	_	_	_	_	_
+11	på	_	_	_	_	_	_	_	_
+12	5l	_	_	_	_	_	_	_	_
+13	syrgas	_	_	_	_	_	_	_	SpaceAfter=No
+14	.	_	_	_	_	_	_	_	_
+
+# text = Obstruktiv, förlängt expirum.
+1	Obstruktiv	_	_	_	_	_	_	_	SpaceAfter=No
+2	,	_	_	_	_	_	_	_	_
+3	förlängt	_	_	_	_	_	_	_	_
+4	expirum	_	_	_	_	_	_	_	SpaceAfter=No
+5	.	_	_	_	_	_	_	_	_
+
+# text = Erhåller inhalation sapimol.
+1	Erhåller	_	_	_	_	_	_	_	_
+2	inhalation	_	_	_	_	_	_	_	_
+3	sapimol	_	_	_	_	_	_	_	SpaceAfter=No
+4	.	_	_	_	_	_	_	_	_
+
+# text = AF. 28.
+1	AF	_	_	_	_	_	_	_	SpaceAfter=No
+2	.	_	_	_	_	_	_	_	_
+3	28	_	_	_	_	_	_	_	SpaceAfter=No
+4	.	_	_	_	_	_	_	_	_
+
+# text = Stabil bröstkorg, inga tecken till trauma.
+1	Stabil	_	_	_	_	_	_	_	_
+2	bröstkorg	_	_	_	_	_	_	_	SpaceAfter=No
+3	,	_	_	_	_	_	_	_	_
+4	inga	_	_	_	_	_	_	_	_
+5	tecken	_	_	_	_	_	_	_	_
+6	till	_	_	_	_	_	_	_	_
+7	trauma	_	_	_	_	_	_	_	SpaceAfter=No
+8	.	_	_	_	_	_	_	_	_
+
+# text = C: Fina radialispulsar bilat, kall perifert.
+1	C	_	_	_	_	_	_	_	SpaceAfter=No
+2	:	_	_	_	_	_	_	_	_
+3	Fina	_	_	_	_	_	_	_	_
+4	radialispulsar	_	_	_	_	_	_	_	_
+5	bilat	_	_	_	_	_	_	_	SpaceAfter=No
+6	,	_	_	_	_	_	_	_	_
+7	kall	_	_	_	_	_	_	_	_
+8	perifert	_	_	_	_	_	_	_	SpaceAfter=No
+9	.	_	_	_	_	_	_	_	_
+
+# text = Marmorerad över knän.
+1	Marmorerad	_	_	_	_	_	_	_	_
+2	över	_	_	_	_	_	_	_	_
+3	knän	_	_	_	_	_	_	_	SpaceAfter=No
+4	.	_	_	_	_	_	_	_	_
+
+# text = BT 90/70, p 119.
+1	BT	_	_	_	_	_	_	_	_
+2	90	_	_	_	_	_	_	_	SpaceAfter=No
+3	/	_	_	_	_	_	_	_	SpaceAfter=No
+4	70	_	_	_	_	_	_	_	SpaceAfter=No
+5	,	_	_	_	_	_	_	_	_
+6	p	_	_	_	_	_	_	_	_
+7	119	_	_	_	_	_	_	_	SpaceAfter=No
+8	.	_	_	_	_	_	_	_	_
+
+# text = Oregelbunden.
+1	Oregelbunden	_	_	_	_	_	_	_	SpaceAfter=No
+2	.	_	_	_	_	_	_	_	_
+
+# text = I telemetri smala komplex.
+1	I	_	_	_	_	_	_	_	_
+2	telemetri	_	_	_	_	_	_	_	_
+3	smala	_	_	_	_	_	_	_	_
+4	komplex	_	_	_	_	_	_	_	SpaceAfter=No
+5	.	_	_	_	_	_	_	_	_
+
+# text = Erhåller infart, påbörjar vätskerecusitering.
+1	Erhåller	_	_	_	_	_	_	_	_
+2	infart	_	_	_	_	_	_	_	SpaceAfter=No
+3	,	_	_	_	_	_	_	_	_
+4	påbörjar	_	_	_	_	_	_	_	_
+5	vätskerecusitering	_	_	_	_	_	_	_	SpaceAfter=No
+6	.	_	_	_	_	_	_	_	_
+
+# text = Stabilt bäcken.
+1	Stabilt	_	_	_	_	_	_	_	_
+2	bäcken	_	_	_	_	_	_	_	SpaceAfter=No
+3	.	_	_	_	_	_	_	_	_
+
+# text = Buk mjuk och oöm.
+1	Buk	_	_	_	_	_	_	_	_
+2	mjuk	_	_	_	_	_	_	_	_
+3	och	_	_	_	_	_	_	_	_
+4	oöm	_	_	_	_	_	_	_	SpaceAfter=No
+5	.	_	_	_	_	_	_	_	_
+
+# text = D: Liksidiga pupiller, inga fokala neurotiska bortfall.
+1	D	_	_	_	_	_	_	_	SpaceAfter=No
+2	:	_	_	_	_	_	_	_	_
+3	Liksidiga	_	_	_	_	_	_	_	_
+4	pupiller	_	_	_	_	_	_	_	SpaceAfter=No
+5	,	_	_	_	_	_	_	_	_
+6	inga	_	_	_	_	_	_	_	_
+7	fokala	_	_	_	_	_	_	_	_
+8	neurotiska	_	_	_	_	_	_	_	_
+9	bortfall	_	_	_	_	_	_	_	SpaceAfter=No
+10	.	_	_	_	_	_	_	_	_
+
+# text = Konfusorisk, RLS 2.
+1	Konfusorisk	_	_	_	_	_	_	_	SpaceAfter=No
+2	,	_	_	_	_	_	_	_	_
+3	RLS	_	_	_	_	_	_	_	_
+4	2	_	_	_	_	_	_	_	SpaceAfter=No
+5	.	_	_	_	_	_	_	_	_
+
+# text = Ingen nackstelhet.
+1	Ingen	_	_	_	_	_	_	_	_
+2	nackstelhet	_	_	_	_	_	_	_	SpaceAfter=No
+3	.	_	_	_	_	_	_	_	_
+
+# text = E: Skrapsår höger kind, blåmärke vänster höft, ingen utåtrotation.
+1	E	_	_	_	_	_	_	_	SpaceAfter=No
+2	:	_	_	_	_	_	_	_	_
+3	Skrapsår	_	_	_	_	_	_	_	_
+4	höger	_	_	_	_	_	_	_	_
+5	kind	_	_	_	_	_	_	_	SpaceAfter=No
+6	,	_	_	_	_	_	_	_	_
+7	blåmärke	_	_	_	_	_	_	_	_
+8	vänster	_	_	_	_	_	_	_	_
+9	höft	_	_	_	_	_	_	_	SpaceAfter=No
+10	,	_	_	_	_	_	_	_	_
+11	ingen	_	_	_	_	_	_	_	_
+12	utåtrotation	_	_	_	_	_	_	_	SpaceAfter=No
+13	.	_	_	_	_	_	_	_	_
+
+# text = Hel hudskstym.
+1	Hel	_	_	_	_	_	_	_	_
+2	hudskstym	_	_	_	_	_	_	_	SpaceAfter=No
+3	.	_	_	_	_	_	_	_	_
+
+# text = Temp 39.4 Lab: Blodgas med akut respriatorisk acidos utan kompensation, laktat 8.
+1	Temp	_	_	_	_	_	_	_	_
+2	39.4	_	_	_	_	_	_	_	_
+3	Lab	_	_	_	_	_	_	_	SpaceAfter=No
+4	:	_	_	_	_	_	_	_	_
+5	Blodgas	_	_	_	_	_	_	_	_
+6	med	_	_	_	_	_	_	_	_
+7	akut	_	_	_	_	_	_	_	_
+8	respriatorisk	_	_	_	_	_	_	_	_
+9	acidos	_	_	_	_	_	_	_	_
+10	utan	_	_	_	_	_	_	_	_
+11	kompensation	_	_	_	_	_	_	_	SpaceAfter=No
+12	,	_	_	_	_	_	_	_	_
+13	laktat	_	_	_	_	_	_	_	_
+14	8	_	_	_	_	_	_	_	SpaceAfter=No
+15	.	_	_	_	_	_	_	_	_
+
+# text = EKG: Förmaksflimmer kammarfrekvens 123.
+1	EKG	_	_	_	_	_	_	_	SpaceAfter=No
+2	:	_	_	_	_	_	_	_	_
+3	Förmaksflimmer	_	_	_	_	_	_	_	_
+4	kammarfrekvens	_	_	_	_	_	_	_	_
+5	123	_	_	_	_	_	_	_	SpaceAfter=No
+6	.	_	_	_	_	_	_	_	_
+
+# text = Bedömning: Sepsis med oklart fokus samt fall med oklar traumamekanism.
+1	Bedömning	_	_	_	_	_	_	_	SpaceAfter=No
+2	:	_	_	_	_	_	_	_	_
+3	Sepsis	_	_	_	_	_	_	_	_
+4	med	_	_	_	_	_	_	_	_
+5	oklart	_	_	_	_	_	_	_	_
+6	fokus	_	_	_	_	_	_	_	_
+7	samt	_	_	_	_	_	_	_	_
+8	fall	_	_	_	_	_	_	_	_
+9	med	_	_	_	_	_	_	_	_
+10	oklar	_	_	_	_	_	_	_	_
+11	traumamekanism	_	_	_	_	_	_	_	SpaceAfter=No
+12	.	_	_	_	_	_	_	_	_
+
+# text = Inga tecken till blödning i buken eller andra svåra traumatiska skador dock oaktat på 8 och febril.
+1	Inga	_	_	_	_	_	_	_	_
+2	tecken	_	_	_	_	_	_	_	_
+3	till	_	_	_	_	_	_	_	_
+4	blödning	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	buken	_	_	_	_	_	_	_	_
+7	eller	_	_	_	_	_	_	_	_
+8	andra	_	_	_	_	_	_	_	_
+9	svåra	_	_	_	_	_	_	_	_
+10	traumatiska	_	_	_	_	_	_	_	_
+11	skador	_	_	_	_	_	_	_	_
+12	dock	_	_	_	_	_	_	_	_
+13	oaktat	_	_	_	_	_	_	_	_
+14	på	_	_	_	_	_	_	_	_
+15	8	_	_	_	_	_	_	_	_
+16	och	_	_	_	_	_	_	_	_
+17	febril	_	_	_	_	_	_	_	SpaceAfter=No
+18	.	_	_	_	_	_	_	_	_
+
+# text = Genomodlas, insättes på cefotaxim 1x3.
+1	Genomodlas	_	_	_	_	_	_	_	SpaceAfter=No
+2	,	_	_	_	_	_	_	_	_
+3	insättes	_	_	_	_	_	_	_	_
+4	på	_	_	_	_	_	_	_	_
+5	cefotaxim	_	_	_	_	_	_	_	_
+6	1x3	_	_	_	_	_	_	_	SpaceAfter=No
+7	.	_	_	_	_	_	_	_	_
+
+# text = CT hjärna urakut med hänsyn till trauma och medvetandepåverkan.
+1	CT	_	_	_	_	_	_	_	_
+2	hjärna	_	_	_	_	_	_	_	_
+3	urakut	_	_	_	_	_	_	_	_
+4	med	_	_	_	_	_	_	_	_
+5	hänsyn	_	_	_	_	_	_	_	_
+6	till	_	_	_	_	_	_	_	_
+7	trauma	_	_	_	_	_	_	_	_
+8	och	_	_	_	_	_	_	_	_
+9	medvetandepåverkan	_	_	_	_	_	_	_	SpaceAfter=No
+10	.	_	_	_	_	_	_	_	_
+
+# text = Påbörjar vätskeresucsitring.
+1	Påbörjar	_	_	_	_	_	_	_	_
+2	vätskeresucsitring	_	_	_	_	_	_	_	SpaceAfter=No
+3	.	_	_	_	_	_	_	_	_
+
+# text = Inlägges covidAVA, ny blodgas om 1 timme.
+1	Inlägges	_	_	_	_	_	_	_	_
+2	covidAVA	_	_	_	_	_	_	_	SpaceAfter=No
+3	,	_	_	_	_	_	_	_	_
+4	ny	_	_	_	_	_	_	_	_
+5	blodgas	_	_	_	_	_	_	_	_
+6	om	_	_	_	_	_	_	_	_
+7	1	_	_	_	_	_	_	_	_
+8	timme	_	_	_	_	_	_	_	SpaceAfter=No
+9	.	_	_	_	_	_	_	_	_
+
+# text = PCR SARS-CoV2 taget, isolerad till svar finns.
+1	PCR	_	_	_	_	_	_	_	_
+2	SARS-CoV2	_	_	_	_	_	_	_	_
+3	taget	_	_	_	_	_	_	_	SpaceAfter=No
+4	,	_	_	_	_	_	_	_	_
+5	isolerad	_	_	_	_	_	_	_	_
+6	till	_	_	_	_	_	_	_	_
+7	svar	_	_	_	_	_	_	_	_
+8	finns	_	_	_	_	_	_	_	SpaceAfter=No
+9	.	_	_	_	_	_	_	_	_
+
+# text = Röntgen av vä höft från och pulm från avdelningen.
+1	Röntgen	_	_	_	_	_	_	_	_
+2	av	_	_	_	_	_	_	_	_
+3	vä	_	_	_	_	_	_	_	_
+4	höft	_	_	_	_	_	_	_	_
+5	från	_	_	_	_	_	_	_	_
+6	och	_	_	_	_	_	_	_	_
+7	pulm	_	_	_	_	_	_	_	_
+8	från	_	_	_	_	_	_	_	_
+9	avdelningen	_	_	_	_	_	_	_	SpaceAfter=No
+10	.	_	_	_	_	_	_	_	_
+
+# text = Kontakt med anhöriga ånyo från AVA, ej nått dem via telefon från ambulans eller akuten.
+1	Kontakt	_	_	_	_	_	_	_	_
+2	med	_	_	_	_	_	_	_	_
+3	anhöriga	_	_	_	_	_	_	_	_
+4	ånyo	_	_	_	_	_	_	_	_
+5	från	_	_	_	_	_	_	_	_
+6	AVA	_	_	_	_	_	_	_	SpaceAfter=No
+7	,	_	_	_	_	_	_	_	_
+8	ej	_	_	_	_	_	_	_	_
+9	nått	_	_	_	_	_	_	_	_
+10	dem	_	_	_	_	_	_	_	_
+11	via	_	_	_	_	_	_	_	_
+12	telefon	_	_	_	_	_	_	_	_
+13	från	_	_	_	_	_	_	_	_
+14	ambulans	_	_	_	_	_	_	_	_
+15	eller	_	_	_	_	_	_	_	_
+16	akuten	_	_	_	_	_	_	_	SpaceAfter=No
+17	.	_	_	_	_	_	_	_	_
+
+# text = Diagnos: Pneumoni, misstänkt
+1	Diagnos	_	_	_	_	_	_	_	SpaceAfter=No
+2	:	_	_	_	_	_	_	_	_
+3	Pneumoni	_	_	_	_	_	_	_	SpaceAfter=No
+4	,	_	_	_	_	_	_	_	_
+5	misstänkt	_	_	_	_	_	_	_	_
+
