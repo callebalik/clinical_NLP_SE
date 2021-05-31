@@ -9,11 +9,13 @@ pandas
 
 ## Building app
 
-click
-Sphinx
-coverage
-awscli
-flake8
+# Creates problem when running install of spacy pipeline, incompatible versions, update later if project is used.
+
+#click
+#Sphinx
+#coverage
+#awscli
+#flake8
 
 #
 ###### Requirements with Version Specifiers ######
