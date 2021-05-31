@@ -71,7 +71,7 @@ Värdgruppen har verktyg som kan matcha texter mot listor (s.k. dictionaries) av
 
 ### Data
 
-As a base for the SpaCy model a transformer based model from *The National Library of Sweden / KB Lab* will be used. This model is a complete pipeline with UPOS tagger, parser, sentencer,  ner and lemmatizer. 
+As a base for the SpaCy model a transformer based model from *The National Library of Sweden / KB Lab* will be used. This model is a complete pipeline with UPOS tagger, parser, sentencer,  ner and lemmatizer.
 
 Observere that it is not yet possible to train the lemmatizer in spaCy, meaning that the performance is only as good as the quality of the rules/lookup tables available for Swedish which are limited. KB lab recommends using [Stanza](https://stanfordnlp.github.io/stanza/), [efselab](https://github.com/robertostling/efselab/blob/master/README.md) or [lemmy](https://github.com/sorenlind/lemmy).
 
@@ -87,7 +87,7 @@ NER (F score): **90.06**
 
 #### Model specifications from KB
 
-The models where initialized with [FastText](https://fasttext.cc/docs/en/crawl-vectors.html) word embeddings.  
+The models where initialized with [FastText](https://fasttext.cc/docs/en/crawl-vectors.html) word embeddings.
 
 We trained two separate tagger models for UPOS and XPOS, but the parser and NER are the same for both models.
 
