@@ -1,1 +1,5 @@
 Chart 1-5 was written by Johanna
+
+conll v1 has multiple word negations 
+
+conll v2 has reannotated negations to base forms and no difference between sym/fnd

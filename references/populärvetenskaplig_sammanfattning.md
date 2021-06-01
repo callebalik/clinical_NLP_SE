@@ -5,3 +5,4 @@ I den rådande covid-19 krisen behöver myndigheter och forskare utveckla behand
 Ett viktigt steg i biomedicinsk natural language processing (BioNLP) är att identifiera relevanta nyckelfraser och -ord, samt deras synonymer, så kallad named entity recognition (NER). I fall som covid-pandemin är detta speciellt svårt då det inte fanns ett officiellt namn i början. Sedan kan man även leta efter kopplingar mellan nyckelfraserna, så kallad named entity linking (NEL). En del arbete för NER och NEL har redan gjorts på medicinsk engelska, men de nya teknologiska utvecklingarna har inte överförts för medicinsk svenska än. Detta begränsar möjligheten för att använda teknologin i Sverige.(2)
 
 Målet med detta projekt är utveckla och utvärdera en verktygslåda för natural language processing för svenskt mediciniskt språk och anpassa den för att extrahera information relaterad till COVID19.
+

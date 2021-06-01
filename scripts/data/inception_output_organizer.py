@@ -16,7 +16,7 @@ file_path = Path(__file__).resolve()
 SRC_PATH = file_path.parent.parent
 DATA_PATH = SRC_PATH.parent / 'data'
 
-conll_path = DATA_PATH / 'raw/conll2003/'
+conll_path = DATA_PATH / 'raw/corpus/conll2003_V2'
 
 all_files = []
 
@@ -26,7 +26,7 @@ for file in conll_path.glob('*/*.conll'):
     new_name = name.__add__('.conll')
     new_path = file.parent.parent / new_name
     all_files.append((file.name, file.parent, new_name, new_path))
-    to_file = conll_path / new_name
+    to_file = DATA_PATH / 'interim/corpus/conll2003_V2' / new_name
     shutil.copy2(file, str(to_file))
 
 
