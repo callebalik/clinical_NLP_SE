@@ -37,7 +37,7 @@ smärta _ O O
 här _ O O
 . _ O O
 
-Ej _ O I-NEGATIONER
+Ej _ O I-NEG
 slagit _ O O
 i _ O O
 huvudet _ O O
@@ -66,7 +66,7 @@ fallet _ O O
 skedde _ O O
 . _ O O
 
-Ej _ O I-NEGATIONER
+Ej _ O I-NEG
 druckit _ O O
 alkohol _ O O
 . _ O O
@@ -121,7 +121,7 @@ Normalt _ O O
 distalstatus _ O O
 . _ O O
 
-Ingen _ O I-NEGATIONER
+Ingen _ O I-NEG
 smärta _ O O
 vid _ O O
 palpation _ O O
