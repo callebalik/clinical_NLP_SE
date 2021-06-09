@@ -3,7 +3,7 @@
 
 ### Selection and Design of entity classes
 
-The main purpose of creating these guidelines to develop training data for models which can help better the identification and care of patients. The overarching principle is to annotate words and expressions as if in clinical reality.
+The main purpose of creating these guidelines to develop training data for models which can help better the identification and care of patients. The overarching principle is to annotate words and expressions as if in clinical reality. <!-- What do you mean "as if in clinical reality"? -->
 
 The chosen classes and rules for priorities etc. are made in a attempt to balance identification of significant information for the patients medical history with continuity and and high inter annotator agreement. Class definitions are in part based on [SNOMED CT](https://confluence.ihtsdotools.org/display/DOCEG/Clinical+Finding+and+Disorder) definitions for findings and disease.
 
@@ -11,11 +11,11 @@ The chosen classes and rules for priorities etc. are made in a attempt to balanc
 
 These guidelines are intended to be used primarily by clinicians with experience in reading and writing patient records.
 
-Annotation of medical text do usually come with the requirement of some expertise and some explanations may therefore seem arcane when it comes to medical issues as they are keep short for brevity assuming medical knowledge.
+Annotation of medical text do usually come with the requirement of some expertise and some explanations may therefore seem arcane when it comes to medical issues as they are keep short for brevity assuming medical knowledge.<!-- This sentence is a really difficult read! Can you reframe? -->
 
 ### Guideline Creation Method
-
-The aim is to create annotation guidelines which can be revised without breaking and handle exceptions. Principles and some syntax of object-oriented programming is used to help build such a system. The guidelines are built from the bottom up from definitions and axioms, taking inspiration from logics and mathematics.  A **definition** is held to be true in all contexts. It cannot be modified by further rules or exceptions. **Axioms** are a statements that are taken to be [true](https://www.wikiwand.com/en/Truth), either because they are self evident or because they are established principles. We use them here as statements that in the setting of clinical text mining are taken to be true intendent of specific annotation task. **Rules** are statements which can be applied under given circumstances to handle errors and exceptions, or modify the output of the annotation process. They are not held to be universally true and can modulate each other, that is they are mutable.
+<!-- This description is fairly tecnical, consider adding a breif introduction/overview if the intended reader/user is a clinican with very limited NLP/annotation experience. -->
+The aim is to create annotation guidelines which can be revised without breaking and handle exceptions. Principles<!--?--> and some syntax of object-oriented programming is used to help build such a system. The guidelines are built from the bottom up from definitions and axioms, taking inspiration from logics and mathematics.  A **definition** is held to be true in all contexts. It cannot be modified by further rules or exceptions. **Axioms** are a statements that are taken to be [true](https://www.wikiwand.com/en/Truth), either because they are self evident or because they are established principles. We use them here as statements that in the setting of clinical text mining are taken to be true intendent of specific annotation task. **Rules** are statements which can be applied under given circumstances to handle errors and exceptions, or modify the output of the annotation process. They are not held to be universally true and can modulate each other, that is they are mutable.
 
 When altering the annotation process rules are to be considered first. In this way the base of the annotation process can remain intact and not break if the desired output of annotation is changed.
 
@@ -25,7 +25,7 @@ NE = Named Entity; Pat. = Patient, SYM = symptom when referred to as a NE, respe
 
 ### Conventions used in the guidelines
 
-- NE will be marked in text before the entity within bracets [ ]. If the entity spans more than one token curly bracets { } will be used to mark the start and end of span, e.g. [SYM]{Headache}
+- NE will be marked in text before the entity within bracets [ ]. If the entity spans more than one token curly bracets { } will be used to mark the start and end of span, e.g. [SYM]{Headache} <!-- Token here is not explained and has not been defined -->
 - Comparison expression such as smaller than < and equal to == are sometimes used when they aid readability.
 
 ### ISSUES
@@ -36,7 +36,7 @@ NE = Named Entity; Pat. = Patient, SYM = symptom when referred to as a NE, respe
   - Smärtproblematik – vill kunna dela upp senare.
 
 ### Future development
-
+<!-- yes, we'll look into SNOMED CT and creating a symptom/finding list -->
 Using definitions from SNOMED CT could help extend the guidelines while keeping compatibility. Some interesting things defined are:
 
 - *Observable Entities. "The name of something that can be observed and represents a question or assessment which can produce an answer or result (e.g. |  systolic blood pressure|, |color of iris|, |gender|. For example, color of nail is an observable entity. Gray nails is a finding.*
@@ -53,8 +53,8 @@ There is also guides to [mapping from ICD to SNOMED](https://confluence.ihtsdoto
 - Words and expressions that are NE are to be marked as belonging to one of the following
 
   - *Symptom*: Subjective experience by the patient
-  - *Signs*: A sign may be observed by another than the pat. or may be detected during anamnesis or medical examination. They are to some degree objective indications of a disease, injury, or abnormal physiological state.
-    - In Swedish: classically written under the heading of "akutellt"
+  - *Signs*: A sign may be observed by another than the pat. or may be detected during anamnesis<!-- history taking --> or medical examination. They are to some degree objective indications of a disease, injury, or abnormal physiological state.
+    - In Swedish: classically written under the heading of "akutellt"<!-- or Anmanes -->
   - *Negation*: Negerande enskilda ord såsom inte och ej + förled så som o i t.ex.
 - Continuity: All instances of a NE which has the same function shall be labeled in the same manner across the corpus
   - E.g. negations should be categorized as such not only at symptoms but across the document.
@@ -65,7 +65,7 @@ There is also guides to [mapping from ICD to SNOMED](https://confluence.ihtsdoto
 
 #### def 1: Medical observations
 
-A medically relevant **observation** with noticeable effect on the patient is either a **symptom** or a **finding**
+A medically relevant **observation** with noticeable effect on the patient is either a **symptom** or a **finding** <!-- A symptom is something experienced by the patient, compared to a finding. Above the word *sign* is used. Which terminology should be adhered to, finding or sign? -->
 
 #### def 2: Absence of Observation
 
@@ -73,11 +73,11 @@ The absence of an entity as defined by **def 1** is not a **symptom** or **findi
 
 #### def 3: Findings
 
-If entity as defined by **def 1** is noticed from an observation made by a physician (or other medical personnel ) and/or is the result of a medical examination of the patient it is a **finding**
+If entity as defined by **def 1** is noticed from an observation made by a physician (or other medical personnel ) and/or is the result of a medical examination of the patient it is a **finding** <!-- If it defined here, remove it from def 1? Also sign or finding? Or is finding or symptoms sub-definitions of medical observations? Like 1.1 and 1.2? -->
 
 #### def 4: Symptoms
 
-If def 1 is apparent to the patient from the subjective experience induced by def 1 to the patient, it is a **symptom**
+If def 1 is apparent to the patient from the subjective experience induced by def 1 to the patient, it is a **symptom** <!-- See above -->
 
 #### def 5: Negations
 
@@ -95,7 +95,7 @@ A named entity is a single OR sequential set of full tokens, i.e. only whole wor
 
 The meaning of words and expressions defined by their natural or simulated context.
 
-I.e. they should be interpreted as in a clinical context when written in a health record and at the part in which they are written, e.g. status or anamnesis.
+I.e. they should be interpreted as in a clinical context when written in a health record and at the part in which they are written, e.g. status or anamnesis.<!-- history instead of anamnesis. -->
 
 #### Axiom 2: Who can make a finding
 
@@ -107,24 +107,24 @@ In cases where entity and negations are separable entities are defined firstly w
 
 *Ingen smärta*
 
-The pain is judged before the negation is taken into consideration and is therefore a symptom and not the absence of a symptom, see. def 2.
+The pain is judged before the negation is taken into consideration and is therefore a symptom and not the absence of a symptom, see. def 2. <!-- Sorry, just don't understand this. Is it because symptom comes before negations in the pipeline? Is it a current limitation? -->
 
 #### Axiom 4: Shortest possible statement
 
 The shortest possible statement that still adequately describe the finding or symptom is the entity. Therefore modifiers should be omitted if possible, e.g:
 
-"beating [sym]{headache}"
+"beating [sym]{headache}" <!-- Should they always be capital letters? -->
 
 "large [FND]{swelling on side of nose}"
 
 In the second example "on side of nose" is a modifier of the root finding "swelling", but it is essential to fully describe the finding as swelling somewhere else could mean something entirely different. Compare to "headache on left side of the head"; the variations on headache are limited enough that it should be considered an entity in itself, i.e. it contains enough information to be self contained.
 
-<u>This will be a decision that has to be made by the annotator, which add to the requirements of expertise</u>
+<u>This will be a decision that has to be made by the annotator, which add to the requirements of expertise</u> <!-- Yes, we'll need to think about this one! -->
 
 #### Axiom 5: Temporal Aspect of Finding and Disease
-
+<!-- Can you expand this a bit, it's not clear to me what this entails. -->
 if a finding can be classified as a disease, which is a abnormal conditions that are not
-momentary and that have an underlying pathological process, it is defined as a finding when discovered and when reported from previously known information it is not a finding, e.g.
+momentary and that have an underlying pathological process, it is defined as a finding when discovered and when reported from previously known information it is not a finding, e.g. <!-- Sorry, not understanding this sentence. -->
 
 *"Röntgen: Röntgen visar distal <u>[FND] radiusfraktur</u> med acceptabelt läge, minimalt disolocerad."*
 
@@ -137,13 +137,13 @@ momentary and that have an underlying pathological process, it is defined as a f
 
 #### Axiom 6: Continuity
 
-Two entities that are equal to the patient are equal to each other and should therefore be annotated as the same entity class,
+Two entities that are equal to the patient are equal to each other and should therefore be annotated as the same entity class, <!-- I think this needs an example. :) -->
 
 ### Rules
 
 #### Rule 1: Symptom has priority over finding
 
-if an observation can be defined as both symptom and finding in it's context, symptom has priority.
+if an observation can be defined as both symptom and finding in it's context, symptom has priority. <!-- Agreed, needs example. -->
 
 - SYM > FND
 
