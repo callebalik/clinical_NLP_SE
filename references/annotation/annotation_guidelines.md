@@ -30,7 +30,6 @@ NE = Named Entity; Pat. = Patient, SYM = symptom when referred to as a NE, respe
 
 ### ISSUES
 
-- The model does not directly take into consideration the annotation guidelines
 - Guidelines are somewhat inconsistent in syntax
 - Hur är vi inkluderande från börjar så att vi inte tappar exempel.
 
@@ -90,10 +89,6 @@ A named entity is a single OR sequential set of full tokens, i.e. only whole wor
 
 *<u>See spans of influence and compound words for example usage</u>*
 
-------
-
-
-
 ### Axioms
 
 #### Axiom 1: Context
@@ -102,13 +97,9 @@ The meaning of words and expressions defined by their natural or simulated conte
 
 I.e. they should be interpreted as in a clinical context when written in a health record and at the part in which they are written, e.g. status or anamnesis.
 
-
-
 #### Axiom 2: Who can make a finding
 
 A **finding** can only be defined by someone with the adequate medical expertise
-
-
 
 #### Axiom 3: Negated entities
 
@@ -117,8 +108,6 @@ In cases where entity and negations are separable entities are defined firstly w
 *Ingen smärta*
 
 The pain is judged before the negation is taken into consideration and is therefore a symptom and not the absence of a symptom, see. def 2.
-
-
 
 #### Axiom 4: Shortest possible statement
 
@@ -141,8 +130,6 @@ momentary and that have an underlying pathological process, it is defined as a f
 
 *"Bedömning: Distal <u>radiusfraktur</u>, minimaldislokation"*
 
-
-
 - May be normal (but not necessarily)
 - May exist only at a single point in time (e.g. a serum sodium level)
 - Cannot be temporally separate from the observation (one cannot observe them  and say they are absent, nor can they be present when they cannot be  observed)
@@ -151,8 +138,6 @@ momentary and that have an underlying pathological process, it is defined as a f
 #### Axiom 6: Continuity
 
 Two entities that are equal to the patient are equal to each other and should therefore be annotated as the same entity class,
-
-
 
 ### Rules
 
@@ -255,5 +240,8 @@ Measurements should in future revisions be annotated as measurements MSR.
 **Motivation**:
 
 - The judgement of if a measurement falls within def 1 and def 2, that is if it is medically relevant and not only as the absence of a pathological measurement adds greater requirements on the annotator and adds possibilities for errors.
-
 - In addition if classifying the measurements now they cannot easily be updated if changes to reference values are made.
+
+**Future**
+
+- There are RegEx expressions for extracting measurement values from clinical text. These could perhaps be combined into the model.
