@@ -1,12 +1,13 @@
+
 personnummer = input("personnummer")
 
 riktigt = True
 nrriktigt = True
 
 #ta bort onödiga tecken
-for char in personnummer:
+for digit in personnummer:
     personnummer = personnummer.replace("-" ,"")
-for char in personnummer:
+for digit in personnummer:
     personnummer = personnummer.replace(" " ,"")
 
 
@@ -22,13 +23,13 @@ for num in personnummer:
     nummerlista.append(num)
 
 #göra om till integers
-#nummerlista = list(map(int, nummerlista))
+nummerlista = list(map(int, nummerlista))
 
 #splitta till jämna och ojämna och kontroll
 even = []
 odd = []
 kontroll = []
-oddin = [-2, -4, -6, -8, -10]
+oddin = [-2, -4, -6, -8, -10] # Using the negatives is neat, but the solution as a whole makes the function more dependant on the correct nr of digits in the input
 evenin = [-3, -5, -7, -9]
 kontrollin = [-1]
 for num in oddin:
@@ -53,10 +54,12 @@ oddstring = ""
 oddstring = oddstring.join(oddmultstr)
 
 #gör oddstring till integerlista
-oddstring = list(map(int, oddstring))
+oddstring = list(map(float, oddstring))
 
 #addera skiten
-slutsiffra = sum(oddstring) + sum(even)
+a = sum(oddstring)
+b = sum(even)
+slutsiffra = a + b
 
 #lägg till kontrollsiffra
 slutsiffra = slutsiffra + sum(kontroll)
