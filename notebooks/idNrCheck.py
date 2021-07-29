@@ -8,7 +8,7 @@ Check correctness of Swedish ID numbers
 # mixedCase is allowed only in contexts where that's already the prevailing style (e.g. threading.py), to retain backwards compatibility.
 # ------------
 
-from typing import List # Just for typechecking of list inputs, optional, but type checking reduces devilish errors
+from typing import List  # Just for typechecking of list inputs, optional, but type checking reduces devilish errors
 
 class IdNrLenghtError(Exception):
     """ Custom error message that is raised when idNr dosen't have either 10 or 12 nr """
@@ -77,7 +77,7 @@ class DayAndMonthError(Exception):
 class idNr:
 
     id_str: str
-    id_nr: list
+    id_nr: List
     ctrl_nr: str
     month_nr: str
     day_nr: str
@@ -92,36 +92,29 @@ class idNr:
         if len(id_nr) != 10 and len(id_nr) !=12:
             # Raise custom error message - This is really neat for debugging,
             raise IdNrLenghtError(value=self.id_str, message="IdNr should have either 10 or 12 digits")
-        
-        self.id_nr = idNr
-            raise IdNrLenghtError(value=self.id_str, message="IdNr should have either 10 or 12 digits")
 
+        # set id nr to the cleaned up number sequence
         self.id_nr = id_nr
 
         # Set controlnumber to the last digit in input
-
         ctrl_nr = self.idStr[-1]
 
-        #Set monthnumber and check monthnumbers
-
-        if len(id_nr) ==10:
-            month_nr = self.idStr[2:4]
-        else:
-            month_nr = self.idStr[4:6]
+        #Set monthnumber and check whether monthnumbers are feasable
+        if len(id_nr) ==10: # if 10 nr format
+            month_nr = self.idStr[2:4] # month
+        else: # if 12 nr format
+            month_nr = self.idStr[4:6] #
 
         if int(month_nr) > 12:
             #raise error message
             raise MonthError(value=self.idStr, message="Month number should be between 01-12")
 
-        
-
         #Set daynumber and check daynumbers
-
         if len(id_nr) ==10:
             day_nr = self.idStr[4:6]
         else:
             day_nr = self.idStr[6:8]
-        
+
 
         if int(day_nr) > 31:
             #raise error message
