@@ -26,6 +26,43 @@ class CtrlNrError(Exception):
     def __str__(self):
         return f'{self.value} --> {self.message}' # Using f-string to format, it's great. Have a look here https://realpython.com/python-f-strings/#f-strings-a-new-and-improved-way-to-format-strings-in-python
 
+
+#Day and month class errors
+
+class MonthError(Exception):
+    """Error message when month number isnt 01-12"""
+
+    def __init__(self, value: str, message: str) -> None:
+        self.value = value
+        self.message = message
+        super().__init__(message)
+
+    def __str__(self):
+        return f'{self.value} --> {self.message}'
+
+class DayError(Exception):
+    """Error message when day number isnt 01-31"""
+
+    def __init__(self, value: str, message: str) -> None:
+        self.value = value
+        self.message = message
+        super().__init__(message)
+
+    def __str__(self):
+        return f'{self.value} --> {self.message}'
+
+class DayAndMonthError(Exception):
+    """Error message when day and month numbers are incompatible"""
+
+    def __init__(self, value: str, message: str) -> None:
+        self.value = value
+        self.message = message
+        super().__init__(message)
+
+    def __str__(self):
+        return f'{self.value} --> {self.message}'
+
+
 # Try to make classes to contain the different parts of what you want to do.
 # A Id is a "thing" aka a object, so we want to make it into a class with properties, the most important one being the nr.
 # All Id have a list of numbers, or e.g. cars have a speed and a brand
@@ -35,6 +72,9 @@ class idNr:
 
     idStr: str
     idNr: list
+    ctrlNr: str
+    monthNr: str
+    dayNr: str
 
 
     def __init__(self, idStr): # We pass a idNr to it when we initiaze it
@@ -46,8 +86,43 @@ class idNr:
         if len(idNr) != 10 and len(idNr) !=12:
             # Raise custom error message - This is really neat for debugging,
             raise IdNrLenghtError(value=self.idStr, message="IdNr should have either 10 or 12 digits")
-
+        
         self.idNr = idNr
+
+        # Set controlnumber to the last digit in input
+
+        ctrlNr = self.idStr[-1]
+
+        #Set monthnumber and check monthnumbers
+
+        if len(idNr) ==10:
+            monthNr = self.idStr[2:4]
+        else:
+            monthNr = self.idStr[4:6]
+
+        if int(monthNr) > 12:
+            #raise error message
+            raise MonthError(value=self.idStr, message="Month number should be between 01-12")
+
+        
+
+        #Set daynumber and check daynumbers
+
+        if len(idNr) ==10:
+            dayNr = self.idStr[4:6]
+        else:
+            dayNr = self.idStr[6:8]
+        
+
+        if int(dayNr) > 31:
+            #raise error message
+            raise DayError(value=self.idStr, message="Day number should be between 01-31")
+
+        #Check if months 4,6,9,11 have more than 30 days and if month 2 has more than 28 days
+        if (int(monthNr) == 4 or 6 or 9 or 11) and (int(dayNr) > 30):
+            raise DayAndMonthError(value=self.idStr, message="Day and month numbers are incompatible")
+        elif (int(monthNr) == 2) and (int(dayNr) >28):
+            raise DayAndMonthError(value=self.idStr, message="Day and month numbers are incompatible")
 
     def __repr__(self):
         """ Defines the object reprentation of a given class and will be shown when printing the object if __str__  is not defined    """
@@ -118,7 +193,7 @@ class idNr:
             if ((i+1) % 2) !=0:
                 digit = digit * 2
             ctrlDigs.append(digit) # We always want to add the digit to the new list, but only multiply if it's odd. So this way we minimize the amount of code. The multiplication is only run for odd nubmers
-
+        
         # For the control number what you actually want is the last digit
         # It's only one digit so it shouldn't be a list, that's the reason you had to use "sum(kontroll)" in a bit of a akward way before
 
