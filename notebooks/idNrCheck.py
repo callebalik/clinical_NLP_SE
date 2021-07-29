@@ -87,49 +87,53 @@ class idNr:
         """ This is a built in method, so called dunder methods __XXXX__ which initializes the class """
         self.id_str = str(id_str) # Here we set the idNr of this specific instance of the class idNr to the specific idNr.
 
-        # Isolate the numbers in input using list comprehension (actually easier than using regex here)
-        id_nr = [int(c) for c in self.id_str if c in "0123456789"]
-        if len(id_nr) != 10 and len(id_nr) !=12:
-            # Raise custom error message - This is really neat for debugging,
-            raise IdNrLenghtError(value=self.id_str, message="IdNr should have either 10 or 12 digits")
-
-        # set id nr to the cleaned up number sequence
-        self.id_nr = id_nr
+        # set id_nr = cleaned up number sequence from id_str
+        self.extract_idnr_sequence()
 
         # Set controlnumber to the last digit in input
-        ctrl_nr = self.idStr[-1]
+        ctrl_nr = self.id_nr[-1]
 
         #Set monthnumber and check whether monthnumbers are feasable
-        if len(id_nr) ==10: # if 10 nr format
-            month_nr = self.idStr[2:4] # month
+        if len(self.id_nr) ==10: # if 10 nr format
+            month_nr = self.id_nr[2:4] # month
         else: # if 12 nr format
-            month_nr = self.idStr[4:6] #
+            month_nr = self.id_nr[4:6] #
 
         if int(month_nr) > 12:
             #raise error message
-            raise MonthError(value=self.idStr, message="Month number should be between 01-12")
+            raise MonthError(value=self.id_str, message="Month number should be between 01-12")
 
         #Set daynumber and check daynumbers
-        if len(id_nr) ==10:
-            day_nr = self.idStr[4:6]
+
+        if len(self.id_nr) ==10:
+            day_nr = self.id_nr[4:6]
         else:
-            day_nr = self.idStr[6:8]
+            day_nr = self.id_nr[6:8]
 
 
         if int(day_nr) > 31:
             #raise error message
-            raise DayError(value=self.idStr, message="Day number should be between 01-31")
+            raise DayError(value=self.id_nr, message="Day number should be between 01-31")
 
         #Check if months 4,6,9,11 have more than 30 days and if month 2 has more than 28 days
         if (int(month_nr) == 4 or 6 or 9 or 11) and (int(day_nr) > 30):
-            raise DayAndMonthError(value=self.idStr, message="Day and month numbers are incompatible")
+            raise DayAndMonthError(value=self.id_nr, message="Day and month numbers are incompatible")
         elif (int(month_nr) == 2) and (int(day_nr) >28):
-            raise DayAndMonthError(value=self.idStr, message="Day and month numbers are incompatible")
+            raise DayAndMonthError(value=self.id_nr, message="Day and month numbers are incompatible")
 
     def __repr__(self):
         """ Defines the object reprentation of a given class and will be shown when printing the object if __str__  is not defined    """
 
         return f'{self.id_nr} is a id nr'
+
+    def extract_idnr_sequence(self):
+        # Isolate the numbers in input using list comprehension (actually easier than using regex here)
+        id_nr = [int(c) for c in self.id_str if c in "0123456789"]
+        if len(id_nr) != 10 and len(id_nr) !=12:
+            # Raise custom error message - This is really neat for debugging,
+            raise IdNrLenghtError(value=self.id_str, message="IdNr should have either 10 or 12 digits")
+        self.id_nr = id_nr
+        return
 
     def validate_date_correctness(self):
         """ Check whether ID has real dates """
@@ -141,8 +145,11 @@ class idNr:
 
         id_nr_multiplied = []
 
-        for i in range(len(self.id_nr)-1):
-            digit = self.id_nr[i]
+        if len(self.id_nr) == 12:
+            id_nr_len_9 = self.id_nr[2:11]
+
+        for i in range(len(id_nr_len_9)):
+            digit = id_nr_len_9[i]
             if ((i+1) % 2) !=0:
                 digit = digit * 2
             id_nr_multiplied.append(digit) # We always want to add the digit to the new list, but only multiply if it's odd. So this way we minimize the amount of code. The multiplication is only run for odd nubmers
@@ -167,6 +174,7 @@ class idNr:
         if (sum + ctrl_dig) % 10 != 0:
             raise CtrlNrError(value=sum + ctrl_dig, message="The control digit should be divisable by 10")
 
+        print("Correct control number")
 
 def main() -> None: # The -> None is optional and just for type checking
      """Main function."""
@@ -174,9 +182,9 @@ def main() -> None: # The -> None is optional and just for type checking
 
      # Create instance (an object) of the class idNr using "xxx" as input
 
-     # id = idNr("8112189874") # Let's set it for testing purpose
+     id = idNr("199510asdasd056576") # Let's set it for testing purpose
 
-     id = idNr(input("personnummer"))
+     # id = idNr(input("personnummer"))
      print(id)
      id.validate_ctrl_nrbs()
 
