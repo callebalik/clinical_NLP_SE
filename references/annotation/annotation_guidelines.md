@@ -56,7 +56,7 @@ There is also guides to [mapping from ICD to SNOMED](https://confluence.ihtsdoto
   - *Signs*: A sign may be observed by another than the pat. or may be detected during anamnesis<!-- history taking --> or medical examination. They are to some degree objective indications of a disease, injury, or abnormal physiological state.
     - In Swedish: classically written under the heading of "akutellt"<!-- or Anmanes -->
   - *Negation*: Negerande enskilda ord såsom inte och ej + förled så som o i t.ex.
-- Continuity: All instances of a NE which has the same function shall be labeled in the same manner across the corpus
+- Continuity: All instances of a NE which has the same function should be labeled in the same manner across the corpus
   - E.g. negations should be categorized as such not only at symptoms but across the document.
 
 
