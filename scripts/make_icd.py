@@ -66,24 +66,25 @@ class Icd:
 
                 # 1. Get the key to the correct block
                 # 2. Add the tree dig codes to their matching blocks in sequence. No sorting needed as that is already done
-                self.codes[self.get_block(row[0])][1][row[0]] = [row[1]]
+                self.get_block(row[0])[1][row[0]] = [row[1]]
 
 
     def make_four_dig(self) -> None:
-        # Now we loop all 4 digit codes that should go into the current 3 dig code
-        four_dict = {} # Resets every loop
         with open(ICD_PATH / 'digit4.txt', mode='r', encoding="utf-8-sig") as codes_four:
-            for row_four in codes_four:
-                row_four = re.split(r'$\s', row_four) # Trailing whitespace
-                row_four = re.split(r'(?<=\w\d\d\d)\s+', row_four[0]) # ToDo special cases -- should run to next whitespace followed by text. Also stora extra symbol info
+            for row in codes_four:
+                row = re.split(r'$\s', row) # Trailing whitespace
+                row = re.split(r'(?<=\w\d\d\d)\s+', row[0]) # ToDo special cases -- should run to next whitespace followed by text. Also stora extra symbol info
 
                 # if smaller than next three digit index we should add it
-                if row_four[0] < row_three[0]: # if the 4 dig is larger than the 3 dig add no more 4 dig to this 3 dig
-                    four_dict[row_four[0]] = row_four[1] # Create a dictionary for 4 digit codes and their correspodning texts
+                block = self.codes[self.get_block(row[0])]
+
+
+                if row[0] < row_three[0]: # if the 4 dig is larger than the 3 dig add no more 4 dig to this 3 dig
+                    four_dict[row[0]] = row[1] # Create a dictionary for 4 digit codes and their correspodning texts
 
                     # "A320" <= "A32" -> False. So we have to add one more
-                    # print("A099" < "A15") -> false
-                    # print("A150" < "A15") -> true
+                    # print("A099" < "A15") -> true
+                    # print("A150" < "A15") -> false
                     # This we can use for the iteratation
 
 
@@ -95,12 +96,12 @@ class Icd:
         index_end = re.split(r'(?<=\d)-(?=\D)', block) # split start end end of code at - e.g. A30-A49
         return index_end[1]
 
-    def get_block(self, index:str) -> str:
+    def get_block(self, index:str) -> Dict:
         """ Matches a given code index e.g. B07 to it's correct block parent and returns the key for the block as a str """
 
         for key in self.codes:
             if self.get_block_end(key) >= index and self.get_block_start(key) <= index:   # compare block end to index, if index < end, then it's in that block
-                return key
+                return self.codes[key]
             # error if we reach end of list without matching, but shouldn't happen in this contained example.
 
     def get_block_text(self, index=str) -> str:
@@ -113,9 +114,7 @@ class Icd:
     def get_text(self, index=str) -> str:
         """ Get the text for the specific index """
         level = len(index) - 1 # Gets the number of numbers in the index
-        block_key = self.get_block(index=index)
-
-        return self.codes[block_key][1][index][0]
+        return self.get_block(index=index)[1][index][0]
 
 icd = Icd()
 icd.make_block()
