@@ -70,23 +70,32 @@ class Icd:
 
 
     def make_four_dig(self) -> None:
-        with open(ICD_PATH / 'digit4.txt', mode='r', encoding="utf-8-sig") as codes_four:
-            for row in codes_four:
-                row = re.split(r'$\s', row) # Trailing whitespace
-                row = re.split(r'(?<=\w\d\d\d)\s+', row[0]) # ToDo special cases -- should run to next whitespace followed by text. Also stora extra symbol info
 
-                # if smaller than next three digit index we should add it
-                block = self.codes[self.get_block(row[0])]
+        for i, block in enumerate(self.codes):
+            if i == 0:
+                last_key = block
+            else:
+                with open(ICD_PATH / 'digit4.txt', mode='r', encoding="utf-8-sig") as codes:
+                    for row in codes:
+                        row = re.split(r'$\s', row) # Trailing whitespace
+                        row = re.split(r'(?<=\w\d\d\d)\s+', row[0]) # ToDo special cases -- should run to next whitespace followed by text. Also stora extra symbol info
+
+                        # "A320" <= "A32" -> False. So we have to add one more
+                        # print("A099" < "A15") -> true
+                        # print("A150" < "A15") -> false
+                        # print("A150" < "A16") -> true
+                        # This we can use for the iteratation
+                        # -----
+                        # ERGO: if smaller than next three digit index we should add it
+                        if row[0] < self.get_block_start(block): # if the 4 dig is larger than the 3 dig add no more 4 dig to this 3 dig
+                            self.codes[last_key][1][1] = {row[0], row[1]} # Set dictionary [1] of
+                            # then we know that this should be added to the current block
+                        else:
+                            break
+                        last_key = block
 
 
-                if row[0] < row_three[0]: # if the 4 dig is larger than the 3 dig add no more 4 dig to this 3 dig
-                    four_dict[row[0]] = row[1] # Create a dictionary for 4 digit codes and their correspodning texts
-
-                    # "A320" <= "A32" -> False. So we have to add one more
-                    # print("A099" < "A15") -> true
-                    # print("A150" < "A15") -> false
-                    # This we can use for the iteratation
-
+            # last_key = self.get_block_end[block] # Object repr could be better
 
     def get_block_start(self, block:str) -> str:
         index_start = re.split(r'(?<=\d)-(?=\D)', block) # split start end end of code at - e.g. A30-A49
@@ -123,7 +132,7 @@ tree = icd.make_three_dig()
 print(icd.get_block(index="A09"))
 print(icd.get_text("A09"))
 print("end")
-# icd.make_tree_to_five_dig()
+icd.make_four_dig()
 
 # ICD_PATH = data_path / 'raw/codes/icd-10-se-2021-text'
 # file_path = ICD_PATH / 'digit3.txt'
