@@ -1,4 +1,6 @@
-# module that takes raw icd10 codes and returns a dictionary with categories
+"""
+module that takes raw icd10 codes and creates a icd object that can be interacted with for studying and modifying icd codes.
+"""
 
 from pathlib import Path
 from typing import Dict, TypedDict
@@ -10,7 +12,7 @@ DATA_PATH = ROOT / 'data'
 ICD_PATH = DATA_PATH / 'raw/medical_codes/icd-10-se-2021-text'
 
 
-    # Chapter <-> description
+    # block <-> description
     #       blocks 2 numbers
     #           3 digit
     #               4 digit
@@ -32,7 +34,7 @@ class Icd:
     def __init__(self):
         # IcdDict self.codes = TypedDict('Icd', {'key': str, 'value': str})
         self.codes = {}
-        self.make_block()
+        self.make_block() #! issue i've called it block further down, but is actually block, and block is one level above
 
     def __repr__(self) -> str:
 
@@ -40,66 +42,89 @@ class Icd:
     # !issue: get \ufeffA00 for first code, both in block and digit3 file
 
     def make_block(self) -> None:
-        with open(ICD_PATH / 'block.txt','r') as codes:
+        three_dig = {}
+
+        with open(ICD_PATH / 'block.txt', mode='r', encoding="utf-8-sig") as codes: # Giving the correct encoding, the BOM is omitted in the result: \ufefftest'
             for row in codes:
                 row = re.split(r'$\s',row) # remove trailing whitespace
                 row = re.split(r'(?<=\w\d\d)\s+', row[0]) # split codes from text
                 index = row[0]
-                index_start_end = re.split(r'(?<=\d)-(?=\D)', index) # split start end end of code at - e.g. A30-A49
-                index_start_end = re.split(r'(?<=\d)-(?=\D)', index) # split start end end of code at - e.g. A30-A49
 
                 # Set start end and text in a list as values for the corresponing key
-                list = [index_start_end[0], index_start_end[1], row[1]]
-                # Set start end and text in a list as values for the corresponing key
-                list = [index_start_end[0], index_start_end[1], row[1]]
-                self.codes[index] = list
 
-    def make_tree_dig(self) -> Dict:
-        dict_three = {}
+                self.codes[index] = [row[1], {}]
 
-        with open(ICD_PATH / 'digit3.txt','r') as codes:
-            for r in codes:
-                r = re.split(r'$\s',r)
-                # special cases -- add info
-                row = re.split(r'(?<=\w\d\d)\s+', r[0])
-                dict_three[row[0]] = row[1]
-            return dict_three
+    def make_three_dig(self) -> None:
 
-    def get_chapter_start(self, chapter:str) -> str:
-        return self.codes[chapter][0]
+        # Lot's of functional repetition here, could be made much better
 
-    def get_chapter_end(self, chapter:str) -> str:
-        return self.codes[chapter][1]
+        with open(ICD_PATH / 'digit3.txt', mode='r', encoding="utf-8-sig") as codes:
+            for row in codes:
+                row = re.split(r'$\s', row)
+                row = re.split(r'(?<=\w\d\d)\s+', row[0])
+                # Add all the three dig codes to the list that corresponds to the block [start, end, text, dict_of_three]
 
-    def get_chapter(self, index:str) -> str:
-        """ Matches a given code index e.g. B07 to it's correct chapter parent and returns the key for the chapter as a str """
+                # 1. Get the key to the correct block
+                # 2. Add the tree dig codes to their matching blocks in sequence. No sorting needed as that is already done
+                self.codes[self.get_block(row[0])][1][row[0]] = [row[1]]
+
+
+    def make_four_dig(self) -> None:
+        # Now we loop all 4 digit codes that should go into the current 3 dig code
+        four_dict = {} # Resets every loop
+        with open(ICD_PATH / 'digit4.txt', mode='r', encoding="utf-8-sig") as codes_four:
+            for row_four in codes_four:
+                row_four = re.split(r'$\s', row_four) # Trailing whitespace
+                row_four = re.split(r'(?<=\w\d\d\d)\s+', row_four[0]) # ToDo special cases -- should run to next whitespace followed by text. Also stora extra symbol info
+
+                # if smaller than next three digit index we should add it
+                if row_four[0] < row_three[0]: # if the 4 dig is larger than the 3 dig add no more 4 dig to this 3 dig
+                    four_dict[row_four[0]] = row_four[1] # Create a dictionary for 4 digit codes and their correspodning texts
+
+                    # "A320" <= "A32" -> False. So we have to add one more
+                    # print("A099" < "A15") -> false
+                    # print("A150" < "A15") -> true
+                    # This we can use for the iteratation
+
+
+    def get_block_start(self, block:str) -> str:
+        index_start = re.split(r'(?<=\d)-(?=\D)', block) # split start end end of code at - e.g. A30-A49
+        return index_start[0]
+
+    def get_block_end(self, block:str) -> str:
+        index_end = re.split(r'(?<=\d)-(?=\D)', block) # split start end end of code at - e.g. A30-A49
+        return index_end[1]
+
+    def get_block(self, index:str) -> str:
+        """ Matches a given code index e.g. B07 to it's correct block parent and returns the key for the block as a str """
 
         for key in self.codes:
-            if self.get_chapter_end(key) >= index:   # compare chapter end to index, if index < end, then it's in that chapter
-            # error if we reach end of list without matching, but shouldn't happen in this contained example.
+            if self.get_block_end(key) >= index and self.get_block_start(key) <= index:   # compare block end to index, if index < end, then it's in that block
                 return key
+            # error if we reach end of list without matching, but shouldn't happen in this contained example.
 
-    def get_chap_text(self, index=str) -> str:
-        """ Get the text for the chapter of a given index """
+    def get_block_text(self, index=str) -> str:
+        """ Get the text for the block of a given index """
         level = len(index) - 1 # Gets the number of numbers in the index
 
-        chap_key = self.get_chapter(index=index)
-        return self.codes[chap_key][2] # chapter text
+        block_key = self.get_block(index=index)
+        return self.codes[block_key][2] # block text
 
     def get_text(self, index=str) -> str:
         """ Get the text for the specific index """
         level = len(index) - 1 # Gets the number of numbers in the index
-        chap_key = self.get_chapter(index=index)
+        block_key = self.get_block(index=index)
 
-        pass
-
+        return self.codes[block_key][1][index][0]
 
 icd = Icd()
 icd.make_block()
-tree = icd.make_tree_dig()
-print(icd.codes["B00-B09"])
+tree = icd.make_three_dig()
 # icd.match_index(index="R80")
-print(icd.get_chapter(index="A30"))
+print(icd.get_block(index="A09"))
+print(icd.get_text("A09"))
+print("end")
+# icd.make_tree_to_five_dig()
 
 # ICD_PATH = data_path / 'raw/codes/icd-10-se-2021-text'
 # file_path = ICD_PATH / 'digit3.txt'
