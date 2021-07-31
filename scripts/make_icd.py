@@ -34,12 +34,14 @@ class Icd:
     def __init__(self):
         # IcdDict self.codes = TypedDict('Icd', {'key': str, 'value': str})
         self.codes = {}
-        self.make_block() #! issue i've called it block further down, but is actually block, and block is one level above
+        self.make_block()
+        self.make_three_dig()
+        self.make_four_dig()
+        self.make_five_dig()
 
     def __repr__(self) -> str:
 
         pass
-    # !issue: get \ufeffA00 for first code, both in block and digit3 file
 
     def make_block(self) -> None:
         three_dig = {}
@@ -70,11 +72,7 @@ class Icd:
 
 
     def make_four_dig(self) -> None:
-
-        key_list = list(self.codes)
-
         with open(ICD_PATH / 'digit4.txt', mode='r', encoding="utf-8-sig") as codes:
-            i = 0
             for row in codes:
                 row = re.split(r'$\s', row) # Trailing whitespace
                 row = re.split(r'(?<=\w\d\d\d)\s+', row[0]) # ToDo special cases -- should run to next whitespace followed by text. Also stora extra symbol info
@@ -89,6 +87,15 @@ class Icd:
                 parent = self.get_parent(index=row[0])
                 parent[1][row[0]] = row[1]
 
+    def make_five_dig(self) -> None:
+        with open(ICD_PATH / 'digit5.txt', mode='r', encoding="utf-8-sig") as codes:
+            for row in codes:
+                row = re.split(r'$\s', row) # Trailing whitespace
+                row = re.split(r'(?<=\w\d\d\d\d)\s+', row[0]) # ToDo special cases -- should run to next whitespace followed by text. Also stora extra symbol info
+
+                parent = self.get_parent(index=row[0])
+                parent[1][row[0]] = row[1]
+
     def get_block_start(self, block:str) -> str:
         index_start = re.split(r'(?<=\d)-(?=\D)', block) # split start end end of code at - e.g. A30-A49
         return index_start[0]
@@ -96,6 +103,19 @@ class Icd:
     def get_block_end(self, block:str) -> str:
         index_end = re.split(r'(?<=\d)-(?=\D)', block) # split start end end of code at - e.g. A30-A49
         return index_end[1]
+
+
+    def get_block_text(self, index=str) -> str:
+        """ Get the text for the block of a given index """
+        level = len(index) - 1 # Gets the number of numbers in the index
+
+        block_key = self.get_block(index=index)
+        return self.codes[block_key][2] # block text
+
+    def get_text(self, index=str) -> str:
+        """ Get the text for the specific index """
+        level = len(index) - 1 # Gets the number of numbers in the index
+        return self.get_block(index=index)[1][index][0]
 
     def get_block(self, index:str) -> Dict:
         """ Matches a given code index e.g. B07 to it's correct block parent and returns the key for the block as a str """
@@ -112,47 +132,52 @@ class Icd:
 
             if key == listd[len(listd)-1]: # special for last block
                 return self.codes[key]
-            # error if we reach end of list without matching, but shouldn't happen in this contained example.
-
-    def get_block_text(self, index=str) -> str:
-        """ Get the text for the block of a given index """
-        level = len(index) - 1 # Gets the number of numbers in the index
-
-        block_key = self.get_block(index=index)
-        return self.codes[block_key][2] # block text
-
-    def get_text(self, index=str) -> str:
-        """ Get the text for the specific index """
-        level = len(index) - 1 # Gets the number of numbers in the index
-        return self.get_block(index=index)[1][index][0]
 
     def get_parent(self, index=str):
 
         # if it's parent is block needs different method - since these are stored as ranges for the keys
         if len(index) <= 3:
             return self.get_block(index)
+
         # Now for the nested codes
-        else:
-            block = self.get_block(index)[1]
-            key_list = list(block)
+        return self.search_dddd(index)
+        # get block
+    def search_dddd(self, index=str) -> Dict:
+        dddd = index[0:3]
+        block = self.get_block(dddd)[1]
 
-            for key in block: # Access e.g. {A00, Kolera} - this means we also only iterate trough the block and not all keys
-                if index < key: # if the index is smaller than the key then it belongs to the previous one
-                    return block[last_key] # ToDo extend with different levels
-                last_key = key
+        # get first level
+        key_list = list(block)
 
-                if index > key_list[len(key_list)-1]:
-                    return block[key_list[len(key_list)-1]]
-            # error if we reach end of list without matching, but shouldn't happen in this contained example.
+        for key in block: # Access e.g. {A00, Kolera} - this means we also only iterate trough the block and not all keys
+            if index < key: # if the index is smaller than the key then it belongs to the previous one
+                return block[last_key] # ToDo extend with different levels
+            last_key = key
+
+            if index > key_list[len(key_list)-1]:
+                return block[key_list[len(key_list)-1]]
+
+    def search_ddddd(self, index=str) -> Dict:
+        ddddd = index[3:4]
+
+        dddd = self.search_dddd(index)
+        key_list = list(dddd)
+
+
+        for key in dddd:
+            if index < key: # if the index is smaller than the key then it belongs to the previous one
+                return dddd[last_key] # ToDo extend with different levels
+            last_key = key
+
+            if index > key_list[len(key_list)-1]:
+                return dddd[key_list[len(key_list)-1]]
+
 
 icd = Icd()
-icd.make_block()
-tree = icd.make_three_dig()
 # icd.match_index(index="R80")
 # print(icd.get_block(index="A09"))
 # print(icd.get_text("A09"))
 print(icd.get_parent(index="A000"))
-icd.make_four_dig()
 print("tada")
 
 # ICD_PATH = data_path / 'raw/codes/icd-10-se-2021-text'
