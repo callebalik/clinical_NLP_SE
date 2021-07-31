@@ -91,7 +91,7 @@ class Icd:
         with open(ICD_PATH / 'digit5.txt', mode='r', encoding="utf-8-sig") as codes:
             for row in codes:
                 row = re.split(r'$\s', row) # Trailing whitespace
-                row = re.split(r'(?<=\w\d\d\d\d)\s+', row[0]) # ToDo special cases -- should run to next whitespace followed by text. Also stora extra symbol info
+                row = re.split(r'((?<=\D\d\d\d\d)|(?<=\D\d\d\d\D))\s+?.?\s', row[0]) # ToDo special cases -- should run to next whitespace followed by text. Also stora extra symbol info
 
                 parent = self.get_parent(index=row[0])
                 parent[1][row[0]] = row[1]
@@ -116,6 +116,8 @@ class Icd:
         """ Get the text for the specific index """
         level = len(index) - 1 # Gets the number of numbers in the index
         return self.get_block(index=index)[1][index][0]
+
+        # ToDo implement what happens if it's not there
 
     def get_block(self, index:str) -> Dict:
         """ Matches a given code index e.g. B07 to it's correct block parent and returns the key for the block as a str """
@@ -173,52 +175,10 @@ class Icd:
                 return dddd[key_list[len(key_list)-1]]
 
 
-icd = Icd()
-# icd.match_index(index="R80")
-# print(icd.get_block(index="A09"))
-# print(icd.get_text("A09"))
-print(icd.get_parent(index="A000"))
-print("tada")
 
-# ICD_PATH = data_path / 'raw/codes/icd-10-se-2021-text'
-# file_path = ICD_PATH / 'digit3.txt'
+def main() -> None:
+    icd = Icd()
+    print(icd.get_text("A09"))
 
-# ICD000 = []
-# with open(ICD_PATH / 'digit3.txt','r') as codes:
-#     for line in codes:
-#         x = re.split(ddd, line)
-#         ICD000.append(x[1].strip())
-
-# ICD0000 = []
-# with open(ICD_PATH / 'digit4.txt','r') as codes:
-#     for line in codes:
-#         x = re.split(dddd, line)
-#         ICD0000.append(x[1].strip())
-
-# ICD00000 = []
-# with open(ICD_PATH / 'digit5.txt','r') as codes:
-#     for line in codes:
-#         x = re.split(ddddd, line)
-#         ICD00000.append(x[1])
-
-# ICD = ICD000 + ICD0000 + ICD00000
-
-# print(f"This file is here: {file_path}")
-
-# import re
-
-# regex_ddd = '/(?<=\D\d\d)\s+?.?\s/gm'
-# regex_dddR = '/(?<=R\d\d)\s+?.?\s/gm'
-# ddd = r'(?<=\D\d\d)\s+?.?\s'
-# dddd = r'(?<=\D\d\d\d)\s+?.?\s'
-# ddddd = r'((?<=\D\d\d\d\d)|(?<=\D\d\d\d\D))\s+?.?\s'
-
-# '''
-# A513B	†	Syfilitisk (sekundär) alopeci (L99.8)
-# Y3498		Ospecificerad skadehändelse, med oklar avsikt-plats, ospecificerad-andra specificerade aktiviteter
-# Y3499		Ospecificerad skadehändelse, med oklar avsikt-plats, ospecificerad-aktivitet, ospecificerad
-# Y586A		Komplikation av vaccin mot kikhosta, enbart (P)
-# Y586B		Komplikation av vaccin mot difteri, kikhosta och stelkramp, kombinerat (DPT)
-# Y586W		Komplikation av annat kombinerat
-# '''
-
+if __name__ == '__main__': # When you just want to run the main method
+    main()
