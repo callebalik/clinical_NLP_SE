@@ -101,6 +101,13 @@ class Icd:
                 parent = self.get_parent(index=row[0])
                 parent[1][row[0]] = row[1]
 
+    def get_text(self, index=str) -> str:
+        """Get the text for the specific index"""
+        level = len(index) - 1  # Gets the number of numbers in the index
+        return self.get_block(index=index)[1][index][0]
+
+        # ToDo implement what happens if it's not there
+
     def get_block_start(self, block: str) -> str:
         index_start = re.split(
             r"(?<=\d)-(?=\D)", block
@@ -119,13 +126,6 @@ class Icd:
 
         block_key = self.get_block(index=index)
         return self.codes[block_key][2]  # block text
-
-    def get_text(self, index=str) -> str:
-        """Get the text for the specific index"""
-        level = len(index) - 1  # Gets the number of numbers in the index
-        return self.get_block(index=index)[1][index][0]
-
-        # ToDo implement what happens if it's not there
 
     def get_block(self, index: str) -> Dict:
         """Matches a given code index e.g. B07 to it's correct block parent and returns the key for the block as a str"""

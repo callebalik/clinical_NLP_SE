@@ -93,3 +93,5 @@ data/sweSpacy/sv_pipeline-0.0.0.tar.gz
 data/sweSpacy/sv_tagger-0.0.0.tar.gz
 data/sweSpacy/sv_pipline-0.0.0.tar.gz
 .pylintrc
+models
+data/processed/corpus
