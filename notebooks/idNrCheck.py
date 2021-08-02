@@ -172,7 +172,7 @@ class idNr:
 
         # Test control digit
         if (sum + ctrl_dig) % 10 != 0:
-            raise CtrlNrError(value=sum + ctrl_dig, message="The control digit should be divisable by 10")
+            raise CtrlNrError(value = sum + ctrl_dig, message="The control digit should be divisable by 10")
 
         print("Correct control number")
 

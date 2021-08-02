@@ -655,7 +655,7 @@ E230W		Andra former av hypofysunderfunktion
 E230X		Hypofunktion hypofys UNS
 E250A		Binjurebarkshyperplasi, kongenital, med saltförlust
 E250B		Binjurebarkshyperplasi, kongenital, med enzymbrist
-E250C		Binjurebarkshyperplasi, sent debuterande form (icke klassisk form) 
+E250C		Binjurebarkshyperplasi, sent debuterande form (icke klassisk form)
 E250D		Macrogenitosomia praecox
 E343A		Kortvuxenhet, konstitutionell
 E343B		Kortvuxenhet, psykosocialt betingad
