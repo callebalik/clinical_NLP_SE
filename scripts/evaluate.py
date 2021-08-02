@@ -21,6 +21,8 @@ def save_model(nlp, model_name: str):
 # use 100 sentences before splitting a file into a new doc
 # /home/callebalik/clinical_NLP_SE/data/processed/corpus/conll2003_NE_built_in_layer
 # /home/callebalik/clinical_NLP_SE/scripts/data/processed/corpus/conll2003_NE_built_in_layer/
+
+
 def evaluate_model(model_name: str):
     MODEL_PATH = ROOT / f"models/{model_name}"
     output = f"--output {MODEL_PATH}/metrics.json"

@@ -24,6 +24,3 @@ def make_patterns(phrases: List, label: str, id=None) -> list:
             patterns.append(p)
 
     return patterns
-
-
-[{"label": "ORG", "pattern": "MyCorp Inc."}]
