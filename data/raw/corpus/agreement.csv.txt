@@ -1,0 +1,295 @@
+Type,Collection,Document,Layer,Feature,Position,Annotator,admin,annotator1,curator1
+SpanPosition,CovidQ,chart1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,14-20 [Dyspné],SYM,null,SYM,null
+SpanPosition,CovidQ,chart1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,70-73 [DM2],SYM,null,DIS,null
+SpanPosition,CovidQ,chart1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,92-101 [hypertoni],SYM,null,DIS,null
+SpanPosition,CovidQ,chart1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,201-207 [andnöd],SYM,null,SYM,null
+SpanPosition,CovidQ,chart1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,231-236 [hosta],SYM,null,null,null
+SpanPosition,CovidQ,chart1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,253-255 [Ej],NEG,null,NEG,null
+SpanPosition,CovidQ,chart1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,264-269 [feber],SYM,null,FND,null
+SpanPosition,CovidQ,chart1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,275-277 [ej],NEG,null,NEG,null
+SpanPosition,CovidQ,chart1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,302-312 [nedsatt AT],SYM,null,null,null
+SpanPosition,CovidQ,chart1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,391-402 [destruering],SYM,null,null,null
+SpanPosition,CovidQ,chart1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,404-408 [Inte],NEG,null,NEG,null
+SpanPosition,CovidQ,chart1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,420-426 [utslag],SYM,null,FND,null
+SpanPosition,CovidQ,chart1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,428-430 [Ej],NEG,null,NEG,null
+SpanPosition,CovidQ,chart1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,471-473 [Ej],NEG,null,NEG,null
+SpanPosition,CovidQ,chart1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,494-499 [Ingen],NEG,null,NEG,null
+SpanPosition,CovidQ,chart1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,500-506 [smärta],SYM,null,SYM,null
+SpanPosition,CovidQ,chart1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,520-529 [buksmärta],SYM,null,SYM,null
+SpanPosition,CovidQ,chart1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,536-547 [ÖNH symptom],SYM,null,SYM,null
+SpanPosition,CovidQ,chart1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,565-567 [ej],NEG,null,NEG,null
+SpanPosition,CovidQ,chart1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,613-617 [Inga],NEG,null,NEG,null
+SpanPosition,CovidQ,chart1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,618-628 [kräkningar],SYM,null,SYM,null
+SpanPosition,CovidQ,chart1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,635-645 [GI symptom],SYM,null,SYM,null
+SpanPosition,CovidQ,chart1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,684-689 [ingen],NEG,null,NEG,null
+SpanPosition,CovidQ,chart1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,690-703 [samtalsdyspné],FND,null,FND,null
+SpanPosition,CovidQ,chart1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,742-746 [inga],NEG,null,NEG,null
+SpanPosition,CovidQ,chart1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,747-772 [hörbara bi eller blåsljud],null,null,FND,null
+SpanPosition,CovidQ,chart1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,764-772 [blåsljud],FND,null,null,null
+SpanPosition,CovidQ,chart1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,818-837 [dämpat basalt höger],FND,null,null,null
+SpanPosition,CovidQ,chart1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,818-831 [dämpat basalt],null,null,FND,null
+SpanPosition,CovidQ,chart1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,839-844 [Inget],NEG,null,NEG,null
+SpanPosition,CovidQ,chart1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,845-862 [förlängt expirium],FND,null,FND,null
+SpanPosition,CovidQ,chart1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,891-896 [Ingen],NEG,null,NEG,null
+SpanPosition,CovidQ,chart1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,903-912 [peritonit],FND,null,FND,null
+SpanPosition,CovidQ,chart1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,955-959 [inga],NEG,null,NEG,null
+SpanPosition,CovidQ,chart1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,960-971 [pittingödem],FND,null,FND,null
+SpanPosition,CovidQ,chart1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,1033-1037 [utan],NEG,null,FND,null
+SpanPosition,CovidQ,chart1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,1038-1058 [respiratorisk acidos],null,null,DIS,null
+SpanPosition,CovidQ,chart1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,1119-1121 [Ej],NEG,null,NEG,null
+SpanPosition,CovidQ,chart1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,1164-1168 [inga],NEG,null,NEG,null
+SpanPosition,CovidQ,chart1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,1177-1194 [ischemiska tecken],null,null,FND,null
+SpanPosition,CovidQ,chart1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,1177-1187 [ischemiska],FND,null,null,null
+SpanPosition,CovidQ,chart1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,1235-1243 [penumoni],DIS,null,DIS,null
+SpanPosition,CovidQ,chart1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,1250-1258 [COVID-19],DIS,null,DIS,null
+SpanPosition,CovidQ,chart1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,1403-1417 [Syrgaskrävande],null,null,FND,null
+SpanPosition,CovidQ,chart1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,1423-1425 [Ej],NEG,null,NEG,null
+SpanPosition,CovidQ,chart1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,1426-1433 [septisk],FND,null,FND,null
+SpanPosition,CovidQ,chart1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,1445-1453 [Pneumoni],DIS,null,DIS,null
+SpanPosition,CovidQ,chart2.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,27-33 [dyspné],SYM,null,SYM,null
+SpanPosition,CovidQ,chart2.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,69-71 [FF],DIS,null,DIS,null
+SpanPosition,CovidQ,chart2.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,73-86 [hyperlipidemi],DIS,null,DIS,null
+SpanPosition,CovidQ,chart2.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,88-90 [BC],DIS,null,DIS,null
+SpanPosition,CovidQ,chart2.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,147-151 [Inga],NEG,null,NEG,null
+SpanPosition,CovidQ,chart2.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,161-167 [NSTEMI],DIS,null,DIS,null
+SpanPosition,CovidQ,chart2.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,174-180 [Stroke],DIS,null,DIS,null
+SpanPosition,CovidQ,chart2.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,186-190 [utan],NEG,null,NEG,null
+SpanPosition,CovidQ,chart2.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,207-224 [Minnesproblematik],SYM,null,SYM,null
+SpanPosition,CovidQ,chart2.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,363-368 [Ingen],NEG,null,NEG,null
+SpanPosition,CovidQ,chart2.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,395-401 [febril],SYM,null,FND,null
+SpanPosition,CovidQ,chart2.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,403-414 [desaturerad],SYM,null,FND,null
+SpanPosition,CovidQ,chart2.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,419-423 [utan],null,null,NEG,null
+SpanPosition,CovidQ,chart2.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,454-461 [förkyld],SYM,null,SYM,null
+SpanPosition,CovidQ,chart2.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,552-562 [Obstruktiv],FND,null,FND,null
+SpanPosition,CovidQ,chart2.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,564-580 [förlängt expirum],FND,null,FND,null
+SpanPosition,CovidQ,chart2.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,637-641 [inga],NEG,null,NEG,null
+SpanPosition,CovidQ,chart2.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,654-660 [trauma],FND,null,FND,null
+SpanPosition,CovidQ,chart2.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,692-705 [kall perifert],FND,null,FND,null
+SpanPosition,CovidQ,chart2.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,707-727 [Marmorerad över knän],null,null,FND,null
+SpanPosition,CovidQ,chart2.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,707-717 [Marmorerad],FND,null,null,null
+SpanPosition,CovidQ,chart2.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,746-758 [Oregelbunden],FND,null,FND,null
+SpanPosition,CovidQ,chart2.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,772-785 [smala komplex],null,null,FND,null
+SpanPosition,CovidQ,chart2.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,890-894 [inga],NEG,null,NEG,null
+SpanPosition,CovidQ,chart2.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,895-921 [fokala neurotiska bortfall],FND,null,FND,null
+SpanPosition,CovidQ,chart2.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,923-934 [Konfusorisk],FND,null,FND,null
+SpanPosition,CovidQ,chart2.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,936-941 [RLS 2],FND,null,FND,null
+SpanPosition,CovidQ,chart2.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,943-948 [Ingen],NEG,null,NEG,null
+SpanPosition,CovidQ,chart2.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,949-960 [nackstelhet],FND,null,FND,null
+SpanPosition,CovidQ,chart2.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,965-973 [Skrapsår],FND,null,FND,null
+SpanPosition,CovidQ,chart2.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,986-994 [blåmärke],FND,null,FND,null
+SpanPosition,CovidQ,chart2.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,1009-1014 [ingen],NEG,null,NEG,null
+SpanPosition,CovidQ,chart2.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,1015-1027 [utåtrotation],FND,null,FND,null
+SpanPosition,CovidQ,chart2.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,1090-1096 [acidos],FND,null,FND,null
+SpanPosition,CovidQ,chart2.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,1097-1101 [utan],NEG,null,NEG,null
+SpanPosition,CovidQ,chart2.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,1132-1146 [Förmaksflimmer],FND,null,DIS,null
+SpanPosition,CovidQ,chart2.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,1178-1184 [Sepsis],FND,null,DIS,null
+SpanPosition,CovidQ,chart2.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,1238-1242 [Inga],NEG,null,NEG,null
+SpanPosition,CovidQ,chart2.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,1255-1263 [blödning],FND,null,FND,null
+SpanPosition,CovidQ,chart2.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,1290-1308 [traumatiska skador],null,null,FND,null
+SpanPosition,CovidQ,chart2.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,1330-1336 [febril],FND,null,FND,null
+SpanPosition,CovidQ,chart2.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,1410-1416 [trauma],null,null,FND,null
+SpanPosition,CovidQ,chart2.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,1421-1439 [medvetandepåverkan],null,null,FND,null
+SpanPosition,CovidQ,chart2.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,1647-1649 [ej],NEG,null,NEG,null
+SpanPosition,CovidQ,chart2.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,1709-1717 [Pneumoni],DIS,null,DIS,null
+SpanPosition,CovidQ,chart3.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,14-31 [Extremitetssmärta],SYM,null,SYM,null
+SpanPosition,CovidQ,chart3.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,71-81 [colontumör],DIS,null,DIS,null
+SpanPosition,CovidQ,chart3.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,98-103 [ileus],SYM,null,DIS,null
+SpanPosition,CovidQ,chart3.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,121-131 [Depression],DIS,null,DIS,null
+SpanPosition,CovidQ,chart3.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,265-271 [artros],DIS,null,DIS,null
+SpanPosition,CovidQ,chart3.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,387-394 [Smärtor],SYM,null,SYM,null
+SpanPosition,CovidQ,chart3.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,447-451 [Inte],NEG,null,NEG,null
+SpanPosition,CovidQ,chart3.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,466-474 [svullnad],SYM,null,FND,null
+SpanPosition,CovidQ,chart3.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,481-487 [rodnad],SYM,null,FND,null
+SpanPosition,CovidQ,chart3.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,489-494 [Ingen],NEG,null,NEG,null
+SpanPosition,CovidQ,chart3.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,495-501 [dyspné],SYM,null,SYM,null
+SpanPosition,CovidQ,chart3.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,519-525 [trauma],null,null,FND,null
+SpanPosition,CovidQ,chart3.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,546-550 [Inga],NEG,null,NEG,null
+SpanPosition,CovidQ,chart3.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,551-567 [luftvägssymptome],SYM,null,SYM,null
+SpanPosition,CovidQ,chart3.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,573-578 [feber],SYM,null,FND,null
+SpanPosition,CovidQ,chart3.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,604-613 [smärtorna],SYM,null,SYM,null
+SpanPosition,CovidQ,chart3.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,713-717 [inga],NEG,null,NEG,null
+SpanPosition,CovidQ,chart3.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,718-726 [blåsljud],FND,null,FND,null
+SpanPosition,CovidQ,chart3.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,852-856 [inga],NEG,null,NEG,null
+SpanPosition,CovidQ,chart3.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,857-868 [pittingödem],FND,null,FND,null
+SpanPosition,CovidQ,chart3.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,875-892 [kompressionsömhet],FND,null,FND,null
+SpanPosition,CovidQ,chart3.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,983-987 [Inga],NEG,null,NEG,null
+SpanPosition,CovidQ,chart3.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,988-994 [erytem],FND,null,FND,null
+SpanPosition,CovidQ,chart3.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,996-1001 [Ingen],NEG,null,NEG,null
+SpanPosition,CovidQ,chart3.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,1002-1008 [smärta],FND,null,SYM,null
+SpanPosition,CovidQ,chart3.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,1109-1112 [DVT],FND,null,DIS,null
+SpanPosition,CovidQ,chart3.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,1258-1264 [smärta],FND,null,SYM,null
+SpanPosition,CovidQ,chart4.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,14-26 [Intoxikation],SYM,null,DIS,null
+SpanPosition,CovidQ,chart4.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,59-63 [inga],NEG,null,NEG,null
+SpanPosition,CovidQ,chart4.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,229-237 [agiterat],FND,null,null,null
+SpanPosition,CovidQ,chart4.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,239-241 [Ej],NEG,null,NEG,null
+SpanPosition,CovidQ,chart4.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,290-296 [kräkts],SYM,null,FND,null
+SpanPosition,CovidQ,chart4.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,312-326 [svårkontaktbar],SYM,null,FND,null
+SpanPosition,CovidQ,chart4.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,393-397 [inte],NEG,null,NEG,null
+SpanPosition,CovidQ,chart4.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,458-477 [somnar snabbt undan],null,null,FND,null
+SpanPosition,CovidQ,chart4.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,556-564 [takykard],FND,null,FND,null
+SpanPosition,CovidQ,chart4.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,570-586 [Diskret blåsljud],null,null,FND,null
+SpanPosition,CovidQ,chart4.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,578-586 [blåsljud],FND,null,null,null
+SpanPosition,CovidQ,chart4.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,676-681 [Inget],NEG,null,NEG,null
+SpanPosition,CovidQ,chart4.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,682-691 [peritonit],FND,null,FND,null
+SpanPosition,CovidQ,chart4.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,693-698 [ingen],NEG,null,NEG,null
+SpanPosition,CovidQ,chart4.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,699-714 [förstorad lever],FND,null,FND,null
+SpanPosition,CovidQ,chart4.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,797-814 [gränslång QTc-tid],FND,null,FND,null
+SpanPosition,CovidQ,chart4.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,843-856 [Förlångsammad],FND,null,FND,null
+SpanPosition,CovidQ,chart4.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,858-863 [RLS 2],FND,null,FND,null
+SpanPosition,CovidQ,chart4.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,946-948 [ej],NEG,null,NEG,null
+SpanPosition,CovidQ,chart4.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,1001-1005 [Inga],NEG,null,NEG,null
+SpanPosition,CovidQ,chart4.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,1013-1031 [psykotiska symptom],FND,null,SYM,null
+SpanPosition,CovidQ,chart4.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,1037-1039 [ej],NEG,null,NEG,null
+SpanPosition,CovidQ,chart4.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,1088-1093 [RLS 2],FND,null,FND,null
+SpanPosition,CovidQ,chart4.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,1095-1108 [förlångsammad],FND,null,FND,null
+SpanPosition,CovidQ,chart4.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,1161-1166 [Ingen],NEG,null,NEG,null
+SpanPosition,CovidQ,chart4.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,1167-1173 [tremor],FND,null,FND,null
+SpanPosition,CovidQ,chart4.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,1228-1233 [ingen],NEG,null,NEG,null
+SpanPosition,CovidQ,chart4.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,1234-1243 [nystagmus],FND,null,FND,null
+SpanPosition,CovidQ,chart4.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,1245-1250 [Ingen],NEG,null,NEG,null
+SpanPosition,CovidQ,chart4.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,1251-1271 [kranialnervspåverkan],FND,null,FND,null
+SpanPosition,CovidQ,chart4.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,1299-1303 [utan],NEG,null,NEG,null
+SpanPosition,CovidQ,chart4.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,1341-1357 [positiv babinski],null,null,FND,null
+SpanPosition,CovidQ,chart4.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,1349-1357 [babinski],FND,null,null,null
+SpanPosition,CovidQ,chart4.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,1400-1406 [acidos],FND,null,FND,null
+SpanPosition,CovidQ,chart4.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,1417-1421 [utan],NEG,null,FND,null
+SpanPosition,CovidQ,chart4.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,1451-1463 [intoxikation],FND,null,DIS,null
+SpanPosition,CovidQ,chart4.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,1465-1467 [ej],NEG,null,NEG,null
+SpanPosition,CovidQ,chart4.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,1589-1599 [depression],FND,null,DIS,null
+SpanPosition,CovidQ,chart4.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,1673-1695 [antikollinergt syndrom],FND,null,DIS,null
+SpanPosition,CovidQ,chart4.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,1706-1713 [resurin],FND,null,null,null
+SpanPosition,CovidQ,chart4.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,1799-1803 [inte],NEG,null,NEG,null
+SpanPosition,CovidQ,chart4.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,1843-1857 [QTc förlänging],FND,null,FND,null
+SpanPosition,CovidQ,chart4.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,1859-1873 [förlångsamning],FND,null,FND,null
+SpanPosition,CovidQ,chart4.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,1902-1915 [lergiganintox],null,null,DIS,null
+SpanPosition,CovidQ,chart4.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,2055-2064 [agitering],FND,null,SYM,null
+SpanPosition,CovidQ,chart4.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,2082-2090 [delirium],FND,null,null,null
+SpanPosition,CovidQ,chart5.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,24-39 [handledsfraktur],DIS,null,DIS,null
+SpanPosition,CovidQ,chart5.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,80-84 [inga],NEG,null,NEG,null
+SpanPosition,CovidQ,chart5.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,196-202 [smärta],SYM,null,SYM,null
+SpanPosition,CovidQ,chart5.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,208-210 [Ej],NEG,null,NEG,null
+SpanPosition,CovidQ,chart5.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,234-241 [smärtor],SYM,null,SYM,null
+SpanPosition,CovidQ,chart5.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,350-352 [Ej],NEG,null,NEG,null
+SpanPosition,CovidQ,chart5.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,381-388 [smärtor],SYM,null,SYM,null
+SpanPosition,CovidQ,chart5.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,495-502 [svullen],FND,null,FND,null
+SpanPosition,CovidQ,chart5.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,507-514 [hematom],FND,null,FND,null
+SpanPosition,CovidQ,chart5.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,594-600 [smärta],FND,null,SYM,null
+SpanPosition,CovidQ,chart5.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,624-629 [Ingen],NEG,null,NEG,null
+SpanPosition,CovidQ,chart5.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,630-636 [smärta],FND,null,SYM,null
+SpanPosition,CovidQ,chart5.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,702-706 [Inga],NEG,null,NEG,null
+SpanPosition,CovidQ,chart5.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,707-716 [sårskador],FND,null,FND,null
+SpanPosition,CovidQ,chart5.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,748-761 [radiusfraktur],FND,null,FND,null
+SpanPosition,CovidQ,chart5.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,793-804 [disolocerad],FND,null,FND,null
+SpanPosition,CovidQ,chart5.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,817-837 [Distal radiusfraktur],null,null,DIS,null
+SpanPosition,CovidQ,chart5.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,824-837 [radiusfraktur],FND,null,null,null
+SpanPosition,CovidQ,chart5.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,839-857 [minimaldislokation],FND,null,DIS,null
+SpanPosition,CovidQ,pat1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,14-32 [Opioidintoxikation],SYM,null,DIS,null
+SpanPosition,CovidQ,pat1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,54-67 [Blandberoende],DIS,null,DIS,null
+SpanPosition,CovidQ,pat1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,196-203 [överdos],SYM,null,DIS,null
+SpanPosition,CovidQ,pat1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,450-454 [kall],SYM,null,FND,null
+SpanPosition,CovidQ,pat1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,459-474 [medvetandesänkt],SYM,null,FND,null
+SpanPosition,CovidQ,pat1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,496-512 [Långsam andning.],SYM,null,FND,null
+SpanPosition,CovidQ,pat1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,574-591 [rosslande andning],null,null,FND,null
+SpanPosition,CovidQ,pat1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,574-583 [rosslande],FND,null,null,null
+SpanPosition,CovidQ,pat1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,596-600 [utan],NEG,null,NEG,null
+SpanPosition,CovidQ,pat1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,601-616 [luftvägshinder.],FND,null,FND,null
+SpanPosition,CovidQ,pat1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,"662-672 [cyanotisk,]",null,null,FND,null
+SpanPosition,CovidQ,pat1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,679-683 [inga],NEG,null,NEG,null
+SpanPosition,CovidQ,pat1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,690-700 [avvikelser],FND,null,null,null
+SpanPosition,CovidQ,pat1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,792-796 [utan],NEG,null,NEG,null
+SpanPosition,CovidQ,pat1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,797-806 [blåsljud.],FND,null,FND,null
+SpanPosition,CovidQ,pat1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,"837-843 [RLS 8,]",FND,null,FND,null
+SpanPosition,CovidQ,pat1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,844-856 [små pupiller],FND,null,FND,null
+SpanPosition,CovidQ,pat1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,882-892 [stickmärke],null,null,FND,null
+SpanPosition,CovidQ,pat1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,918-931 [ärrbildningar],FND,null,FND,null
+SpanPosition,CovidQ,pat1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,989-993 [Inga],NEG,null,NEG,null
+SpanPosition,CovidQ,pat1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,994-1007 [yttre trauman],null,null,FND,null
+SpanPosition,CovidQ,pat1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,1000-1007 [trauman],FND,null,null,null
+SpanPosition,CovidQ,pat1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,1061-1076 [Sinusbradykardi],FND,null,FND,null
+SpanPosition,CovidQ,pat1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,1077-1081 [utan],NEG,null,NEG,null
+SpanPosition,CovidQ,pat1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,1082-1095 [ST-höjningar.],FND,null,FND,null
+SpanPosition,CovidQ,pat1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,"1110-1124 [Opioidöverdos,]",FND,null,DIS,null
+SpanPosition,CovidQ,pat1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,1129-1131 [ej],NEG,null,FND,null
+SpanPosition,CovidQ,pat1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,1343-1349 [RLS 3.],FND,null,FND,null
+SpanPosition,CovidQ,pat1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,1432-1452 [sänkt spontanandning],null,null,FND,null
+SpanPosition,CovidQ,pat1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,1459-1477 [medvetandesänkning],FND,null,FND,null
+SpanPosition,CovidQ,pat1.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,1580-1592 [intoxikation],FND,null,DIS,null
+SpanPosition,CovidQ,pat2.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,14-19 [Yrsel],SYM,null,SYM,null
+SpanPosition,CovidQ,pat2.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,157-162 [yrsel],SYM,null,SYM,null
+SpanPosition,CovidQ,pat2.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,190-195 [inget],NEG,null,NEG,null
+SpanPosition,CovidQ,pat2.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,281-285 [inte],null,null,NEG,null
+SpanPosition,CovidQ,pat2.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,374-381 [stroke.],SYM,null,DIS,null
+SpanPosition,CovidQ,pat2.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,418-422 [utan],NEG,null,NEG,null
+SpanPosition,CovidQ,pat2.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,"423-432 [blåsljud,]",FND,null,FND,null
+SpanPosition,CovidQ,pat2.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,"526-532 [RLS 1,]",null,null,FND,null
+SpanPosition,CovidQ,pat2.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,717-725 [ua.Ingen],NEG,null,null,null
+SpanPosition,CovidQ,pat2.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,726-735 [nystagmus],FND,null,FND,null
+SpanPosition,CovidQ,pat2.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,973-978 [Yrsel],FND,null,SYM,null
+SpanPosition,CovidQ,pat2.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,979-983 [utan],NEG,null,NEG,null
+SpanPosition,CovidQ,pat2.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,1106-1115 [ingenting],null,null,NEG,null
+SpanPosition,CovidQ,pat2.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,1175-1180 [Yrsel],FND,null,SYM,null
+SpanPosition,CovidQ,pat3.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,14-21 [Svullen],SYM,null,FND,null
+SpanPosition,CovidQ,pat3.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,166-172 [smärta],SYM,null,SYM,null
+SpanPosition,CovidQ,pat3.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,177-185 [svullnad],SYM,null,SYM,null
+SpanPosition,CovidQ,pat3.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,240-247 [smärtan],SYM,null,SYM,null
+SpanPosition,CovidQ,pat3.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,439-452 [smärtpåverkad],FND,null,FND,null
+SpanPosition,CovidQ,pat3.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,510-514 [utan],NEG,null,NEG,null
+SpanPosition,CovidQ,pat3.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,515-524 [blåsljud.],FND,null,FND,null
+SpanPosition,CovidQ,pat3.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,628-636 [svullnad],FND,null,FND,null
+SpanPosition,CovidQ,pat3.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,641-647 [rodnad],FND,null,FND,null
+SpanPosition,CovidQ,pat3.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,682-694 [Palpationsöm],FND,null,FND,null
+SpanPosition,CovidQ,pat3.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,725-749 [inskränkt rörelseomfång.],null,null,FND,null
+SpanPosition,CovidQ,pat3.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,725-734 [inskränkt],FND,null,null,null
+SpanPosition,CovidQ,pat3.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,959-963 [Gikt],FND,null,DIS,null
+SpanPosition,CovidQ,pat3.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,1054-1067 [svullnaderna.],FND,null,null,null
+SpanPosition,CovidQ,pat3.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,"1144-1149 [Gikt,]",FND,null,DIS,null
+SpanPosition,CovidQ,pat4.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,14-20 [Andnöd],SYM,null,SYM,null
+SpanPosition,CovidQ,pat4.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,119-132 [täppt i näsan],null,null,SYM,null
+SpanPosition,CovidQ,pat4.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,119-124 [täppt],SYM,null,null,null
+SpanPosition,CovidQ,pat4.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,137-142 [snuva],SYM,null,SYM,null
+SpanPosition,CovidQ,pat4.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,213-219 [andnöd],SYM,null,SYM,null
+SpanPosition,CovidQ,pat4.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,229-235 [feber.],SYM,null,FND,null
+SpanPosition,CovidQ,pat4.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,236-242 [Smärta],SYM,null,SYM,null
+SpanPosition,CovidQ,pat4.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,258-268 [Sängbunden],null,null,SYM,null
+SpanPosition,CovidQ,pat4.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,272-282 [andfåddhet],SYM,null,SYM,null
+SpanPosition,CovidQ,pat4.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,316-323 [Andfådd],FND,null,FND,null
+SpanPosition,CovidQ,pat4.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,"328-334 [tagen,]",FND,null,null,null
+SpanPosition,CovidQ,pat4.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,335-337 [ej],NEG,null,NEG,null
+SpanPosition,CovidQ,pat4.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,338-347 [cyanotisk],FND,null,FND,null
+SpanPosition,CovidQ,pat4.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,356-364 [Takykard],FND,null,FND,null
+SpanPosition,CovidQ,pat4.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,369-373 [utan],NEG,null,NEG,null
+SpanPosition,CovidQ,pat4.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,382-391 [blåsljud.],FND,null,FND,null
+SpanPosition,CovidQ,pat4.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,462-475 [krepitationer],FND,null,FND,null
+SpanPosition,CovidQ,pat4.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,642-650 [Takykard],FND,null,FND,null
+SpanPosition,CovidQ,pat4.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,713-722 [infiltrat],FND,null,null,null
+SpanPosition,CovidQ,pat4.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,757-770 [pleruavätska.],FND,null,FND,null
+SpanPosition,CovidQ,pat4.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,"791-800 [Pneumoni,]",FND,null,DIS,null
+SpanPosition,CovidQ,pat4.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,1079-1087 [Pneumoni],FND,null,DIS,null
+SpanPosition,CovidQ,pat5.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,14-20 [Dyspne],SYM,null,SYM,null
+SpanPosition,CovidQ,pat5.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,"59-63 [DB2,]",DIS,null,DIS,null
+SpanPosition,CovidQ,pat5.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,"64-74 [Hypertoni,]",DIS,null,DIS,null
+SpanPosition,CovidQ,pat5.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,"75-84 [Obesitas,]",DIS,null,DIS,null
+SpanPosition,CovidQ,pat5.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,196-202 [andnöd],SYM,null,SYM,null
+SpanPosition,CovidQ,pat5.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,207-219 [bröstsmärta.],SYM,null,SYM,null
+SpanPosition,CovidQ,pat5.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,317-321 [inte],NEG,null,NEG,null
+SpanPosition,CovidQ,pat5.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,333-337 [Inte],NEG,null,NEG,null
+SpanPosition,CovidQ,pat5.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,377-382 [inte.],NEG,null,NEG,null
+SpanPosition,CovidQ,pat5.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,383-388 [Ingen],NEG,null,NEG,null
+SpanPosition,CovidQ,pat5.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,"475-486 [Takypnoisk,]",FND,null,FND,null
+SpanPosition,CovidQ,pat5.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,607-612 [inget],NEG,null,NEG,null
+SpanPosition,CovidQ,pat5.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,621-627 [trauma],FND,null,FND,null
+SpanPosition,CovidQ,pat5.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,736-744 [Takykard],FND,null,FND,null
+SpanPosition,CovidQ,pat5.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,775-779 [utan],null,null,NEG,null
+SpanPosition,CovidQ,pat5.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,780-789 [blåsljud.],FND,null,FND,null
+SpanPosition,CovidQ,pat5.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,834-842 [takykard],FND,null,FND,null
+SpanPosition,CovidQ,pat5.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,854-858 [inga],NEG,null,NEG,null
+SpanPosition,CovidQ,pat5.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,859-875 [ST förändringar.],FND,null,FND,null
+SpanPosition,CovidQ,pat5.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,876-896 [T-vågsnegativisering],FND,null,FND,null
+SpanPosition,CovidQ,pat5.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,971-977 [RLS 2.],FND,null,FND,null
+SpanPosition,CovidQ,pat5.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,1069-1073 [Inga],NEG,null,NEG,null
+SpanPosition,CovidQ,pat5.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,1082-1088 [skador],FND,null,null,null
+SpanPosition,CovidQ,pat5.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,1227-1237 [Lungemboli],FND,null,DIS,null
+SpanPosition,CovidQ,pat5.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,1270-1280 [Lungemboli],FND,null,DIS,null
+SpanPosition,CovidQ,pat5.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,1293-1309 [andningspåverkan],FND,null,FND,null
+SpanPosition,CovidQ,pat5.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,1314-1336 [hemodynamisk påverkan.],FND,null,FND,null
+SpanPosition,CovidQ,pat5.txt,de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity,value,1486-1496 [Lungemboli],FND,null,DIS,null
