@@ -1,6 +1,7 @@
 import spacy
 import pipeline as spl
 from dataMangager.make_neg import make_neg
+from dataMangager.make_icd import make_icd
 from dataMangager.make_patterns import make_patterns
 from typing import Any
 
@@ -38,7 +39,13 @@ def main() -> spacy.language:
     )
 
     # First we make the patterns
-    patterns = make_patterns(phrases=make_neg(), label="NEG")
+    neg_patterns = make_patterns(phrases=make_neg(), label="NEG")
+
+    icd_lower = [s.lower() for s in make_icd()]
+
+    icd_patterns = make_patterns(phrases=icd_lower, label="SYM")
+
+    patterns = neg_patterns + icd_patterns
 
     # ruler.phrase_matcher = matcher # Changes the phrsematcher
     # ToDO implement test to see that there are no residual patterns
