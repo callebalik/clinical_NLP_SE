@@ -10,6 +10,8 @@ from pathlib import Path
 from tabulate import tabulate
 import pandas as pd
 import shutil
+import re as re
+import os
 
 file_path = Path(__file__).resolve()
 
@@ -25,11 +27,31 @@ def move_conll_files(glob):
         if file.name == "admin.conll":
             continue
         else:
-            new_name = f"{file.parent.stem}_{file.name}"
+            record = file.parent.stem
+            a = re.search(r"(\d)", record)
+            print(a.group())
+            doc_nr = (
+                re.search(r"(\d)", file.parent.stem).group()
+                if re.search(r"(chart)", file.parent.stem)
+                else (int(re.search(r"(\d)", file.parent.stem).group()) + 5)
+            )
+
+            if re.search(r"annotator1", file.name):
+                annotator = "a1"
+            elif re.search(r"Annotator", file.name):
+                annotator = "a2"
+            elif re.search(r"CURATION", file.name):
+                annotator = "cur"
+            else:
+                raise ValueError
+
+            new_name = f"{annotator}/{doc_nr}.conll"
+
             # new_name = name.__add__(".conll")
-            new_path = file.parent.parent / new_name
+            new_path = f"{DATA_PATH / f'interim/corpus/' / new_name}"
             all_files.append((file.name, file.parent, new_name, new_path))
-            to_file = DATA_PATH / "interim/corpus/" / new_name
+            to_file = DATA_PATH / f"interim/corpus/" / new_name
+            os.makedirs(os.path.dirname(to_file), exist_ok=True)
             shutil.copy2(file, str(to_file))
     columns = ["File_Name", "Parent", "new_name", "copied to"]
     df = pd.DataFrame.from_records(all_files, columns=columns)
@@ -43,4 +65,4 @@ move_conll_files(ANNOTATION_PATH.glob("*/*.conll"))
 move_conll_files(CURATION_PATH.glob("*/*.conll"))
 
 
-def rename_inception_files():
+# def rename_inception_files():
