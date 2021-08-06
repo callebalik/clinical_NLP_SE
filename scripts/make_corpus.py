@@ -10,18 +10,17 @@ file_path = Path(__file__).resolve()
 ROOT = file_path.parent.parent
 print(ROOT)
 DATA_PATH = ROOT / "data"
-NEG_PATH = DATA_PATH / "raw/negations"
 
-corpus_name = "conll2003_NE_built_in_layer"
+corpus_name = "cur"
 
-RAW_CORPUS_PATH = DATA_PATH / f"raw/corpus/{corpus_name}"
+INTERIM_CORPUS_PATH = DATA_PATH / f"interim/corpus/{corpus_name}"
 OUTPUT_CORPUS_PATH = DATA_PATH / f"processed/corpus/{corpus_name}"
 
 # convert the annotated corpus to spacy example format
 # use 100 sentences before splitting a file into a new doc
 # /home/callebalik/clinical_NLP_SE/data/processed/corpus/conll2003_NE_built_in_layer
 # /home/callebalik/clinical_NLP_SE/scripts/data/processed/corpus/conll2003_NE_built_in_layer/
-def convert_raw_to_spacy():
+def convert_to_spacy():
 
     # cmd = "
     #     "python",
@@ -35,7 +34,7 @@ def convert_raw_to_spacy():
     #     "--n-sents",
     #     "100",
     # "
-    cmd = f"python -m spacy convert {RAW_CORPUS_PATH}/ {OUTPUT_CORPUS_PATH}/ --converter conll --n-sents 100"
+    cmd = f"python -m spacy convert {INTERIM_CORPUS_PATH}/ {OUTPUT_CORPUS_PATH}/ --converter conll --n-sents 100"
     print(cmd)
     output = subprocess.call(f"{cmd}", shell=True)
     print(output)

@@ -7,9 +7,8 @@ file_path = Path(__file__).resolve()
 ROOT = file_path.parent.parent
 DATA_PATH = ROOT / "data"
 
-corpus_name = "conll2003_NE_built_in_layer"
-RAW_CORPUS_PATH = DATA_PATH / f"raw/corpus/{corpus_name}"
-OUTPUT_CORPUS_PATH = DATA_PATH / f"processed/corpus/{corpus_name}"
+corpus_name = "cur"
+CORPUS_PATH_SPACY = DATA_PATH / f"processed/corpus/{corpus_name}"
 
 
 def save_model(nlp, model_name: str):
@@ -31,7 +30,7 @@ def evaluate_model(model_name: str):
     cmd = (
         f"python -m spacy evaluate"
         + " "
-        + f"{MODEL_PATH} {OUTPUT_CORPUS_PATH}"
+        + f"{MODEL_PATH} {CORPUS_PATH_SPACY}"
         + " "
         + output
         + " "
