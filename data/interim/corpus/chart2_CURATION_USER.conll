@@ -7,12 +7,12 @@ Tidigare _ O O
 sjukdomar _ O O
 : _ O O
 Waranbehandlat _ O O
-FF _ O O
+FF _ O I-DIS
 , _ O O
-hyperlipidemi _ O O
+hyperlipidemi _ O B-DIS
 . _ O O
 
-BC _ O O
+BC _ O B-DIS
 vä _ O O
 99 _ O O
 , _ O O
@@ -27,13 +27,13 @@ Inga _ O I-NEG
 recidiv _ O O
 . _ O O
 
-NSTEMI _ O O
+NSTEMI _ O I-DIS
 2009 _ O O
 . _ O O
 
-Stroke _ O O
+Stroke _ O B-DIS
 2012 _ O O
-utan _ O B-NEG
+utan _ O I-NEG
 större _ O O
 sequele _ O O
 . _ O O
@@ -153,8 +153,8 @@ perifert _ O I-FND
 . _ O O
 
 Marmorerad _ O B-FND
-över _ O I-FND
-knän _ O I-FND
+över _ O O
+knän _ O O
 . _ O O
 
 BT _ O O
@@ -166,13 +166,13 @@ p _ O O
 119 _ O O
 . _ O O
 
-Oregelbunden _ O O
+Oregelbunden _ O B-FND
 . _ O O
 
 I _ O O
 telemetri _ O O
-smala _ O O
-komplex _ O O
+smala _ O B-FND
+komplex _ O I-FND
 . _ O O
 
 Erhåller _ O O
@@ -224,7 +224,7 @@ vänster _ O O
 höft _ O O
 , _ O O
 ingen _ O I-NEG
-utåtrotation _ O O
+utåtrotation _ O I-FND
 . _ O O
 
 Hel _ O O
@@ -238,8 +238,8 @@ Lab _ O O
 Blodgas _ O O
 med _ O O
 akut _ O O
-respriatorisk _ O I-DIS
-acidos _ O I-DIS
+respriatorisk _ O O
+acidos _ O B-FND
 utan _ O I-NEG
 kompensation _ O O
 , _ O O
@@ -249,19 +249,19 @@ laktat _ O O
 
 EKG _ O O
 : _ O O
-Förmaksflimmer _ O O
+Förmaksflimmer _ O I-FND
 kammarfrekvens _ O O
 123 _ O O
 . _ O O
 
 Bedömning _ O O
 : _ O O
-Sepsis _ O I-FND
+Sepsis _ O I-DIS
 med _ O O
 oklart _ O O
 fokus _ O O
 samt _ O O
-fall _ O B-FND
+fall _ O O
 med _ O O
 oklar _ O O
 traumamekanism _ O O
@@ -271,12 +271,12 @@ Inga _ O I-NEG
 tecken _ O O
 till _ O O
 blödning _ O I-FND
-i _ O I-FND
-buken _ O I-FND
+i _ O O
+buken _ O O
 eller _ O O
 andra _ O O
-svåra _ O B-FND
-traumatiska _ O I-FND
+svåra _ O O
+traumatiska _ O B-FND
 skador _ O I-FND
 dock _ O O
 oaktat _ O O

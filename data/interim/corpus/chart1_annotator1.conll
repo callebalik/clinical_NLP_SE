@@ -11,7 +11,7 @@ DM2 _ O I-DIS
 . _ O O
 
 Tablettbehandlad _ O O
-hypertoni _ O I-FND
+hypertoni _ O B-DIS
 . _ O O
 
 Höga _ O O
@@ -42,7 +42,7 @@ gång _ O O
 
 Tillkomst _ O O
 av _ O O
-hosta _ O B-SYM
+hosta _ O O
 under _ O O
 gårdagen _ O O
 . _ O O
@@ -86,10 +86,10 @@ destruering _ O O
 Inte _ O B-NEG
 haft _ O O
 några _ O O
-utslag _ O O
+utslag _ O I-FND
 . _ O O
 
-Ej _ O B-NEG
+Ej _ O I-NEG
 kontakt _ O O
 med _ O O
 någon _ O O
@@ -134,10 +134,10 @@ remiss _ O O
 . _ O O
 
 Inga _ O B-NEG
-kräkningar _ O O
+kräkningar _ O I-SYM
 eller _ O O
-GI _ O O
-symptom _ O O
+GI _ O B-SYM
+symptom _ O I-SYM
 . _ O O
 
 Status _ O O
@@ -150,7 +150,7 @@ opåverkad _ O O
 i _ O O
 vila _ O O
 , _ O O
-ingen _ O B-NEG
+ingen _ O I-NEG
 samtalsdyspné _ O I-FND
 . _ O O
 
@@ -161,7 +161,7 @@ regelbunden _ O O
 rytm _ O O
 , _ O O
 inga _ O I-NEG
-hörbara _ O O
+hörbara _ O I-FND
 bi _ O I-FND
 eller _ O I-FND
 blåsljud _ O I-FND
@@ -171,12 +171,12 @@ Pulm _ O O
 : _ O O
 I _ O O
 stort _ O O
-vesikulära _ O B-FND
-antingsljud _ O I-FND
-bilat _ O I-FND
+vesikulära _ O O
+antingsljud _ O O
+bilat _ O O
 , _ O O
-dämpat _ O O
-basalt _ O O
+dämpat _ O B-FND
+basalt _ O I-FND
 höger _ O O
 . _ O O
 
@@ -194,7 +194,7 @@ oöm _ O O
 . _ O O
 
 Ingen _ O I-NEG
-lokal _ O I-FND
+lokal _ O O
 peritonit _ O I-FND
 . _ O O
 
@@ -229,9 +229,9 @@ Temp _ O O
 Lab _ O O
 : _ O O
 Blodgas _ O O
-utan _ O I-NEG
-respiratorisk _ O I-FND
-acidos _ O I-FND
+utan _ O B-FND
+respiratorisk _ O I-DIS
+acidos _ O I-DIS
 , _ O O
 Ph _ O O
 7,4 _ O O
@@ -259,8 +259,8 @@ kammarfrekvens _ O O
 , _ O O
 inga _ O B-NEG
 urakuta _ O O
-ischemiska _ O O
-tecken _ O O
+ischemiska _ O I-FND
+tecken _ O I-FND
 . _ O O
 
 Bedömning _ O O
@@ -270,11 +270,11 @@ första _ O O
 hand _ O O
 misstanke _ O O
 om _ O O
-penumoni _ O O
+penumoni _ O I-DIS
 eller _ O O
-COVID _ O O
-- _ O O
-19 _ O O
+COVID _ O B-DIS
+- _ O I-DIS
+19 _ O I-DIS
 , _ O O
 inlägges _ O O
 infektionsavdelning _ O O
@@ -310,12 +310,12 @@ Syrgaskrävande _ O I-FND
 . _ O O
 
 Ej _ O I-NEG
-septisk _ O I-DIS
+septisk _ O I-FND
 . _ O O
 
 Diagnos _ O O
 : _ O O
-Pneumoni _ O B-DIS
+Pneumoni _ O I-DIS
 , _ O O
 ospecificerad _ O O
 

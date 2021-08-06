@@ -1,0 +1,214 @@
+Kontaktorsak _ O O
+: _ O O
+Misstänkt _ O O
+handledsfraktur _ O I-DIS
+Tidigare _ O O
+sjukdomar _ O O
+: _ O O
+Tidigare _ O O
+frisk _ O O
+, _ O O
+tar _ O O
+inga _ O I-NEG
+mediciner _ O O
+. _ O O
+
+Aktuellt _ O O
+: _ O O
+Igår _ O O
+kväll _ O O
+fallit _ O O
+från _ O O
+en _ O O
+Lime-scooter _ O O
+påvägen _ O O
+hem _ O O
+. _ O O
+
+Tagit _ O O
+emot _ O O
+sig _ O O
+med _ O O
+höger _ O O
+hand _ O O
+, _ O O
+genast _ O O
+smärta _ O I-SYM
+här _ O O
+. _ O O
+
+Ej _ O I-NEG
+slagit _ O O
+i _ O O
+huvudet _ O O
+, _ O O
+lite _ O O
+smärtor _ O I-SYM
+ifrån _ O O
+höger _ O O
+höft _ O O
+, _ O O
+men _ O O
+i _ O O
+övrigt _ O O
+klarat _ O O
+sig _ O O
+väl _ O O
+. _ O O
+
+Stått _ O O
+iprinicp _ O O
+stilla _ O O
+vid _ O O
+övergångstället _ O O
+när _ O O
+fallet _ O O
+skedde _ O O
+. _ O O
+
+Ej _ O I-NEG
+druckit _ O O
+alkohol _ O O
+. _ O O
+
+Tilltgande _ O O
+smärtor _ O I-SYM
+i _ O O
+handen _ O O
+under _ O O
+natten _ O O
+och _ O O
+söker _ O O
+sig _ O O
+till _ O O
+akuten _ O O
+. _ O O
+
+AT _ O O
+: _ O O
+Gott _ O O
+, _ O O
+opåverkat _ O O
+. _ O O
+
+Lokalstatus _ O O
+: _ O O
+Höger _ O O
+hand _ O O
+, _ O O
+ordentligt _ O O
+svullen _ O I-FND
+med _ O O
+hematom _ O B-FND
+över _ O O
+distala _ O O
+radius _ O O
+. _ O O
+
+Flextion _ O O
+och _ O O
+extention _ O O
+i _ O O
+handled _ O O
+möjligt _ O O
+men _ O O
+begränsas _ O O
+av _ O O
+smärta _ O I-SYM
+. _ O O
+
+Normalt _ O O
+distalstatus _ O O
+. _ O O
+
+Ingen _ O I-NEG
+smärta _ O I-SYM
+vid _ O O
+palpation _ O O
+över _ O O
+armbåge _ O O
+eller _ O O
+proximala _ O O
+delar _ O O
+av _ O O
+ulna _ O O
+/ _ O O
+radius _ O O
+. _ O O
+
+Inga _ O I-NEG
+sårskador _ O I-FND
+. _ O O
+
+Röntgen _ O O
+: _ O O
+Röntgen _ O O
+visar _ O O
+distal _ O O
+radiusfraktur _ O B-FND
+med _ O O
+acceptabelt _ O O
+läge _ O O
+, _ O O
+minimalt _ O O
+disolocerad _ O B-FND
+. _ O O
+
+Bedömning _ O O
+: _ O O
+Distal _ O I-DIS
+radiusfraktur _ O I-DIS
+, _ O O
+minimaldislokation _ O B-DIS
+. _ O O
+
+Tidigare _ O O
+frisk _ O O
+. _ O O
+
+Erhåller _ O O
+radiusskena _ O O
+, _ O O
+gipsinformation _ O O
+och _ O O
+information _ O O
+om _ O O
+övningar _ O O
+. _ O O
+
+Avgipsning _ O O
+via _ O O
+sjukgymnast _ O O
+på _ O O
+VC _ O O
+om _ O O
+3 _ O O
+veckor _ O O
+, _ O O
+remiss _ O O
+skickas _ O O
+. _ O O
+
+Arbetar _ O O
+i _ O O
+resturang _ O O
+, _ O O
+sjukskrives _ O O
+4 _ O O
+veckor _ O O
+. _ O O
+
+Smärtlindring _ O O
+med _ O O
+alvedon _ O O
+. _ O O
+
+Åter _ O O
+efter _ O O
+behov _ O O
+. _ O O
+
+Diagnos _ O O
+: _ O O
+S54.5 _ O O
+

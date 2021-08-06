@@ -48,11 +48,11 @@ I _ O O
 samband _ O O
 med _ O O
 omhändertagandet _ O O
-kräkts _ O I-SYM
+kräkts _ O I-FND
 och _ O O
 blivit _ O O
 mer _ O O
-svårkontaktbar _ O I-FND
+svårkontaktbar _ O B-FND
 varpå _ O O
 man _ O O
 fört _ O O
@@ -101,7 +101,7 @@ Normofrekvent _ O O
 regelbunden _ O O
 rytm _ O O
 , _ O O
-takykard _ O O
+takykard _ O B-FND
 110 _ O O
 . _ O O
 
@@ -156,8 +156,8 @@ med _ O O
 kammarfrekvens _ O O
 117 _ O O
 , _ O O
-gränslång _ O O
-QTc-tid _ O O
+gränslång _ O B-FND
+QTc-tid _ O I-FND
 . _ O O
 
 Psykiskt _ O O
@@ -258,12 +258,12 @@ utan _ O I-NEG
 anmärkning _ O O
 . _ O O
 
-Lättutlösta _ O I-FND
-reflexer _ O I-FND
+Lättutlösta _ O O
+reflexer _ O O
 med _ O O
-positiv _ O B-FND
+positiv _ O I-FND
 babinski _ O I-FND
-bilat _ O I-FND
+bilat _ O O
 . _ O O
 
 Lab _ O O
@@ -271,12 +271,12 @@ Lab _ O O
 Venösblodgas _ O O
 med _ O O
 lätt _ O O
-metabol _ O I-DIS
-acidos _ O I-DIS
+metabol _ O O
+acidos _ O B-FND
 , _ O O
 i _ O O
 övrigt _ O O
-utan _ O I-NEG
+utan _ O B-FND
 anmärkning _ O O
 . _ O O
 
@@ -322,8 +322,8 @@ sedan _ O O
 Kliniskt _ O O
 misstanke _ O O
 om _ O O
-antikollinergt _ O O
-syndrom _ O O
+antikollinergt _ O B-DIS
+syndrom _ O I-DIS
 , _ O O
 har _ O O
 även _ O O
@@ -362,7 +362,7 @@ för _ O O
 måttlig _ O O
 till _ O O
 svår _ O O
-lergiganintox _ O O
+lergiganintox _ O I-DIS
 . _ O O
 
 Diskutrerar _ O O
@@ -382,18 +382,18 @@ på _ O O
 AVA _ O O
 , _ O O
 vid _ O O
-försämring _ O B-FND
-i _ O I-FND
-medvetandegrad _ O I-FND
+försämring _ O O
+i _ O O
+medvetandegrad _ O O
 , _ O O
 tilltagande _ O O
 grad _ O O
 av _ O O
-agitering _ O O
+agitering _ O I-SYM
 eller _ O O
 symptom _ O O
 på _ O O
-delirium _ O B-FND
+delirium _ O I-FND
 kontakt _ O O
 med _ O O
 husjour _ O O
@@ -416,7 +416,7 @@ om _ O O
 det _ O O
 föreligger _ O O
 en _ O O
-blandintoxikation _ O I-DIS
+blandintoxikation _ O O
 . _ O O
 
 Polis _ O O

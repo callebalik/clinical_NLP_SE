@@ -44,7 +44,7 @@ höger _ O O
 halvprotes _ O O
 , _ O O
 pga _ O O
-artros _ O B-DIS
+artros _ O O
 . _ O O
 
 Tidigare _ O O
@@ -73,10 +73,10 @@ utflugna _ O O
 
 Aktuellt _ O O
 : _ O O
-Smärtor _ O I-SYM
-i _ O I-SYM
-vänster _ O I-SYM
-ben _ O I-SYM
+Smärtor _ O O
+i _ O O
+vänster _ O O
+ben _ O O
 från _ O O
 och _ O O
 till _ O O
@@ -86,19 +86,19 @@ dagar _ O O
 tillbaka _ O O
 . _ O O
 
-Inte _ O I-NEG
+Inte _ O O
 noterat _ O O
 någon _ O O
-svullnad _ O I-FND
+svullnad _ O O
 eller _ O O
-rodnad _ O B-FND
+rodnad _ O O
 . _ O O
 
-Ingen _ O I-NEG
-dyspné _ O I-SYM
+Ingen _ O O
+dyspné _ O O
 eller _ O O
 föregående _ O O
-trauma _ O I-FND
+trauma _ O O
 . _ O O
 
 I _ O O
@@ -107,10 +107,10 @@ mått _ O O
 väl _ O O
 . _ O O
 
-Inga _ O I-NEG
-luftvägssymptome _ O I-SYM
+Inga _ O O
+luftvägssymptome _ O O
 ller _ O O
-feber _ O I-FND
+feber _ O O
 . _ O O
 
 Kunnat _ O O
@@ -118,7 +118,7 @@ stödja _ O O
 på _ O O
 benen _ O O
 , _ O O
-smärtorna _ O I-SYM
+smärtorna _ O O
 förvärrats _ O O
 idag _ O O
 och _ O O
@@ -140,8 +140,8 @@ Normf _ O O
 regl _ O O
 rytm _ O O
 , _ O O
-inga _ O I-NEG
-blåsljud _ O I-FND
+inga _ O O
+blåsljud _ O O
 . _ O O
 
 Pulm _ O O
@@ -180,11 +180,11 @@ Lokalstatus _ O O
 Vänster _ O O
 underben _ O O
 , _ O O
-inga _ O I-NEG
-pittingödem _ O I-FND
+inga _ O O
+pittingödem _ O O
 , _ O O
 lätt _ O O
-kompressionsömhet _ O B-FND
+kompressionsömhet _ O O
 över _ O O
 det _ O O
 djupa _ O O
@@ -201,12 +201,12 @@ Fint _ O O
 kärlstatus _ O O
 . _ O O
 
-Inga _ O I-NEG
-erytem _ O I-FND
+Inga _ O O
+erytem _ O O
 . _ O O
 
-Ingen _ O I-NEG
-smärta _ O I-SYM
+Ingen _ O O
+smärta _ O O
 över _ O O
 skeletala _ O O
 delar _ O O
@@ -252,7 +252,7 @@ detta _ O O
 Tolkas _ O O
 som _ O O
 muskuloskeletal _ O O
-smärta _ O B-SYM
+smärta _ O O
 , _ O O
 lugnande _ O O
 besked _ O O
