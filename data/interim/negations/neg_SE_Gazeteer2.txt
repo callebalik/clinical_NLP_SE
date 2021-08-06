@@ -1,0 +1,70 @@
+aldrig,NEG
+avsaknad av,NEG
+brist på,NEG
+bristande,NEG
+dementerar,NEG
+ej,NEG
+fri från,NEG
+frånvaro av,NEG
+förnekar,NEG
+förnekas,NEG
+försumbar,NEG
+har inte,NEG
+icke,NEG
+inga,NEG
+inga tecken,NEG
+ingen,NEG
+ingen förändring,NEG
+ingen tydlig,NEG
+ingen ändring,NEG
+ingenting tyder,NEG
+inget,NEG
+inget avvikande,NEG
+inget som,NEG
+inget tyder,NEG
+inget tydligt,NEG
+inte,NEG
+inte bara,NEG
+inte en gnutta,NEG
+inte fastställd,NEG
+inte fastställt,NEG
+inte har,NEG
+inte kan,NEG
+inte kunna,NEG
+inte kunnat,NEG
+inte nödvändigtvis,NEG
+inte orsaka,NEG
+inte utesluta,NEG
+inte vet,NEG
+inte visar,NEG
+kan inte,NEG
+kan inte uteslutas,NEG
+kunde inte,NEG
+känner sig inte,NEG
+låg sannolikhet för,NEG
+negativt,NEG
+negerad,NEG
+negligerbar,NEG
+nekar till,NEG
+obefintlig,NEG
+obetydlig,NEG
+oförmögen att,NEG
+osannolikt,NEG
+oväsentlig,NEG
+patienten inte,NEG
+saknar,NEG
+saknas,NEG
+tvivelaktig,NEG
+utan,NEG
+utan anmärkning,NEG
+utan antydan till,NEG
+utan några,NEG
+utan skymt av,NEG
+utan spår av,NEG
+utan tecken,NEG
+utan tillstymmelse till,NEG
+utesluta,NEG
+uteslutas,NEG
+uteslutet,NEG
+utläkt,NEG
+vet inte,NEG
