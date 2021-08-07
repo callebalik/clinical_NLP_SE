@@ -29,3 +29,14 @@ def create_total_target_vector(dir_path):
     for path in pathlist:
         target_vector.extend(create_target_vector(conll2003_to_df(path)))
     return target_vector
+
+
+def create_total_target_df(dir_path):
+    pathlist = Path(dir_path).glob("**/*.conll")
+
+    frames = []
+
+    for path in pathlist:
+        frame = conll2003_to_df(path)
+        frames.append(frame)
+    return frames
