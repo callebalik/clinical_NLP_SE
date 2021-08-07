@@ -1,4 +1,5 @@
 from matplotlib import pyplot
+import matplotlib as mpl
 from metrics.confusion_matrix import generate_confusion_matrix
 import numpy
 
@@ -54,5 +55,5 @@ def plot_confusion_matrix(
                 va="center",
                 color="white" if cm[i, j] > thresh else "black",
             )
-    fig.tight_layout()
-    return cm, ax, pyplot
+    # fig.tight_layout()
+    return cm, ax, im, pyplot
