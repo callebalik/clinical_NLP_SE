@@ -1,6 +1,7 @@
 import pandas as pd
 from pandas import DataFrame
 from pathlib import Path
+import re as re
 
 
 def conll2003_to_df(file_path) -> DataFrame:
@@ -35,8 +36,12 @@ def create_total_target_df(dir_path):
     pathlist = Path(dir_path).glob("**/*.conll")
 
     frames = []
+    doc = []
 
     for path in pathlist:
         frame = conll2003_to_df(path)
+        doc.append(re.search(r"(\d)(?=.\w+)", path.name).group())
         frames.append(frame)
-    return frames
+    return pd.concat(
+        frames, keys=doc
+    )  # This creates hierarchical index, e.g. a1.loc["3"] all rows for doc 3

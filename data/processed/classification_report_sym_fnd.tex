@@ -1,9 +1,40 @@
-\begin{tabular}{lrrrr}
-\toprule
-{} &       SYM &       FND &       NEG &         O \\
-\midrule
-precision &  0.641509 &  0.851240 &  0.945946 &  0.982860 \\
-recall    &  0.739130 &  0.691275 &  0.945946 &  0.993073 \\
-f1-score  &  0.686869 &  0.762963 &  0.945946 &  0.987940 \\
-\bottomrule
-\end{tabular}
+\documentclass{article}
+\usepackage[svgnames]{xcolor}
+\usepackage{colortbl}%
+  \newcommand{\myrowcolour}{\rowcolor[gray]{0.925}}
+\usepackage{booktabs,caption}
+\usepackage[flushleft]{threeparttable}
+\begin{document}
+\centering
+\begin{table}
+  \begin{threeparttable}
+    \caption{Classification report for Inter-Annotator Agreement of corpus annotation}
+     \begin{tabular}{l c c c c}
+
+        {} & \multicolumn{4}{c}{\textbf{Entity Classes}\tnote{1}} \\
+        \cmidrule[0.4pt](lr{1.2em}){2-5}%
+
+        {} & {\bfseries \textit{SYM}} & {\bfseries \textit{FND}} & {\bfseries \textit{NEG}} & {\bfseries \textit{O}}\\
+        \midrule
+        \textbf{Precision} &  0.64 &  0.85 &  0.95 &  0.98 \\
+
+        \textbf{Recall}    &  0.74 &  0.70 &  0.95 &  0.99 \\
+
+            %\myrowcolour
+        \midrule
+
+          \textbf{f1-score}  &  0.67 &  0.76 &  0.95 &  0.99  \\
+        \midrule
+        \midrule
+        \myrowcolour
+        \textbf{Cohen's Kappa}    & \multicolumn{4}{l}{0.84} \\
+        \bottomrule
+    \end{tabular}
+    \begin{tablenotes}
+      \small
+      \item[1] As defined in
+    \end{tablenotes}
+  \end{threeparttable}
+\end{table}
+
+\end{document}
