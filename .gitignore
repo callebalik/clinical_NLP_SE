@@ -95,3 +95,4 @@ data/sweSpacy/sv_pipline-0.0.0.tar.gz
 .pylintrc
 models
 data/processed/corpus
+/backup
