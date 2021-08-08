@@ -44,17 +44,20 @@ def plot_confusion_matrix(
     im = ax.imshow(cm, interpolation="nearest", cmap=cmap)
     # ax.figure.colorbar(im, ax=ax)
     # We want to show all ticks...
+
     ax.set(
         xticks=numpy.arange(cm.shape[1]),
         yticks=numpy.arange(cm.shape[0]),
         # ... and label them with the respective list entries
-        xticklabels=classes,
-        yticklabels=classes,
         title=title,
         ylabel=ylabel,
         xlabel=xlabel,
     )
 
+    fnt = {"fontsize": 9, "fontweight": "normal"}
+
+    ax.set_xticklabels(classes, fontdict=fnt)
+    ax.set_yticklabels(classes, fontdict=fnt)
     # Rotate the tick labels and set their alignment.
     pyplot.setp(ax.get_xticklabels(), rotation=45, ha="right", rotation_mode="anchor")
 
