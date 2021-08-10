@@ -1,5 +1,4 @@
 import spacy
-import pipeline as spl
 from dataMangager.make_neg import make_neg
 from dataMangager.make_icd import make_icd
 from dataMangager.make_patterns import make_patterns
@@ -43,7 +42,7 @@ def main() -> spacy.language:
 
     icd_lower = [s.lower() for s in make_icd()]
 
-    icd_patterns = make_patterns(phrases=icd_lower, label="SYM")
+    icd_patterns = make_patterns(phrases=icd_lower, label="SYMFND")
 
     patterns = neg_patterns + icd_patterns
 
@@ -55,6 +54,25 @@ def main() -> spacy.language:
 
     ruler.add_patterns(patterns)
     return nlp
+
+
+# def
+# from scripts import app
+# import importlib
+# from spacy.tokens import DocBin
+
+# nlp = main()
+
+
+# DOCBIN_PATH = Path(f"{DATA}/processed/corpus/cur")
+# doc_bin = DocBin().from_disk(f"{DOCBIN_PATH}/1.spacy")
+# doc_bin.merge(DocBin().from_disk(f"{DOCBIN_PATH}/2.spacy"))
+
+
+# docs = list(doc_bin.get_docs(nlp.vocab))
+# # d = doc_bin.get_docs(nlp.vocab)
+
+# docs[0]
 
 
 if __name__ == "__main__":

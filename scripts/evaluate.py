@@ -35,6 +35,7 @@ def evaluate_model(model_name: str):
         + output
         + " "
         + displacy
+        + " --gold-preproc"
     )
     output = subprocess.call(f"{cmd}", shell=True)
     print(output)
