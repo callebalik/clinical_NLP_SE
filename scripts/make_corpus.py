@@ -11,7 +11,7 @@ ROOT = file_path.parent.parent
 print(ROOT)
 DATA_PATH = ROOT / "data"
 
-corpus_name = "cur"
+corpus_name = "cur_symfnd"
 
 INTERIM_CORPUS_PATH = DATA_PATH / f"interim/corpus/{corpus_name}"
 OUTPUT_CORPUS_PATH = DATA_PATH / f"processed/corpus/{corpus_name}"

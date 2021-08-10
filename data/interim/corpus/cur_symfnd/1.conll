@@ -1,0 +1,321 @@
+§Kontaktorsak _ O O
+: _ O O
+Dyspné _ O I-SYMFND
+Tidigare _ O O
+sjukdomar _ O O
+: _ O O
+Insulin _ O O
+och _ O O
+tablettbehandlad _ O O
+DM2 _ O I-DIS
+. _ O O
+
+Tablettbehandlad _ O O
+hypertoni _ O B-DIS
+. _ O O
+
+Höga _ O O
+blodfetter _ O O
+. _ O O
+
+Socialt _ O O
+: _ O O
+Ensamboende _ O O
+, _ O O
+hemtjänst _ O O
+* _ O O
+1 _ O O
+. _ O O
+
+Aktuellt _ O O
+: _ O O
+Insjuknat _ O O
+för _ O O
+tre _ O O
+dagar _ O O
+sedan _ O O
+med _ O O
+andnöd _ O I-SYMFND
+vid _ O O
+gång _ O O
+. _ O O
+
+Tillkomst _ O O
+av _ O O
+hosta _ O B-SYMFND
+under _ O O
+gårdagen _ O O
+. _ O O
+
+Ej _ O I-NEG
+noterat _ O O
+feber _ O I-SYMFND
+, _ O O
+men _ O O
+ej _ O I-NEG
+eller _ O O
+mätt _ O O
+tempen _ O O
+. _ O O
+
+Idag _ O O
+nedsatt _ O I-SYMFND
+AT _ O I-SYMFND
+, _ O O
+svårt _ O B-SYMFND
+att _ O I-SYMFND
+gå _ O I-SYMFND
+. _ O O
+
+Tagit _ O O
+sina _ O O
+mediciner _ O O
+som _ O O
+vanligt _ O O
+. _ O O
+
+Sökt _ O O
+VC _ O O
+som _ O O
+hänvisat _ O O
+hit _ O O
+pga _ O O
+destruering _ O O
+. _ O O
+
+Inte _ O I-NEG
+haft _ O O
+några _ O O
+utslag _ O I-SYMFND
+. _ O O
+
+Ej _ O I-NEG
+kontakt _ O O
+med _ O O
+någon _ O O
+annan _ O O
+som _ O O
+varit _ O O
+sjuk _ O O
+. _ O O
+
+Ej _ O B-NEG
+varit _ O O
+ute _ O O
+och _ O O
+rest _ O O
+. _ O O
+
+Ingen _ O B-NEG
+smärta _ O I-SYMFND
+vid _ O O
+miktion _ O O
+, _ O O
+buksmärta _ O B-SYMFND
+eller _ O O
+ÖNH _ O B-SYMFND
+symptom _ O I-SYMFND
+. _ O O
+
+Idag _ O O
+sämre _ O O
+, _ O O
+kan _ O O
+ej _ O I-NEG
+mobilisera _ O O
+sig _ O O
+i _ O O
+hemmet _ O O
+. _ O O
+
+Inkommer _ O O
+på _ O O
+remiss _ O O
+. _ O O
+
+Inga _ O B-NEG
+kräkningar _ O I-SYMFND
+eller _ O O
+GI _ O B-SYMFND
+symptom _ O I-SYMFND
+. _ O O
+
+Status _ O O
+: _ O O
+AT _ O O
+: _ O O
+Gott _ O O
+, _ O O
+opåverkad _ O O
+i _ O O
+vila _ O O
+, _ O O
+ingen _ O I-NEG
+samtalsdyspné _ O I-SYMFND
+. _ O O
+
+Cor _ O O
+: _ O O
+Normofrekvent _ O O
+regelbunden _ O O
+rytm _ O O
+, _ O O
+inga _ O I-NEG
+hörbara _ O O
+bi _ O O
+eller _ O O
+blåsljud _ O I-SYMFND
+. _ O O
+
+Pulm _ O O
+: _ O O
+I _ O O
+stort _ O O
+vesikulära _ O O
+antingsljud _ O O
+bilat _ O O
+, _ O O
+dämpat _ O B-SYMFND
+basalt _ O I-SYMFND
+höger _ O O
+. _ O O
+
+Inget _ O I-NEG
+förlängt _ O I-SYMFND
+expirium _ O I-SYMFND
+. _ O O
+
+Buk _ O O
+: _ O O
+Överallt _ O O
+muk _ O O
+och _ O O
+oöm _ O O
+. _ O O
+
+Ingen _ O I-NEG
+lokal _ O O
+peritonit _ O I-SYMFND
+. _ O O
+
+Lokalstatus _ O O
+: _ O O
+Underben _ O O
+smala _ O O
+och _ O O
+gracila _ O O
+, _ O O
+inga _ O I-NEG
+pittingödem _ O I-SYMFND
+. _ O O
+
+BT _ O O
+: _ O O
+117 _ O O
+/ _ O O
+80 _ O O
+Sat _ O O
+: _ O O
+92% _ O O
+på _ O O
+2l _ O O
+O2 _ O O
+AF _ O O
+: _ O O
+28 _ O O
+Temp _ O O
+: _ O O
+38.8 _ O O
+Lab _ O O
+: _ O O
+Blodgas _ O O
+utan _ O B-SYMFND
+respiratorisk _ O I-DIS
+acidos _ O I-DIS
+, _ O O
+Ph _ O O
+7,4 _ O O
+, _ O O
+CRP _ O O
+118 _ O O
+, _ O O
+diskret _ O O
+förhöjt _ O O
+BE _ O O
+. _ O O
+
+Normalt _ O O
+laktat _ O O
+Tobak _ O O
+: _ O O
+Ej _ O I-NEG
+känt _ O O
+EKG _ O O
+: _ O O
+Sinusrym _ O O
+med _ O O
+kammarfrekvens _ O O
+98 _ O O
+, _ O O
+inga _ O B-NEG
+urakuta _ O O
+ischemiska _ O I-SYMFND
+tecken _ O O
+. _ O O
+
+Bedömning _ O O
+: _ O O
+I _ O O
+första _ O O
+hand _ O O
+misstanke _ O O
+om _ O O
+penumoni _ O I-DIS
+eller _ O O
+COVID _ O B-DIS
+- _ O I-DIS
+19 _ O I-DIS
+, _ O O
+inlägges _ O O
+infektionsavdelning _ O O
+. _ O O
+
+Provtages _ O O
+SARS-CoV2 _ O O
+insättes _ O O
+cefotaxim _ O O
+. _ O O
+
+Genomodlas _ O O
+. _ O O
+
+Nya _ O O
+prover _ O O
+imorgon _ O O
+, _ O O
+CRP _ O O
+, _ O O
+LPK _ O O
+. _ O O
+
+Röntgen _ O O
+puls _ O O
+från _ O O
+avdelningen _ O O
+. _ O O
+
+Syrgaskrävande _ O I-SYMFND
+, _ O O
+2l _ O O
+. _ O O
+
+Ej _ O I-NEG
+septisk _ O I-SYMFND
+. _ O O
+
+Diagnos _ O O
+: _ O O
+Pneumoni _ O I-DIS
+, _ O O
+ospecificerad _ O O
+

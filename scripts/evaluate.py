@@ -7,7 +7,7 @@ file_path = Path(__file__).resolve()
 ROOT = file_path.parent.parent
 DATA_PATH = ROOT / "data"
 
-corpus_name = "cur"
+corpus_name = "cur_symfnd"
 CORPUS_PATH_SPACY = DATA_PATH / f"processed/corpus/{corpus_name}"
 
 
